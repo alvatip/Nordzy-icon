@@ -4,9 +4,9 @@
    <stop stop-color="#634215" offset="0"/>
    <stop stop-color="#93700d" offset="1"/>
   </linearGradient>
-  <linearGradient id="a" x1="16" x2="16" y1="2" y2="30" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ffbf1d" offset="0"/>
-   <stop stop-color="#eef052" offset="1"/>
+  <linearGradient id="a" x1="16.067" x2="16" y1="17.667" y2="30" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
   <filter id="d" x="-.0348" y="-.037286" width="1.0696" height="1.0746" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.43499999"/>

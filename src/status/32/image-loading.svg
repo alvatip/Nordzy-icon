@@ -1,11 +1,11 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.45"/>
   </filter>
   <linearGradient id="a" x1="16" x2="16" y1="1" y2="31" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eef0f0" offset="0"/>
-   <stop stop-color="#fff" offset="1"/>
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
   </linearGradient>
   <radialGradient id="b" cx="16" cy="16" r="8" gradientUnits="userSpaceOnUse">
    <stop stop-color="#b3b3b3" offset="0"/>

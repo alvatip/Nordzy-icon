@@ -4,8 +4,8 @@
    <feGaussianBlur stdDeviation="0.45"/>
   </filter>
   <linearGradient id="a" x1="16" x2="16" y1="1" y2="31" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#4192f2" offset="0"/>
-   <stop stop-color="#44d3f0" offset="1"/>
+   <stop stop-color="#88c0d0" offset="0"/>
+   <stop stop-color="#5e81ac" offset="1"/>
   </linearGradient>
   <filter id="b" x="-.04725" y="-.029077" width="1.0945" height="1.0582" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.23625264"/>
