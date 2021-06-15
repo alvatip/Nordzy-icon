@@ -2,7 +2,7 @@
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       </style>
   </defs>
@@ -12,7 +12,7 @@
     class="ColorScheme-Text"
     />
   <path
-     style="fill:#da4453;fill-opacity:1;stroke:none"
+     style="fill:#bf616a;fill-opacity:1;stroke:none"
      d="M 12 10 A 1.9999999 2.0000005 0 0 0 10 12 A 1.9999999 2.0000005 0 0 0 12 14 A 1.9999999 2.0000005 0 0 0 14 12 A 1.9999999 2.0000005 0 0 0 13.910156 11.412109 A 0.99999984 1 0 0 1 13 12 A 0.99999984 1 0 0 1 12 11 A 0.99999984 1 0 0 1 12.589844 10.089844 A 1.9999999 2.0000005 0 0 0 12 10 z "
      id="path10" />
 </svg>

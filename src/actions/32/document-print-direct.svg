@@ -5,10 +5,10 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#88c0d0;
       }
       </style>
   </defs>

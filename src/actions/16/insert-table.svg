@@ -2,10 +2,10 @@
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#88c0d0;
       }
       </style>
   </defs>
@@ -15,6 +15,6 @@
         class="ColorScheme-Text"
         />
   <path
-     style="color:#000000;fill:#1d99f3"
+     style="color:#000000;fill:#5e81ac"
      d="M 3,3 6,3 6,5 3,5 Z" />a
 </svg>

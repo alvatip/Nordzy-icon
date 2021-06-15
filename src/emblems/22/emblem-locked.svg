@@ -5,13 +5,7 @@
         .ColorScheme-Text {
             color:#232629;
         }</style>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-19.23" y="-18.999" width="15.998" height="15.998" rx="8.001" ry="8.001" fill="none" opacity=".1" stroke="#000" stroke-width="1.5"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-19.23" y="-18.999" width="15.998" height="15.998" rx="8.001" ry="8.001" fill="none" opacity=".2" stroke="#000" stroke-width=".5"/>
- <g transform="matrix(3.7794 0 0 3.7794 4.5041e-8 -1100.5)">
-  <g transform="translate(3.969,1.588)">
-   <rect transform="matrix(0,-1,-1,0,0,0)" x="-294.62" y="-1.058" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#ff8135"/>
-   <path d="m-2.117 292.24h2.117v1.323h-2.117z" fill="#fff"/>
-   <rect x="-1.72" y="291.31" width="1.323" height="1.852" ry=".661" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".265"/>
-  </g>
- </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-18.989" y="-18.999" width="15.998" height="15.998" rx="8.001" ry="8.001" fill="#d08770" stroke-width="3.7794"/>
+ <path d="m6.9994 9.9936h8.001v5.0001h-8.001z" fill="#fff" stroke-width="3.7794"/>
+ <rect x="8.4999" y="6.4787" width="5.0001" height="6.9994" ry="2.4982" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1.0015"/>
 </svg>

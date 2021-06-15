@@ -1,18 +1,21 @@
 <svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <linearGradient id="a">
-  <stop stop-color="#1d99f3" offset="0"/>
-  <stop stop-color="#3daee9" offset="1"/>
- </linearGradient>
+ <defs></defs>
  <linearGradient id="b" x1="15" x2="28" y1="16" y2="30" gradientUnits="userSpaceOnUse">
   <stop stop-color="#fcfcfc" offset="0"/>
   <stop stop-color="#eff0f1" offset="1"/>
  </linearGradient>
  <linearGradient id="d" x1="13" x2="19" y1="20" y2="26" gradientTransform="matrix(1 0 0 1.1111 0 -2.2222)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#d35400" offset="0"/>
-  <stop stop-color="#f47750" offset="1"/>
+  <stop stop-color="#d08770" offset="0"/>
+  <stop stop-color="#bf616a" offset="1"/>
  </linearGradient>
- <linearGradient id="e" x1="13" x2="19" y1="20" y2="29" gradientTransform="matrix(.66667 0 0 .44444 -1.6667 11.111)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
- <linearGradient id="f" x1="13" x2="19" y1="20" y2="29" gradientTransform="matrix(.66667 0 0 .44444 12.333 11.111)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="e" x1="13" x2="19" y1="20" y2="29" gradientTransform="matrix(.66667 0 0 .44444 -1.6667 11.111)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#5e81ac" offset="0"/>
+  <stop stop-color="#88c0d0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="f" x1="13" x2="19" y1="20" y2="29" gradientTransform="matrix(.66667 0 0 .44444 12.333 11.111)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#5e81ac" offset="0"/>
+  <stop stop-color="#88c0d0" offset="1"/>
+ </linearGradient>
  <linearGradient id="g" x1="28" x2="16" y1="17" y2="5" gradientUnits="userSpaceOnUse">
   <stop stop-color="#232629" offset="0"/>
   <stop stop-color="#31363b" offset="1"/>

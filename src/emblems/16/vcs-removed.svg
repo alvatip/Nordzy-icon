@@ -1,18 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Highlight {
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
         color:#3daee9;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z "
-       class="ColorScheme-Highlight"
-     />
- <path 
-     style="fill:#ffffff;fill-opacity:1;stroke:none" 
-     d="M 3 7 L 3 9 L 13 9 L 13 7 L 3 7 z "
-     />
+      }</style>
+ </defs>
+ <path class="ColorScheme-Highlight" d="m8 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7z" fill="#88c0d0"/>
+ <path d="m3 7v2h10v-2h-10z" fill="#fff"/>
 </svg>

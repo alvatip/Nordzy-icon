@@ -3,7 +3,7 @@
         type="text/css"
         id="current-color-scheme">
         .ColorScheme-Text {
-            color:#363636;
+            color:#2e3440;
         }
     </style><g transform="translate(1,1)">
     <path d="M18 3.707L17.293 3l-8 8 8 8 .707-.707L10.707 11zm-5 0L12.293 3l-8 8 8 8 .707-.707L5.707 11z" class="ColorScheme-Text" fill="currentColor"/>

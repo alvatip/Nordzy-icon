@@ -5,7 +5,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       </style>
     <linearGradient
@@ -110,7 +110,7 @@
        inkscape:collect="always"
        id="linearGradient4172-7">
       <stop
-         stop-color="#1d99f3"
+         stop-color="#5e81ac"
          id="stop4174-2" />
       <stop
          offset="1"

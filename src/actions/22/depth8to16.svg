@@ -2,7 +2,7 @@
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       </style>
   </defs>
@@ -14,11 +14,11 @@
   <path
      inkscape:connector-curvature="0"
      id="path8"
-     style="fill:#da4453"
+     style="fill:#bf616a"
      d="M 6,3 A 2,2 0 0 0 4,5 2,2 0 0 0 4.67969,6.5 2,2 0 0 0 4,8 2,2 0 0 0 6,10 2,2 0 0 0 8,8 2,2 0 0 0 7.32031,6.5 2,2 0 0 0 8,5 2,2 0 0 0 6,3 M 6,4 A 1,1 0 0 1 7,5 1,1 0 0 1 6,6 1,1 0 0 1 5,5 1,1 0 0 1 6,4 M 6,7 A 1,1 0 0 1 7,8 1,1 0 0 1 6,9 1,1 0 0 1 5,8 1,1 0 0 1 6,7" />
   <path
      inkscape:connector-curvature="0"
      id="path10"
-     style="fill:#1d99f3"
+     style="fill:#5e81ac"
      d="m 17,12 a 2,1.999998 0 0 0 -2,2 l 0,3 a 2,1.999998 0 0 0 2,2 2,1.999998 0 0 0 2,-2 2,1.999998 0 0 0 -2,-2 2,1.999998 0 0 0 -1,0.269531 L 16,14 a 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 l 1,0 a 2,1.999998 0 0 0 -2,-2 m 0,4 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1" />
 </svg>

@@ -4,13 +4,13 @@
   <defs id="defs4357">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       .ColorScheme-Background {
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#88c0d0;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -22,7 +22,7 @@
         color:#93cee9;
       }
       .ColorScheme-ViewFocus{
-        color:#3daee9;
+        color:#88c0d0;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -34,11 +34,11 @@
         color:#93cee9;
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        color:#88c0d0;
       }
       </style>
     <linearGradient id="linearGradient4012" inkscape:collect="always">
-      <stop id="stop4014" offset="0" style="stop-color:#1d99f3;stop-opacity:1"/>
+      <stop id="stop4014" offset="0" style="stop-color:#5e81ac;stop-opacity:1"/>
       <stop style="stop-color:#48acf5;stop-opacity:0.76119405" offset="0.41666669" id="stop4016"/>
       <stop style="stop-color:#73c0f7;stop-opacity:0" offset="0.66666329" id="stop4018"/>
       <stop id="stop4020" offset="1" style="stop-color:#cae7fc;stop-opacity:0"/>

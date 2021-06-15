@@ -5,7 +5,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       </style>
   </defs>
@@ -16,7 +16,7 @@
      class="ColorScheme-Text"
      />
   <path
-     style="fill:#da4453"
+     style="fill:#bf616a"
      id="path10"
      d="M 16,14.71 19.293,18.003 16,21.296 c 0.013,0.025 0.707,0.707 0.707,0.707 L 20,18.71 23.293,22.003 24,21.296 20.707,18.003 24,14.71 23.293,14.003 20,17.296 16.707,14.003 Z" />
 </svg>

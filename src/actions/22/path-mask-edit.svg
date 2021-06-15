@@ -5,10 +5,10 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#88c0d0;
       }
       </style>
     <linearGradient
@@ -25,7 +25,7 @@
        inkscape:collect="always"
        id="linearGradient4172-7">
       <stop
-         style="stop-color:#1d99f3;stop-opacity:1"
+         style="stop-color:#5e81ac;stop-opacity:1"
          offset="0"
          id="stop4174-2" />
       <stop

@@ -1,10 +1,10 @@
 <svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       .ColorScheme-NegativeText {
-        color:#da4453;
+        color:#bf616a;
       }</style>
  </defs>
  <path class="ColorScheme-NegativeText" d="m15.5 12a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5zm-1.668 1 1.668 1.668 1.668-1.668 0.83203 0.83203-1.668 1.668 1.668 1.668-0.83203 0.83203-1.668-1.668-1.668 1.668-0.83203-0.83203 1.668-1.668-1.668-1.668z" fill="currentColor"/>

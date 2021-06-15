@@ -5,7 +5,7 @@
         .ColorScheme-Text {
             color:#232629;
         }</style>
- <circle transform="scale(1,-1)" cx="11" cy="-11" r="8" fill="#f67400"/>
+ <circle transform="scale(1,-1)" cx="11" cy="-11" r="8" fill="#d08770"/>
  <circle cx="11" cy="15" r="1" fill="#fff"/>
  <path d="m10 13h2v-7h-2z" fill="#fff" fill-rule="evenodd"/>
 </svg>

@@ -5,8 +5,8 @@
         .ColorScheme-Text {
             color:#232629;
         }</style>
- <g transform="matrix(3.7794 0 0 3.7794 1.3524e-8 -1100.5)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-296.21" y="-5.027" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#3daee9"/>
+ <g transform="matrix(3.7794 0 0 3.7794 1.3524e-8 -1100.5)" fill="#88c0d0">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-296.21" y="-5.027" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#88c0d0"/>
  </g>
  <path d="m10 6v4h-4v2h4v4h2v-4h4v-2h-4v-4z" fill="#fff"/>
 </svg>

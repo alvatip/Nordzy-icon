@@ -1,7 +1,7 @@
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(3.9998 4)">
   <path d="m13 9c-1.108 0-2 0.892-2 2-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1 0-1.108-0.892-2-2-2zm0 1c0.554 0 1 0.446 1 1h-2c0-0.554 0.446-1 1-1z" fill="#ffffff" fill-rule="evenodd" style="paint-order:normal"/>
-  <path d="m7.1111 4v3.5556l0.22222 1.7778h1.3333l0.22222-1.7778v-3.5556zm0 6.2222v1.7778h1.7778v-1.7778z" color="#444444" fill="#ef2929"/>
+  <path d="m7.1111 4v3.5556l0.22222 1.7778h1.3333l0.22222-1.7778v-3.5556zm0 6.2222v1.7778h1.7778v-1.7778z" color="#444444" fill="#bf616a"/>
   <g transform="translate(0,2)" fill="#ffffff" stroke-width="1.5">
    <g transform="matrix(.43738 0 0 .5 -145.4 -266.68)">
     <g transform="matrix(0,-1.0825,-1.0825,0,1464.7,557.15)" fill="#ffffff" stroke-width="1.5">

@@ -9,7 +9,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g fill="#363636">
+ <g fill="#2e3440">
   <path d="m4 10v6h8v-6h-1v5h-6v-5h-1z" fill-rule="evenodd" style="paint-order:normal"/>
   <path d="m5 0c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2h-6zm0 1h6c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z" fill-rule="evenodd" style="paint-order:normal"/>
   <rect x="6" y="13" width="1" height="1" rx="0" ry="0" stroke-linecap="round" stroke-linejoin="round"/>

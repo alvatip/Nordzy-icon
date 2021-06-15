@@ -5,10 +5,10 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636;
+        color:#2e3440;
       }
       .ColorScheme-Highlight {
-        color:#3daee9;
+        color:#88c0d0;
       }
       </style>
   </defs>
@@ -22,7 +22,7 @@
        gradientUnits="userSpaceOnUse"
        x2="18">
       <stop
-         stop-color="#1d99f3"
+         stop-color="#5e81ac"
          id="stop33" />
       <stop
          offset=".417"
