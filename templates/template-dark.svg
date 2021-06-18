@@ -1,111 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="64"
-   height="64"
-   viewBox="0 0 16.933333 16.933334"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="template-dark.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="5.921875"
-     inkscape:cx="31.915567"
-     inkscape:cy="31.915567"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     units="px"
-     width="64px"
-     inkscape:object-paths="true"
-     showguides="true"
-     inkscape:guide-bbox="true" />
-  <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1338">
-      <stop
-         style="stop-color:#2e3440;stop-opacity:1;"
-         offset="0"
-         id="stop1334" />
-      <stop
-         style="stop-color:#4c566a;stop-opacity:1"
-         offset="1"
-         id="stop1336" />
-    </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1178"
-       x="-0.027000001"
-       y="-0.027000001"
-       width="1.054"
-       height="1.054">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.17264063"
-         id="feGaussianBlur1180" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1338"
-       id="linearGradient1340"
-       x1="8.5011082"
-       y1="16.007292"
-       x2="8.489006"
-       y2="0.79374951"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g1333">
-      <rect
-         style="opacity:0.15;fill:#2e3440;stroke-width:1.2489;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter1178)"
-         id="rect1086"
-         width="15.345834"
-         height="15.345834"
-         x="0.79374999"
-         y="0.79374999"
-         rx="3.0526316"
-         ry="3.0526316" />
-      <rect
-         style="fill:url(#linearGradient1340);fill-opacity:1;stroke-width:1.22737;stroke-linecap:round;stroke-linejoin:round"
-         id="rect866"
-         width="15.08125"
-         height="15.08125"
-         x="0.92604154"
-         y="0.92604154"
-         rx="3"
-         ry="3" />
-      <rect
-         style="opacity:0.15;fill:none;stroke-width:1.05203;stroke-linecap:round;stroke-linejoin:round"
-         id="rect1204"
-         width="16.924318"
-         height="16.926664"
-         x="0.012149866"
-         y="0.0060174158" />
-    </g>
-  </g>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
 </svg>

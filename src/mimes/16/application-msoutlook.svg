@@ -1,1 +1,38 @@
-<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16"><path fill="#3c56a0" d="M2 3c-.554 0-1 .446-1 1v8c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V4c0-.554-.446-1-1-1zm0 1h.293l3.641 3.641L2.198 12h-.197zm1.707 0h8.586L8 8.293zm10 0H14v8h-.197l-3.736-4.359zm-7.06 4.35l1.357 1.357L9.361 8.35 12.488 12H3.517z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg892"
+   sodipodi:docname="application-msoutlook.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs896" />
+  <sodipodi:namedview
+     id="namedview894"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="44.75"
+     inkscape:cx="2.2122905"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg892" />
+  <path
+     fill="#3c56a0"
+     d="M2 3c-.554 0-1 .446-1 1v8c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V4c0-.554-.446-1-1-1zm0 1h.293l3.641 3.641L2.198 12h-.197zm1.707 0h8.586L8 8.293zm10 0H14v8h-.197l-3.736-4.359zm-7.06 4.35l1.357 1.357L9.361 8.35 12.488 12H3.517z"
+     id="path890"
+     style="fill:#5e81ac" />
+</svg>
