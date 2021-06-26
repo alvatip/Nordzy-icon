@@ -3,18 +3,18 @@
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
-  <linearGradient id="linearGradient3633" x1="43.001" x2="43.001" y1="60.533" y2="31.999" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient3633" x1="43.001" x2="43.001" y1="60.533" y2="31.999" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#e5e9f0" offset="0"/>
    <stop stop-color="#4c566a" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4135" x1="12.023" x2="12.023" y1="8.4662" y2=".89899" gradientUnits="userSpaceOnUse">
    <stop stop-color="#2e3440" offset="0"/>
    <stop stop-color="#ebcb8b" offset="0"/>
-   <stop stop-color="#bf616a" offset="1"/>
+   <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4575" x1="4.945" x2="4.945" y1="8.4662" y2=".87923" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d08770" offset="0"/>
-   <stop stop-color="#bf616a" offset="1"/>
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4647" x1="4.8307" x2="4.8307" y1="16.017" y2="8.4662" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ebcb8b" offset="0"/>
@@ -38,45 +38,43 @@
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
   <rect transform="matrix(.99138 0 0 1 .065339 -.0030172)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
-  <path transform="scale(.26458)" d="m60.39 31.999v17.151c0 7.3656-6.542 11.34-10.617 11.339l-17.972-0.0069s-2.8e-4 -5.0502-2.8e-4 -11.332v-17.151" fill="url(#linearGradient3633)" stroke="#2e3440" stroke-width=".5"/>
+  <path d="m15.978 8.4663v4.5378c0 1.9488-1.7309 3.0003-2.809 3.0001l-4.755-0.0018s-7.41e-5 -1.3362-7.41e-5 -2.9982v-4.5378" fill="url(#linearGradient3633)" stroke="#4c566a" stroke-width=".13229"/>
   <rect x=".0045001" y=".003" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
- <g stroke="#2e3440">
-  <g transform="matrix(1.0028 0 0 .99722 .070948 .070948)" fill="#2e3440" filter="url(#filter896)" opacity=".25" stroke-width=".13229" aria-label="+">
-   <path d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z"/>
-  </g>
-  <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229">
+ <path transform="matrix(1.0028 0 0 .99722 .070948 .070948)" d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z" fill="#2e3440" filter="url(#filter896)" opacity=".25" stroke="#2e3440" stroke-width=".13229"/>
+ <g stroke="#4c566a" stroke-width=".13229">
+  <g stroke-linecap="round" stroke-linejoin="round">
    <path d="m8.4138 0.92451h4.5377c1.9488 0 3.0339 1.7258 3.0335 2.8007l-0.0018 4.741s-1.3697 7.38e-5 -3.0317 7.38e-5h-4.5377" fill="url(#linearGradient4135)"/>
    <path d="m0.89696 8.4664v-4.5377c0-1.9488 1.6835-3.0004 2.7616-3l4.7551 0.00183s7.4e-5 1.3362 7.4e-5 2.9982v4.5376" fill="url(#linearGradient4575)"/>
    <path d="m0.89696 8.4664v4.5377c0 1.9488 1.6835 3.0004 2.7616 3l4.7551-0.0018s7.4e-5 -1.3362 7.4e-5 -2.9982v-4.5377" fill="url(#linearGradient4647)"/>
   </g>
-  <path d="m15.978 8.4664h-15.091" fill="none" stroke-width=".13229"/>
+  <path d="m15.978 8.4664h-15.091" fill="none"/>
  </g>
- <g fill="#2e3440">
+ <g fill="#4c566a">
   <g transform="matrix(1.0028 0 0 .99722 .11825 .11825)" filter="url(#filter958)" opacity=".25" stroke="#2e3440" stroke-width=".13229" style="mix-blend-mode:normal" aria-label="+">
-   <path d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z" fill="#2e3440"/>
+   <path d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z" fill="#4c566a"/>
   </g>
-  <g transform="scale(1.0028 .99722)" stroke="#2e3440" stroke-width=".13229" aria-label="+">
-   <path d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z"/>
+  <g transform="scale(1.0028 .99722)" stroke="#4c566a" stroke-width=".13229" aria-label="+">
+   <path d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z" fill="#4c566a" stroke="#4c566a"/>
   </g>
   <g transform="translate(.11825 .11825)" filter="url(#filter1028)" opacity=".25" stroke-width=".42489" aria-label="X">
-   <path d="m5.1677 12.201 1.1463 1.6863h-0.88741l-0.77233-1.1286-0.76569 1.1286h-0.89183l1.1463-1.6863-1.1021-1.6177h0.88962l0.72365 1.0644 0.72143-1.0644h0.89405z"/>
+   <path d="m5.1677 12.201 1.1463 1.6863h-0.88741l-0.77233-1.1286-0.76569 1.1286h-0.89183l1.1463-1.6863-1.1021-1.6177h0.88962l0.72365 1.0644 0.72143-1.0644h0.89405z" fill="#4c566a"/>
   </g>
   <g stroke-width=".42489" aria-label="X">
-   <path d="m5.1677 12.201 1.1463 1.6863h-0.88741l-0.77233-1.1286-0.76569 1.1286h-0.89183l1.1463-1.6863-1.1021-1.6177h0.88962l0.72365 1.0644 0.72143-1.0644h0.89405z"/>
+   <path d="m5.1677 12.201 1.1463 1.6863h-0.88741l-0.77233-1.1286-0.76569 1.1286h-0.89183l1.1463-1.6863-1.1021-1.6177h0.88962l0.72365 1.0644 0.72143-1.0644h0.89405z" fill="#4c566a"/>
   </g>
-  <g stroke="#2e3440" stroke-width=".13229">
+  <g stroke="#4c566a" stroke-width=".13229">
    <g transform="matrix(1.0039 0 0 .99613 .11825 .11825)" filter="url(#filter1054)" opacity=".25" aria-label="=">
-    <path d="m10.652 11.475h2.9942v0.54886h-2.9942zm0 1.0627h2.9942v0.55354h-2.9942z"/>
+    <path d="m10.652 11.475h2.9942v0.54886h-2.9942zm0 1.0627h2.9942v0.55354h-2.9942z" fill="#4c566a" stroke="#4c566a"/>
    </g>
    <g transform="scale(1.0039 .99613)" aria-label="=">
-    <path d="m10.652 11.475h2.9942v0.54886h-2.9942zm0 1.0627h2.9942v0.55354h-2.9942z"/>
+    <path d="m10.652 11.475h2.9942v0.54886h-2.9942zm0 1.0627h2.9942v0.55354h-2.9942z" fill="#4c566a" stroke="#4c566a"/>
    </g>
    <g transform="matrix(1.5713 0 0 .63642 .11825 .11825)" filter="url(#filter1002)" opacity=".25" aria-label="-">
-    <path d="m6.7962 6.9295h1.9354v0.89683h-1.9354z"/>
+    <path d="m6.7962 6.9295h1.9354v0.89683h-1.9354z" fill="#4c566a" stroke="#4c566a"/>
    </g>
    <g transform="scale(1.5713 .63642)" aria-label="-">
-    <path d="m6.7962 6.9295h1.9354v0.89683h-1.9354z"/>
+    <path d="m6.7962 6.9295h1.9354v0.89683h-1.9354z" fill="#4c566a" stroke="#4c566a"/>
    </g>
   </g>
  </g>

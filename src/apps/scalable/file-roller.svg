@@ -16,12 +16,6 @@
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#2e3440" offset="1"/>
   </radialGradient>
-  <pattern id="pattern20962" width="4.2870872" height="4.8982351" patternTransform="translate(463.13 -12.582)" patternUnits="userSpaceOnUse">
-   <g transform="translate(-468.57 19.189)">
-    <rect x="468.57" y="-17.52" width="2.1605" height="3.2294" fill="url(#radialGradient19506)"/>
-    <rect x="470.7" y="-19.189" width="2.1605" height="3.2294" fill="url(#radialGradient19506)"/>
-   </g>
-  </pattern>
   <pattern id="pattern20962-6" width="4.2870872" height="4.8982351" patternTransform="translate(463.13 -12.582)" patternUnits="userSpaceOnUse">
    <g transform="translate(-468.57 19.189)">
     <rect x="468.57" y="-17.52" width="2.1605" height="3.2294" fill="url(#radialGradient19506)"/>
@@ -39,7 +33,6 @@
   <rect x=".017008" y=".011338" width="63.966" height="63.977" fill="none" opacity=".15" stroke-width="3.9761"/>
   <rect x="3.4999" y="3.4999" width="57" height="57" rx="11.339" ry="11.339" fill="url(#linearGradient1391)" stroke-width="4.6391"/>
  </g>
- <rect x="456.88" y="-2.8005" width="29.849" height="4.9654" fill="url(#pattern20962)" opacity=".06"/>
  <rect transform="rotate(90)" x="3.4999" y="-35.246" width="30.74" height="6.4923" fill="#2e3440"/>
  <rect transform="rotate(90)" x="3.4999" y="-34.483" width="6.0695" height="4.9654" fill="url(#pattern21992)"/>
  <rect transform="rotate(90)" x="9.5252" y="-34.483" width="6.0695" height="4.9654" fill="url(#pattern22484)"/>

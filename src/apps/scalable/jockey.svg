@@ -1,9 +1,5 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient3487">
-   <stop stop-color="#2e3440" stop-opacity=".25" offset="0"/>
-   <stop stop-color="#2e3440" stop-opacity="0" offset="1"/>
-  </linearGradient>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
@@ -15,8 +11,11 @@
    <stop stop-color="#2e3440" offset="0"/>
    <stop stop-color="#4c566a" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4426" x1="39.58" x2="39.58" y1="17.903" y2="20.147" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3487"/>
-  <filter id="filter7332" x="-.075" y="-.075" width="1.15" height="1.15" color-interpolation-filters="sRGB">
+  <linearGradient id="linearGradient4426" x1="39.58" x2="39.58" y1="17.903" y2="20.147" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" stop-opacity=".25" offset="0"/>
+   <stop stop-color="#2e3440" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter7332" x="-.075002" y="-.075002" width="1.15" height="1.15" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.2671959"/>
   </filter>
  </defs>
@@ -33,7 +32,6 @@
   </g>
  </g>
  <rect x=".0045001" y=".003" width="16.924" height="16.927" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.052"/>
- <image x="15.999" y="-25.698" width="82.903" height="26.621" preserveAspectRatio="none" xlink:href="file:///home/alexandre/Downloads/jockey.jpeg"/>
  <g transform="translate(.16723 .20067)" fill="#2e3440" filter="url(#filter7332)" opacity=".25" style="mix-blend-mode:normal">
   <g transform="matrix(.81608 0 0 .81608 -37.661 -13.353)">
    <rect x="52.7" y="22.905" width="7.6516" height="7.6516" ry=".97104"/>
