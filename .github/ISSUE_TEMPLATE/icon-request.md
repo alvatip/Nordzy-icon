@@ -2,7 +2,7 @@
 name: Icon request
 about: Request a missing icon's application
 title: "[ICON]"
-labels: icon request
+labels: enhancement, icon request
 assignees: ''
 
 ---
