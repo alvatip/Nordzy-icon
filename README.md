@@ -1,32 +1,46 @@
-<img src="https://github.com/vinceliuice/Sierra-gtk-theme/blob/imgs/logo.png" alt="Logo" align="right" /> WhiteSur Icon Theme
-======
+ Nordzy Icon Theme
+=======
 
-MacOS Big Sur like icon theme for linux desktops
+![application and mime-types preview](preview1.png)
+![folders preview](preview2.png)
 
-## Install tips
+
+
+Nordzy is a free and open source  icon theme for Linux desktops using the [Nord](https://github.com/arcticicestudio/nord) color palette from [Arctic Ice Studio](https://github.com/arcticicestudio) and based on [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme). <br/>
+Currently there is not that much icons, I'll take requests for which app icons I should put in next. If I get no requests I take (almost) randomly from the long list of apps and put it in as I go. <br/>
+
+## Installation
 
 Usage:  `./install.sh`  **[OPTIONS...]**
 
 |  OPTIONS:           | |
 |:--------------------|:-------------|
-|-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
-|-n, --name           | Specify theme name (Default: WhiteSur)|
-|-h, --help           | Show this help|
+|-d, --dest  DIR         | Specify theme destination directory (Default: $HOME/.icons)|
+|-n, --name  NAME  | Specify theme name (Default: Nordzy)|
+|-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)
+|-h, --help                 | Show  help|
 
-> **Note for snaps:** To use these icons with snaps, the best way is to make a copy of the application's .desktop located in `/var/lib/snapd/desktop/applications/name-of-the-snap-application.desktop` into `$HOME/.local/share/applications/`. Then use any text editor and change the "Icon=" to "Icon=name-of-the-icon.svg"
+## Icon request
+
+When submitting an icon request, please give the following information: <br/>
+* Application name
+* Icon name if you know it
+* Original icon image
+* Use tray? Tray icon name (again, if you know it).
+* Small description and/or a link to the official webpage.
+
+## Contributing
+
+Help is always welcome.
+
+* Create a new icon for missing applications
+* Make a symlink to an existing icon
+* Edit an existing icon
+* Script improvement
+* Spelling, grammar, ...
+* ...
 
 
-## Requirment
-You can use this with:
+## License
 
-### GTK theme
-
-WhiteSur-gtk-theme: https://github.com/vinceliuice/WhiteSur-gtk-theme
-
-### KDE theme
-
-WhiteSur-kde: https://github.com/vinceliuice/WhiteSur-kde
-
-## Preview
-![1](preview.png)
-![2](preview01.png)
+GNU General Public License v3.0.
