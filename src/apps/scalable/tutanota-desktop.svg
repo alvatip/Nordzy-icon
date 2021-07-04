@@ -1,0 +1,22 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.3017" x2="8.355" y1="16.007" y2="1.0572" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" stop-opacity=".7" offset="0"/>
+   <stop stop-color="#bf616a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3723" x1="9.5203" x2="9.5399" y1="15.664" y2="5.4614" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e5e9f0" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 0)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".93433" y=".93433" width="15.064" height="15.064" rx="2.9967" ry="2.9967" fill="#2e3440" stroke-width="1.226"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <path d="m1.1657 14.188 2.1772-0.92323c2.8723-1.218 3.8275-1.5923 4.8158-2.234 1.4323-0.93 1.7379-1.7397 0.93682-2.4825-0.3398-0.31511-0.64459-0.4826-1.7203-0.94532-0.52594-0.22625-1.0357-0.46342-1.1328-0.52705-0.412-0.26995-0.068653-0.72065 0.70191-0.92136 0.22728-0.059194 0.89441-0.13993 1.4825-0.17941 1.3908-0.093354 1.7352-0.1387 1.9711-0.2595 0.22391-0.11468 0.24762-0.27273 0.07073-0.47141-0.12206-0.1371-0.12071-0.13745 0.09752-0.02587 0.29199 0.1493 0.3481 0.3148 0.18283 0.53925-0.19655 0.26692-0.725 0.41108-1.8056 0.49254-1.377 0.10381-1.8288 0.33938-1.1624 0.60609 0.16533 0.066168 0.92123 0.25886 1.6798 0.4282 2.0831 0.46505 3.2643 0.84028 4.0038 1.2719 0.85894 0.50131 1.4245 1.2978 1.8731 2.1772 0.3174 0.62228 0.44213 0.95393 0.69029 2.4261-0.03786 0.67812-0.26835 1.1334-0.51169 1.5214-0.06839 0.12407-0.83745 1.2986-2.3878 1.3484l-9.204 0.0024c-0.96281 0.017906-2.2412-0.55477-2.7834-1.8438z" fill="url(#linearGradient3723)" stroke-width=".070728"/>
+</svg>
