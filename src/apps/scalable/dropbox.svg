@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1082">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e81ac" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1084" x1="656.82" x2="665.8" y1="28.023" y2="1133.1" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1082"/>
+  <filter id="filter1508" x="-.069368" y="-.081628" width="1.1387" height="1.1633" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="38.537813"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="translate(-.092958 -.28774)" clip-rule="evenodd" fill-rule="evenodd" shape-rendering="geometricPrecision">
+  <g transform="matrix(.0085102 0 0 .0085102 3.0159 4.0758)" fill="#2e3440" filter="url(#filter1508)" image-rendering="optimizeQuality" opacity=".25">
+   <path d="M 667.53,212.92 333.76,425.84 667.53,638.76 333.76,851.68 0,637.61 333.76,424.69 0,212.92 333.76,0 Z M 332.04,920.15 665.8,707.23 999.56,920.15 665.8,1133.07 Z M 667.53,637.6 1001.29,424.68 667.53,212.91 999.57,-0.01 1333.34,212.91 999.57,425.83 1333.34,638.75 999.57,851.67 Z" fill="#2e3440" fill-rule="nonzero"/>
+  </g>
+  <g transform="matrix(.0085102 0 0 .0085102 2.7712 3.7961)" fill="url(#linearGradient1084)" image-rendering="optimizeQuality">
+   <path d="M 667.53,212.92 333.76,425.84 667.53,638.76 333.76,851.68 0,637.61 333.76,424.69 0,212.92 333.76,0 Z M 332.04,920.15 665.8,707.23 999.56,920.15 665.8,1133.07 Z M 667.53,637.6 1001.29,424.68 667.53,212.91 999.57,-0.01 1333.34,212.91 999.57,425.83 1333.34,638.75 999.57,851.67 Z" fill="url(#linearGradient1084)" fill-rule="nonzero"/>
+  </g>
+ </g>
+</svg>
