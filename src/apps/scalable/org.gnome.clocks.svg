@@ -1,0 +1,45 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2312" x1="1.0051" x2="2.3962" y1="-8.4436" y2="-15.123" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#d8dee9" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter2917" x="-.087411" y="-.065675" width="1.1748" height="1.1314" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.2871969"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g fill="#2e3440" filter="url(#filter2917)">
+  <g transform="translate(.074159 .19776)" fill="#2e3440" opacity=".5">
+   <rect transform="matrix(.8445 .53556 -.3664 .93046 0 0)" x="10.853" y="3.0156" width=".61879" height="6.187" ry=".35636" opacity="1"/>
+   <rect transform="matrix(-.75801 .65224 -.78075 -.62484 0 0)" x="1.0051" y="-11.995" width=".71664" height="3.5517" ry=".35832" opacity="1"/>
+   <rect transform="matrix(.51723 .85584 -.74274 .66958 0 0)" x="11.931" y="-9.3679" width=".61879" height="6.187" ry=".35636" opacity="1"/>
+   <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" opacity="1"/>
+   <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" opacity=".6"/>
+   <ellipse cx="8.4665" cy="8.4665" rx=".47378" ry=".51634"/>
+  </g>
+ </g>
+ <rect transform="matrix(.8445 .53556 -.3664 .93046 0 0)" x="10.853" y="3.0156" width=".61879" height="6.187" ry=".35636" fill="#bf616a"/>
+ <rect transform="matrix(-.75801 .65224 -.78075 -.62484 0 0)" x="1.0051" y="-11.995" width=".71664" height="3.5517" ry=".35832" fill="url(#linearGradient2312)"/>
+ <rect transform="matrix(.51723 .85584 -.74274 .66958 0 0)" x="11.931" y="-9.3679" width=".61879" height="6.187" ry=".35636" fill="#d8dee9"/>
+ <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" fill="#2e3440"/>
+ <ellipse cx="8.4665" cy="8.4665" rx=".9669" ry="1.0537" fill="#d8dee9" opacity=".6"/>
+ <ellipse cx="8.4665" cy="8.4665" rx=".47378" ry=".51634" fill="#2e3440"/>
+ <g fill="#d8dee9">
+  <rect x="12.474" y="8.1945" width="1.9343" height=".5441" ry=".23509"/>
+  <rect x="2.5063" y="8.1945" width="1.9343" height=".5441" ry=".23509"/>
+  <rect transform="rotate(90)" x="2.5978" y="-8.7386" width="1.9343" height=".5441" ry=".23509"/>
+  <rect transform="rotate(90)" x="12.375" y="-8.7386" width="1.9343" height=".5441" ry=".23509"/>
+ </g>
+</svg>
