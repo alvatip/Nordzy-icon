@@ -1,9 +1,9 @@
  Nordzy Icon Theme
 =======
 
-![application and mime-types preview](preview1.png)
+![applications preview](preview1.png)
 ![folders preview](preview2.png)
-
+![folders preview](preview3.png)
 
 
 Nordzy is a free and open source  icon theme for Linux desktops using the [Nord](https://github.com/arcticicestudio/nord) color palette from [Arctic Ice Studio](https://github.com/arcticicestudio) and based on [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme). <br/>
@@ -19,6 +19,12 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-n, --name  NAME  | Specify theme name (Default: Nordzy)|
 |-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)
 |-h, --help                 | Show  help|
+
+## Other ressources
+
+[Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) cursors theme. </br> 
+[Nordic](https://github.com/EliverLara/Nordic) GTK theme.
+
 
 ## Icon request
 
