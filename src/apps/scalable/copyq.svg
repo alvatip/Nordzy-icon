@@ -1,0 +1,30 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="15.264" y2="1.5411" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a3be8c" offset="0"/>
+   <stop stop-color="#8fbcbb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(.61759 -.48357 .47859 .62402 -20.71 31.724)">
+  <path d="m50.194-0.26925-4.2856 7.626c-4.7226-4.9862 1.5099-10.422 3.7828-8.374 0.34542 0.33116 0.63257 0.36506 0.50281 0.74792z" fill="#2e3440"/>
+  <path d="m49.551-0.37791-3.7509 6.5125c-3.7512-5.3711 4.5795-9.1035 3.7509-6.5125z" fill="#d8dee9"/>
+  <path d="m45.595-0.23397 4.2856 7.626c4.7226-4.9862-1.7502-11.037-3.7828-8.374-0.34542 0.33116-0.63257 0.36506-0.50281 0.74792z" fill="#2e3440"/>
+  <path d="m46.238-0.34263 3.7509 6.5125c3.7512-5.3711-4.5795-9.1035-3.7509-6.5125z" fill="#d8dee9"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <path d="m44.757-6.9737a3.5677 3.609 0 0 0-3.5677 3.609 3.5677 3.609 0 0 0 3.5677 3.609 3.5677 3.609 0 0 0 3.037-1.7198 3.5677 3.609 0 0 0 3.0375 1.7208 3.5677 3.609 0 0 0 3.5677-3.609 3.5677 3.609 0 0 0-3.5677-3.6085 3.5677 3.609 0 0 0-3.0354 1.7172 3.5677 3.609 0 0 0-3.039-1.7187z" fill="#2e3440" stroke-width=".25837"/>
+   <path d="m44.833-6.4345a3.0785 3.0625 0 0 0-3.0788 3.0628 3.0785 3.0625 0 0 0 3.0788 3.0623 3.0785 3.0625 0 0 0 2.9589-2.2241 3.0785 3.0625 0 0 0 2.9631 2.2396 3.0785 3.0625 0 0 0 3.0783-3.0623 3.0785 3.0625 0 0 0-3.0783-3.0628 3.0785 3.0625 0 0 0-2.9584 2.221 3.0785 3.0625 0 0 0-2.9636-2.2365z" fill="#a3be8c" stroke-width=".24892"/>
+   <ellipse cx="44.783" cy="-3.3642" rx="1.2708" ry="1.2643" fill="#2e3440" stroke-width=".22452"/>
+   <ellipse cx="50.751" cy="-3.3642" rx="1.2708" ry="1.2643" fill="#2e3440" stroke-width=".22452"/>
+   <ellipse cx="44.783" cy="-3.3642" rx=".75042" ry=".74657" fill="#eceff4" stroke-width=".13258"/>
+   <ellipse cx="50.751" cy="-3.3642" rx=".75042" ry=".74657" fill="#eceff4" stroke-width=".13258"/>
+  </g>
+ </g>
+</svg>

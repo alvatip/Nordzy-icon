@@ -3,7 +3,7 @@
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
-  <linearGradient id="linearGradient1752" x1="7.6451" x2="7.617" y1="4.1008" y2=".97084" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient1752" x1="7.6451" x2="7.617" y1="4.1008" y2=".97084" gradientTransform="matrix(1.005 0 0 1.005 -.042332 -.01213)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#4c566a" offset="0"/>
    <stop stop-color="#3b4554" stop-opacity="0" offset=".2563"/>
    <stop stop-color="#81a1c1" stop-opacity="0" offset="1"/>
@@ -38,10 +38,10 @@
    <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3v8.7002c0 1.662-1.338 3-3 3h-9.081c-1.662 0-3-1.338-3-3v-8.7002c0-1.662 1.338-3 3-3z" fill="#d8dee9"/>
    <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3v8.7002c0 1.662-1.338 3-3 3h-9.081c-1.662 0-3-1.338-3-3v-8.7002c0-1.662 1.338-3 3-3z" fill="url(#linearGradient4433)" opacity=".25"/>
    <path d="m16.007 11.66c0 1.662-1.338 3-3 3h-9.081c-1.662 0-3-1.338-3-3 0-4.5968 13.763-4.4371 15.081-1.4179 0.0668 0.15302 0 1.2555 0 1.4179z" fill="url(#linearGradient14964)"/>
-   <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3v6.6824c-1.5351 2.7218-1.6476 2.5499-4.0583 4.0583h-8.0227c-1.662 0-3-1.338-3-3v-7.7407c0-1.662 1.338-3 3-3z" fill="url(#linearGradient4095)"/>
-   <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3h-15.081c0-1.662 1.338-3 3-3z" fill="#5e81ac"/>
-   <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3h-15.081c0-1.662 1.338-3 3-3z" fill="url(#linearGradient1752)"/>
+   <path d="m3.926 0.95058h9.081c1.662 0 2.9694 1.3135 2.9755 2.9755l0.02454 6.6824c-1.5351 2.7218-1.6476 2.5499-4.0583 4.0583h-8.0227c-1.662 0-3.0053-1.338-3-3l0.024541-7.7407c0.005269-1.662 1.3135-2.9755 2.9755-2.9755z" fill="url(#linearGradient4095)"/>
   </g>
+  <path d="m3.9033 0.91854h9.1264c1.6703 0 3.015 1.3447 3.015 3.015h-15.156c0-1.6703 1.3447-3.015 3.015-3.015z" fill="#5e81ac" stroke-width="1.2335"/>
+  <path d="m3.9033 0.91854h9.1264c1.6703 0 3.015 1.3447 3.015 3.015h-15.156c0-1.6703 1.3447-3.015 3.015-3.015z" fill="url(#linearGradient1752)" stroke-width="1.2335"/>
  </g>
  <g transform="translate(-.049439 .1236)" fill="#2e3440" filter="url(#filter7596)" opacity=".37">
   <g transform="translate(0 -.52916)">

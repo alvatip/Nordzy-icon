@@ -1,0 +1,57 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <filter id="filter1419" x="-.11626" y="-.10083" width="1.2325" height="1.2017" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.15835745"/>
+  </filter>
+  <filter id="filter1472" x="-.12568" y="-.09468" width="1.2822" height="1.2126" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.64624237"/>
+  </filter>
+  <linearGradient id="linearGradient1855" x1="-10.315" x2="-10.33" y1="9.8257" y2="1.6641" gradientTransform="translate(18.614 .00087989)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#eceff4" offset=".046044"/>
+   <stop stop-color="#88c0d0" offset=".050743"/>
+   <stop stop-color="#88c0d0" offset=".08103"/>
+   <stop stop-color="#88c0d0" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2759" x1="-10.313" x2="-10.315" y1="9.8716" y2="8.0291" gradientTransform="translate(18.614 .27691)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#88c0d0" offset="0"/>
+   <stop stop-color="#88c0d0" offset=".08103"/>
+   <stop stop-color="#88c0d0" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter3358" x="-.0096066" y="-.015982" width="1.0192" height="1.032" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.055904261"/>
+  </filter>
+  <filter id="filter3362" x="-.0082543" y="-.06027" width="1.0165" height="1.1205" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.048034939"/>
+  </filter>
+  <filter id="filter3563" x="-.055258" y="-2.3722" width="1.1105" height="5.7445" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.32156645"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+  <rect x="1.4833" y="1.4833" width="13.967" height="13.967" rx="2.7783" ry="2.7783" fill="#2e3440" stroke-width="1.1367"/>
+  <path d="m15.45 8.2426v1.9128h-13.967v-1.9128z" fill="url(#linearGradient2759)" filter="url(#filter3362)" stroke-width="1.1367"/>
+ </g>
+ <g transform="matrix(.71176 0 0 .71176 17.309 1.3276)">
+  <g transform="translate(.098162 .14724)" fill="#2e3440" filter="url(#filter1472)" opacity=".25">
+   <path d="m-9.5713 18.147h-9.0716v-16.381h12.341v12.612" opacity="1"/>
+   <path d="m-9.5713 18.147v-3.7691h3.269" filter="url(#filter1419)" opacity=".25"/>
+   <path d="m-9.5713 18.147v-3.7691h3.269" opacity="1"/>
+  </g>
+  <path d="m-9.5713 18.147h-9.0716v-16.381h12.341v12.612" fill="#eceff4"/>
+  <path d="m-9.5713 18.147v-3.7691h3.269" fill="#2e3440" filter="url(#filter1419)" opacity=".25"/>
+  <path d="m-9.5713 18.147v-3.7691h3.269" fill="#d8dee9"/>
+ </g>
+ <path transform="matrix(.97225 0 0 1 .2276 0)" d="m15.45 9.5112v0.32533h-13.967v-0.32533z" fill="#2e3440" filter="url(#filter3563)" style="mix-blend-mode:normal"/>
+ <path d="m4.2616 1.4842h8.4099c1.5392 0 2.7783 1.2391 2.7783 2.7783v5.6169h-13.967v-5.6169c0-1.5392 1.2391-2.7783 2.7783-2.7783z" fill="url(#linearGradient1855)" filter="url(#filter3358)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1367"/>
+</svg>
