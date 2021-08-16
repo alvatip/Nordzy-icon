@@ -1,78 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   viewBox="0 0 24 24"
-   id="svg22"
-   sodipodi:docname="state-ok.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview24"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0" />
-  <defs
-     id="defs8">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-        color:#eceff4ff
-      }</style>
-    <linearGradient
-       id="linearGradient4181"
-       x1="399.99"
-       x2="399.99"
-       y1="545.14"
-       y2="518.14"
-       gradientTransform="matrix(.42857 0 0 .42857 -159.67 -213.41)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#a3be8c"
-         offset="0"
-         id="stop3" />
-      <stop
-         stop-color="#8fbcbb"
-         offset="1"
-         id="stop5" />
-    </linearGradient>
-  </defs>
-  <g
-     transform="translate(5.0533,-5)"
-     id="g20">
-    <g
-       transform="translate(-5.0535,2.5)"
-       id="g12">
-      <path
-         class="ColorScheme-Text"
-         d="m12.017 6.0001c-2.2914 0-4.2336 1.5534-4.8355 3.6582-0.52315-1.1164-1.6568-1.8985-2.9626-1.8985-1.7958 0-3.272 1.4762-3.272 3.272s1.4762 3.2727 3.272 3.2727c1.3058 0 2.4395-0.7826 2.9626-1.8992 0.60194 2.1049 2.5441 3.6588 4.8355 3.6588 2.2745 0 4.2067-1.5305 4.8241-3.6117 0.53282 1.0912 1.6525 1.852 2.9397 1.852 1.7958 0 3.2727-1.4769 3.2727-3.2727s-1.4769-3.272-3.2727-3.272c-1.2873 0-2.4069 0.76029-2.9397 1.8513-0.61734-2.081-2.5496-3.611-4.8241-3.611zm0 1.9207c1.7298 0 3.1116 1.3812 3.1116 3.1109s-1.3818 3.1116-3.1116 3.1116-3.1109-1.3818-3.1109-3.1116 1.3812-3.1109 3.1109-3.1109zm-7.7982 1.7597c0.75785 0 1.3519 0.5934 1.3519 1.3513 0 0.75784-0.59408 1.3519-1.3519 1.3519-0.75785 0-1.3513-0.59408-1.3513-1.3519 0-0.75785 0.59341-1.3513 1.3513-1.3513zm15.562 0c0.75785 0 1.3519 0.5934 1.3519 1.3513 0 0.75784-0.59408 1.3519-1.3519 1.3519-0.75784 0-1.3513-0.59408-1.3513-1.3519 0-0.75785 0.59341-1.3513 1.3513-1.3513z"
-         color="#000000"
-         color-rendering="auto"
-         fill="currentColor"
-         image-rendering="auto"
-         shape-rendering="auto"
-         stroke="#2e3440"
-         stroke-width=".3"
-         id="path10" />
-    </g>
-    <g
-       transform="translate(0,5)"
-       id="g18">
-      <circle
-         cx="12"
-         cy="14.5"
-         r="6"
-         fill="url(#linearGradient4181)"
-         id="circle14" />
-      <path
-         d="m15.52 12.474-0.64088-0.64088c-0.08792-0.08798-0.19481-0.13194-0.32044-0.13194-0.12569 0-0.23258 0.04396-0.3205 0.13194l-3.0914 3.0961-1.3855-1.3902c-0.087976-0.08798-0.19481-0.13194-0.32044-0.13194-0.12569 0-0.23252 0.04396-0.3205 0.13194l-0.64088 0.64088c-0.087976 0.08798-0.13194 0.19481-0.13194 0.3205 0 0.12563 0.043959 0.23252 0.13194 0.32044l1.7059 1.7059 0.64094 0.64088c0.08792 0.08798 0.19475 0.13194 0.32044 0.13194 0.12563 0 0.23246-0.04402 0.32044-0.13194l0.64094-0.64088 3.4118-3.4118c0.08792-0.08798 0.13194-0.19481 0.13194-0.3205 5.8e-5 -0.12563-0.04402-0.23246-0.13194-0.32044z"
-         fill="#fff"
-         fill-opacity=".85081"
-         id="path16" />
-    </g>
-  </g>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { 
+    color:#2e3440;
+} .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m11 1.375a9.625 9.625 0 0 0-9.625 9.625 9.625 9.625 0 0 0 9.625 9.625 9.625 9.625 0 0 0 9.625-9.625 9.625 9.625 0 0 0-9.625-9.625zm4.3752 4.7641 1.9442 1.9444-5.8334 5.8329-1.9443 1.9442-1.9444-1.9442-2.9165-2.9164 1.9444-1.9444 2.9165 2.9165z" fill="currentColor" stroke-width="1.375"/>
 </svg>

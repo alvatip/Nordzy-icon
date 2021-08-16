@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   viewBox="0 0 24 24"
-   id="svg22"
-   sodipodi:docname="state-warning.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview24"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0" />
-  <defs
-     id="defs8">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-        color:#eceff4ff
-      }</style>
-    <linearGradient
-       id="linearGradient4160-4"
-       x1="2"
-       x2="46.54"
-       y1="1028.4"
-       y2="1031.1"
-       gradientTransform="matrix(.27273 0 0 .27273 -21.787 -269.42)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#d08770"
-         offset="0"
-         id="stop3" />
-      <stop
-         stop-color="#ebcb8b"
-         offset="1"
-         id="stop5" />
-    </linearGradient>
-  </defs>
-  <g
-     transform="translate(5.0536 -5.0001)"
-     id="g20">
-    <g
-       transform="translate(-5.0538 2.5001)"
-       id="g12">
-      <path
-         class="ColorScheme-Text"
-         d="m12.017 6.0001c-2.2914 0-4.2336 1.5534-4.8355 3.6582-0.52315-1.1164-1.6568-1.8985-2.9626-1.8985-1.7958 0-3.272 1.4762-3.272 3.272s1.4762 3.2727 3.272 3.2727c1.3058 0 2.4395-0.7826 2.9626-1.8992 0.60194 2.1049 2.5441 3.6588 4.8355 3.6588 2.2745 0 4.2067-1.5305 4.8241-3.6117 0.53282 1.0912 1.6525 1.852 2.9397 1.852 1.7958 0 3.2727-1.4769 3.2727-3.2727s-1.4769-3.272-3.2727-3.272c-1.2873 0-2.4069 0.76029-2.9397 1.8513-0.61734-2.081-2.5496-3.611-4.8241-3.611zm0 1.9207c1.7298 0 3.1116 1.3812 3.1116 3.1109s-1.3818 3.1116-3.1116 3.1116-3.1109-1.3818-3.1109-3.1116 1.3812-3.1109 3.1109-3.1109zm-7.7982 1.7597c0.75785 0 1.3519 0.5934 1.3519 1.3513 0 0.75784-0.59408 1.3519-1.3519 1.3519-0.75785 0-1.3513-0.59408-1.3513-1.3519 0-0.75785 0.59341-1.3513 1.3513-1.3513zm15.562 0c0.75785 0 1.3519 0.5934 1.3519 1.3513 0 0.75784-0.59408 1.3519-1.3519 1.3519-0.75784 0-1.3513-0.59408-1.3513-1.3519 0-0.75785 0.59341-1.3513 1.3513-1.3513z"
-         color="#000000"
-         color-rendering="auto"
-         fill="currentColor"
-         image-rendering="auto"
-         shape-rendering="auto"
-         stroke="#2e3440"
-         stroke-width=".3"
-         id="path10" />
-    </g>
-    <g
-       transform="translate(0,5)"
-       id="g18">
-      <circle
-         transform="rotate(266.31)"
-         cx="-15.242"
-         cy="11.042"
-         r="6"
-         fill="url(#linearGradient4160-4)"
-         id="circle14" />
-      <path
-         d="m11.998 11.228c-0.30124 0-0.54297 0.2418-0.54297 0.543v3.8223c0 0.3013 0.24173 0.5429 0.54297 0.5429h0.0039c0.30124 0 0.54297-0.2416 0.54297-0.5429v-3.8223c0-0.3012-0.24173-0.543-0.54297-0.543zm2e-3 6c-0.30218 0-0.54492 0.2428-0.54492 0.545 0 0.3021 0.24274 0.5449 0.54492 0.5449s0.54492-0.2428 0.54492-0.5449c0-0.3022-0.24274-0.545-0.54492-0.545z"
-         fill="#fff"
-         id="path16" />
-    </g>
-  </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+.ColorScheme-NeutralText { 
+    color:#d08770;
+} .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+ </defs>
+ <path class="ColorScheme-NeutralText" d="m7.9238 1.002c-0.4797 0.0289-0.9139 0.3272-1.1543 0.7929l-2.789 5.4082-2.791 5.4099c-0.1189 0.231-0.184 0.492-0.1895 0.758-0.0189 0.893 0.6222 1.628 1.4199 1.629h11.158c1.094 0 1.777-1.326 1.231-2.387l-2.789-5.4099-2.7895-5.4082c-0.2422-0.4689-0.6808-0.7677-1.1641-0.7929-0.0475-0.00272-0.0951-0.00272-0.1426 0zm-0.9238 3.998h2v5h-2zm0 6h2v2h-2z" fill="currentColor"/>
 </svg>

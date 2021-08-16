@@ -1,20 +1,8 @@
-<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#eceff4ff
-      }</style>
-  <linearGradient id="linearGradient4160-4" x1="2" x2="46.54" y1="1028.4" y2="1031.1" gradientTransform="matrix(.27273 0 0 .27273 -21.787 -269.42)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d08770" offset="0"/>
-   <stop stop-color="#ebcb8b" offset="1"/>
-  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { 
+    color:#2e3440;
+} .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
  </defs>
- <g transform="translate(5.0536 -5.0001)">
-  <g transform="translate(-5.0538 2.5001)">
-   <path class="ColorScheme-Text" d="m12.017 6.0001c-2.2914 0-4.2336 1.5534-4.8355 3.6582-0.52315-1.1164-1.6568-1.8985-2.9626-1.8985-1.7958 0-3.272 1.4762-3.272 3.272s1.4762 3.2727 3.272 3.2727c1.3058 0 2.4395-0.7826 2.9626-1.8992 0.60194 2.1049 2.5441 3.6588 4.8355 3.6588 2.2745 0 4.2067-1.5305 4.8241-3.6117 0.53282 1.0912 1.6525 1.852 2.9397 1.852 1.7958 0 3.2727-1.4769 3.2727-3.2727s-1.4769-3.272-3.2727-3.272c-1.2873 0-2.4069 0.76029-2.9397 1.8513-0.61734-2.081-2.5496-3.611-4.8241-3.611zm0 1.9207c1.7298 0 3.1116 1.3812 3.1116 3.1109s-1.3818 3.1116-3.1116 3.1116-3.1109-1.3818-3.1109-3.1116 1.3812-3.1109 3.1109-3.1109zm-7.7982 1.7597c0.75785 0 1.3519 0.5934 1.3519 1.3513 0 0.75784-0.59408 1.3519-1.3519 1.3519-0.75785 0-1.3513-0.59408-1.3513-1.3519 0-0.75785 0.59341-1.3513 1.3513-1.3513zm15.562 0c0.75785 0 1.3519 0.5934 1.3519 1.3513 0 0.75784-0.59408 1.3519-1.3519 1.3519-0.75784 0-1.3513-0.59408-1.3513-1.3519 0-0.75785 0.59341-1.3513 1.3513-1.3513z" color="#000000" color-rendering="auto" fill="currentColor" image-rendering="auto" shape-rendering="auto" stroke="#2e3440" stroke-width=".3"/>
-  </g>
-  <g transform="translate(0,5)">
-   <circle transform="matrix(-.064329 -.99793 .99793 -.064329 0 0)" cx="-15.242" cy="11.042" r="6" fill="url(#linearGradient4160-4)"/>
-   <path d="m12.857 17.5h1.7143v-6h-1.7143m-3.4286 6h1.7143v-6h-1.7143z" fill="#fff"/>
-  </g>
- </g>
+ <path class="ColorScheme-Text" d="m12 1.5c-5.799 0-10.5 4.701-10.5 10.5s4.701 10.5 10.5 10.5 10.5-4.701 10.5-10.5-4.701-10.5-10.5-10.5zm-4.5 4.5h3v12h-3zm6 0h3v12h-3z" fill="currentColor" stroke-width="1.5"/>
 </svg>
