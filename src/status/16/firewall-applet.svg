@@ -1,46 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   height="16"
-   width="16"
-   version="1.1"
-   id="svg6"
-   sodipodi:docname="firewall-applet.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="52.0625"
-     inkscape:cx="7.9903962"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <defs
-     id="defs1">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-            .ColorScheme-Text {
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
                 color:#232629;
-            }
-        </style>
-  </defs>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     class="ColorScheme-Text"
-     d="M9 10h5v3H9zM2 2v3h6V2zm7 0v3h5V2zM2 6v3h2V6zm3 0v3h6V6zm7 0v3h2V6zM2 10v3h6v-3z"
-     id="path4" />
+            }</style>
+ </defs>
+ <path d="m2.6766 1.6784v4.7944c0.025552 1.8075 0.13149 3.3046 0.89595 4.4098 0.92147 1.326 2.453 2.4959 4.4274 3.4389 1.9702-0.94088 3.5115-2.1125 4.4311-3.4389 0.76444-1.1052 0.86666-2.6024 0.89225-4.4098v-4.7944" fill="#fff" stroke-width=".45766"/>
 </svg>

@@ -1,6 +1,6 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#81a1c1; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#eceff4ff; } .ColorScheme-Highlight { color:#81a1c1; }</style>
  </defs>
  <circle class="ColorScheme-Highlight" cx="13" cy="2" r="2" fill="#5e81ac"/>
  <path class="ColorScheme-Highlight" d="m5.5 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h1.5v-1.5a1.5 1.5 0 0 0-1.5-1.5zm4 0a1.5 1.5 0 0 0-1.5 1.5v4a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-1.2676a3 3 0 0 1-1-2.2324 3 3 0 0 1 0.484-1.6289 1.5 1.5 0 0 0-0.984-0.37109zm-8 4a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h4a1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm13.131 0.5156a3 3 0 0 1-1.631 0.4844 3 3 0 0 1-0.859-0.127 1.5 1.5 0 0 0-0.141 0.627v1.5h1.5a1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-0.369-0.9844zm-13.131 3.4844a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-1.5zm4 0a1.5 1.5 0 0 0-1.5 1.5v4a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-4a1.5 1.5 0 0 0-1.5-1.5zm4 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h4a1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm-1.5 4v1.5a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5z" fill="#5e81ac"/>

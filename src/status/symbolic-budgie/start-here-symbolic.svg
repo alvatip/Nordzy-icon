@@ -1,17 +1,16 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#2e3440; }</style>
  </defs>
- <g transform="matrix(.7844 0 0 .7844 2.2057 2.6999)" fill="#2e3440" stroke="#2e3440">
-  <g fill="#2e3440" stroke="#2e3440" stroke-linecap="round" stroke-linejoin="round">
-   <g stroke-width=".35" aria-label="inux">
-    <path d="m5.8479 11.274h0.70592v4.2969h-0.70592zm0-1.6727h0.70592v0.89391h-0.70592z"/>
-    <path d="m11.603 12.977v2.5935h-0.70592v-2.5705q0-0.61001-0.23786-0.9131t-0.71359-0.30309q-0.57164 0-0.90159 0.36447-0.32994 0.36447-0.32994 0.99366v2.4285h-0.70976v-4.2969h0.70976v0.66756q0.25321-0.38749 0.59466-0.57932 0.34529-0.19183 0.79416-0.19183 0.74045 0 1.1203 0.46038 0.37982 0.45655 0.37982 1.3466z"/>
-    <path d="m12.938 13.875v-2.6012h0.70592v2.5743q0 0.61001 0.23786 0.91693 0.23786 0.30309 0.7136 0.30309 0.57164 0 0.90159-0.36447 0.33378-0.36447 0.33378-0.99366v-2.4362h0.70592v4.2969h-0.70592v-0.65988q-0.25705 0.39133-0.5985 0.58315-0.33762 0.18799-0.78649 0.18799-0.74045 0-1.1241-0.46038t-0.38365-1.3466z"/>
-    <path d="m21.562 11.274-1.5538 2.0909 1.6344 2.206h-0.83253l-1.2507-1.6881-1.2507 1.6881h-0.83253l1.6689-2.2482-1.5269-2.0487h0.83253l1.1395 1.5308 1.1394-1.5308z"/>
-   </g>
-   <path d="m0.80512 15.232h3.6136" stroke-width=".99706"/>
-   <path d="m4.6319 5.4809-3.8516 8.0989"/>
-  </g>
+ <g transform="matrix(.97545 0 0 .97545 3.0997 3.1986)">
+  <rect id="rect9379" x="6.3487" y="6.2477" width="3.5" height="3.5" ry=".7197" fill="#2e3440" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.8832"/>
+  <use id="use9483" transform="translate(1.2e-7,-6.0001)" width="100%" height="100%" fill="#2e3440" xlink:href="#rect9379"/>
+  <use id="use9485" transform="translate(6.0001)" width="100%" height="100%" fill="#eceff4" xlink:href="#use9483"/>
+  <use id="use9487" transform="translate(-12)" width="100%" height="100%" fill="#d8dee9" xlink:href="#use9485"/>
+  <use id="use9489" transform="translate(1.2e-7,6.0001)" width="100%" height="100%" fill="#2e3440" xlink:href="#use9487"/>
+  <use id="use9491" transform="translate(1.2e-7,6.0001)" width="100%" height="100%" fill="#2e3440" xlink:href="#use9489"/>
+  <use id="use9493" transform="translate(6.0001)" width="100%" height="100%" fill="#2e3440" xlink:href="#use9491"/>
+  <use id="use9495" transform="translate(6.0001,-6.0001)" width="100%" height="100%" fill="#2e3440" xlink:href="#use9493"/>
+  <use transform="translate(1.2e-7,6.0001)" width="100%" height="100%" fill="#2e3440" xlink:href="#use9495"/>
  </g>
 </svg>
