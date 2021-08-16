@@ -2,5 +2,5 @@
  <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx="3.002" ry="3" fill="#a3be8c"/>
  <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx="3.002" ry="3" fill="#2e3440" opacity=".2"/>
  <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-15" width="14" height="14" rx="2" ry="2" fill="#a3be8c"/>
- <path d="M 12.658,3.5 7,9.156 4.172,6.328 2.758,7.742 7,11.984 8.414,10.57 14.072,4.914 Z" fill="#fff"/>
+ <path d="M 12.658,3.5 7,9.156 4.172,6.328 2.758,7.742 7,11.984 8.414,10.57 14.072,4.914 Z" fill="#2e3440"/>
 </svg>

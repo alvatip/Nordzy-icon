@@ -2,8 +2,8 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; }
 .ColorScheme-NegativeText { 
-    color:#2e3440;
+    color:#bf616a;
 }</style>
  </defs>
- <path class="ColorScheme-NegativeText" d="m11 1.375c-5.3158 0-9.625 4.3092-9.625 9.625s4.3092 9.625 9.625 9.625 9.625-4.3092 9.625-9.625-4.3092-9.625-9.625-9.625zm-1.375 4.125h2.75v6.875h-2.75zm0 8.25h2.75v2.75h-2.75z" fill="currentColor" stroke-width="1.375"/>
+ <path class="ColorScheme-NegativeText" d="m11 1.375c-5.3158 0-9.625 4.3092-9.625 9.625s4.3092 9.625 9.625 9.625 9.625-4.3092 9.625-9.625-4.3092-9.625-9.625-9.625zm-1.375 4.125h2.75v6.875h-2.75zm0 8.25h2.75v2.75h-2.75z" fill="currentColor" stroke-width="1.375" style=""/>
 </svg>
