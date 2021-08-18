@@ -1,6 +1,0 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx="3.002" ry="3" fill="#a3be8c"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx="3.002" ry="3" fill="#4c566a" opacity=".15"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-15" width="14" height="14" rx="2.002" ry="2" fill="#a3be8c"/>
- <path d="m7 12v-5h-2l3-3 3 3h-2v5z" fill="#2e3440" fill-rule="evenodd"/>
-</svg>

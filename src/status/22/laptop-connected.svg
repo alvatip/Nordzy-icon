@@ -1,6 +1,4 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#2e3440ff; } .ColorScheme-Highlight { color:#81a1c1; }</style>
- </defs>
- <path d="m11.002 3a8 8 0 0 0-8.002 8.002 8 8 0 0 0 8.002 7.998 8 8 0 0 0 7.998-7.998 8 8 0 0 0-7.998-8.002zm-3.852 5.09h7.7a0.57 0.57 0 0 1 0.554 0.525v5.016h0.846v0.293a0.86 0.86 0 0 1-0.875 0.875h-8.75a0.86 0.86 0 0 1-0.875-0.875v-0.293h0.875v-5.016c0-0.291 0.234-0.525 0.525-0.525z" fill="#a3be8c"/>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" style="enable-background:new">
+ <path d="m 2 17 0 1 c 0 0.554 0.753 1 1.688 1 l 14.625 0 c 0.935 0 1.688 -0.446 1.688 -1 l 0 -1 -7 0 0 1 -4 0 0 -1 z" style="fill:#ececec;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ <path d="m 5 2 c -1.645 0 -3 1.355 -3 3 l 0 8 c 0 1.645 1.355 3 3 3 l 12 0 c 1.645 0 3 -1.355 3 -3 l 0 -8 c 0 -1.645 -1.355 -3 -3 -3 l -12 0 z m 0 2 12 0 c 0.571 0 1 0.429 1 1 l 0 8 c 0 0.571 -0.429 1 -1 1 l -12 0 c -0.571 0 -1 -0.429 -1 -1 l 0 -8 c 0 -0.571 0.429 -1 1 -1 z" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#ececec;opacity:1;image-rendering:auto;fill-opacity:1;text-rendering:auto;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB"/>
 </svg>

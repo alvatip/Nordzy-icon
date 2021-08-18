@@ -1,5 +1,0 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx="3.002" ry="3" fill="#bf616a"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-15" width="14" height="14" rx="2.002" ry="2" fill="#d08770"/>
- <path d="M 3.05,4.4 6.586,7.935 3.05,11.471 4.464,12.885 8,9.349 11.536,12.885 12.95,11.471 9.414,7.935 12.95,4.4 11.536,2.985 8,6.521 4.464,2.986 Z" fill="#2e3440"/>
-</svg>
