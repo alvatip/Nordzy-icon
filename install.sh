@@ -63,7 +63,7 @@ install() {
   if [[ ${color} == '' ]]; then
     mkdir -p                                                                               ${THEME_DIR}/status
     cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/status/{16,22,24,32,symbolic}                                     ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable,symbolic}                            ${THEME_DIR}/status
     cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
 
     if [[ $DESKTOP_SESSION == '/usr/share/xsessions/budgie-desktop' ]]; then
@@ -96,7 +96,7 @@ install() {
     # Change icon color for dark theme
     sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
     sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
+    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
 
     # copy the links for the above icons
     cp -r ${SRC_DIR}/links/actions/{16,22,24,32,symbolic}                              ${THEME_DIR}/actions
@@ -123,6 +123,7 @@ install() {
     ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
     ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
     ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
+    ln -s ../../${name}${theme}/status/scalable ${name}${theme}-dark/status/scalable
   fi
 
   (
