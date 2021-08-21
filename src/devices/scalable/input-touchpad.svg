@@ -1,8 +1,8 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient862-3-3" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="translate(-2.5389e-7)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#676767" offset="0"/>
-   <stop stop-color="#c6c6c6" offset="1"/>
+   <stop stop-color="#7b88a1" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
   </linearGradient>
  </defs>
  <g shape-rendering="auto">
@@ -13,6 +13,6 @@
   <path d="m1.0583 11.906v0.59234c0 1.9386 1.5729 3.4993 3.3318 3.4993h8.1603c1.7589 0 3.3243-1.5608 3.3243-3.4993v-0.58095c-0.0056 2.0952-1.5372 3.7801-3.4395 3.7801h-7.9368c-1.9058 0-3.44-1.691-3.44-3.7915z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".05" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
  </g>
  <rect x="1.0583" y="1.05" width="14.817" height="14.817" rx="3.44" ry="3.44" fill="url(#linearGradient862-3-3)"/>
- <rect x="1.0583" y="10.319" width="14.816" height=".26458" rx="0" ry="5.7983e-7" opacity=".25" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687"/>
- <rect x="8.3342" y="10.583" width=".26458" height="5.2916" rx="0" ry="0" opacity=".25" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687"/>
+ <rect x="1.0583" y="10.319" width="14.816" height=".26458" rx="0" ry="5.7983e-7" fill="#2e3440" opacity=".25" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687"/>
+ <rect x="8.3342" y="10.583" width=".26458" height="5.2916" rx="0" ry="0" fill="#2e3440" opacity=".25" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687"/>
 </svg>
