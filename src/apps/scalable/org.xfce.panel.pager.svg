@@ -1,0 +1,49 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient3633" x1="54.415" x2="35.676" y1="55.466" y2="34.478" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4135" x1="9.2337" x2="14.458" y1="7.7705" y2="2.2094" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7b88a1" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4575" x1="7.1684" x2="2.3389" y1="7.3931" y2="1.8499" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e81ac" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4647" x1="2.5411" x2="7.7245" y1="14.727" y2="9.0267" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#7b88a1" offset="1"/>
+  </linearGradient>
+  <filter id="filter896" x="-.047015" y="-.046944" width="1.094" height="1.0939" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.037244878"/>
+  </filter>
+  <linearGradient id="linearGradient12014" x1="10.739" x2="14.008" y1="10.488" y2="13.909" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <filter id="filter12310" x="-.10808" y="-.10792" width="1.2162" height="1.2158" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.2062924"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .065339 -.0030172)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <path d="m15.978 8.4663v4.5378c0 1.9488-1.7309 3.0003-2.809 3.0001l-4.755-0.0018s-7.41e-5 -1.3362-7.41e-5 -2.9982v-4.5378" fill="url(#linearGradient3633)" stroke="#4c566a" stroke-width=".13229"/>
+  <rect x=".0045001" y=".003" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <path transform="matrix(1.0028 0 0 .99722 .070948 .070948)" d="m4.9495 3.054v1.3521h1.347v0.60897h-1.347v1.3521h-0.61413v-1.3521h-1.347v-0.60897h1.347v-1.3521z" fill="#2e3440" filter="url(#filter896)" opacity=".25" stroke="#2e3440" stroke-width=".13229"/>
+ <g stroke="#4c566a" stroke-width=".13229">
+  <g stroke-linecap="round" stroke-linejoin="round">
+   <path d="m8.4138 0.92451h4.5377c1.9488 0 3.0339 1.7258 3.0335 2.8007l-0.0018 4.741s-1.3697 7.38e-5 -3.0317 7.38e-5h-4.5377" fill="url(#linearGradient4135)"/>
+   <path d="m0.89696 8.4664v-4.5377c0-1.9488 1.6835-3.0004 2.7616-3l4.7551 0.00183s7.4e-5 1.3362 7.4e-5 2.9982v4.5376" fill="url(#linearGradient4575)"/>
+   <path d="m0.89696 8.4664v4.5377c0 1.9488 1.6835 3.0004 2.7616 3l4.7551-0.0018s7.4e-5 -1.3362 7.4e-5 -2.9982v-4.5377" fill="url(#linearGradient4647)"/>
+  </g>
+  <path d="m15.978 8.4664h-15.091" fill="none"/>
+ </g>
+ <text x="9.2343693" y="14.685351" fill="#2e3440" filter="url(#filter12310)" font-family="sans-serif" font-size="7.3177px" letter-spacing="0px" opacity=".4" stroke-width=".68603" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="9.2343693" y="14.685351" fill="#2e3440" font-family="sans-serif" font-weight="bold" stroke-width=".68603">+</tspan></text>
+ <text x="9.1302509" y="14.529174" fill="url(#linearGradient12014)" font-family="sans-serif" font-size="7.3177px" letter-spacing="0px" stroke-width=".68603" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="9.1302509" y="14.529174" fill="url(#linearGradient12014)" font-family="sans-serif" font-weight="bold" stroke-width=".68603">+</tspan></text>
+</svg>

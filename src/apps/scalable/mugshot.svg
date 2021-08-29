@@ -1,0 +1,42 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient30049" x1="8.5972" x2="8.655" y1="1.6119" y2="12.837" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <filter id="filter46244" x="-.10274" y="-.11383" width="1.2055" height="1.2277" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.48803062"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+  <path d="m4.1531 1.3031h8.627c1.5789 0 2.85 1.2711 2.85 2.85v9.3141h-14.327v-9.3141c0-1.5789 1.2711-2.85 2.85-2.85z" fill="url(#linearGradient30049)" stroke-width="1.166"/>
+ </g>
+ <g fill="none" stroke="#2e3440" stroke-linecap="round">
+  <path d="m2.2034 3.5292h12.418" stroke-width=".052916"/>
+  <g stroke-width=".052916">
+   <path d="m2.2034 4.5875h12.418"/>
+   <path d="m2.2034 5.6458h12.418"/>
+   <path d="m2.2034 6.7041h12.418"/>
+   <path d="m2.2034 7.7624h12.418"/>
+  </g>
+ </g>
+ <path d="m6.2826 8.4657c-0.19112-0.30059-0.54737-0.71344-0.54737-1.0706a0.5752 0.5752 0 0 1 0.38594-0.52232c-0.017627-0.30059-0.029688-0.60675-0.029688-0.91012 0-0.17906 0-0.35997 0.010205-0.53717a1.7544 1.7544 0 0 1 0.060304-0.33306 1.9149 1.9149 0 0 1 0.85446-1.0855 2.5049 2.5049 0 0 1 0.46387-0.22173c0.29595-0.10669 0.14937-0.60118 0.4713-0.60768 0.7524-0.01948 1.9891 0.66891 2.4715 1.1912a1.9093 1.9093 0 0 1 0.49264 1.2376l-0.03062 1.3174a0.43233 0.43233 0 0 1 0.31636 0.26998c0.10298 0.41656-0.32842 0.93332-0.52882 1.2645-0.18555 0.30523-0.8925 1.2924-0.8925 1.2988a0.2607 0.2607 0 0 0 0.063087 0.15308c1.0975 1.5085 4.3233 0.55665 4.3233 3.557h-11.4c0-3.0013 3.2267-2.0475 4.3233-3.5561 0.053809-0.07886 0.078858-0.12246 0.077931-0.15679 0-0.01948-0.81271-1.169-0.88507-1.2849z" fill="#2e3440" filter="url(#filter46244)" opacity=".45" stroke-width=".092775"/>
+ <g fill="none" stroke="#2e3440" stroke-linecap="round" stroke-width=".052916">
+  <path d="m2.2034 8.8207h12.418"/>
+  <path d="m2.2034 9.879h12.418"/>
+  <path d="m2.2034 10.937h12.418"/>
+  <path d="m2.2034 11.996h12.418"/>
+ </g>
+ <text x="2.59481" y="15.299383" font-family="sans-serif" font-size="2.0632px" letter-spacing="0px" stroke-width=".19342" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="2.59481" y="15.299383" fill="#e5e9f0" stroke-width=".19342">011256852</tspan></text>
+ <path d="m6.2826 8.4657c-0.19112-0.30059-0.54737-0.71344-0.54737-1.0706a0.5752 0.5752 0 0 1 0.38594-0.52232c-0.017627-0.30059-0.029688-0.60675-0.029688-0.91012 0-0.17906 0-0.35997 0.010205-0.53717a1.7544 1.7544 0 0 1 0.060304-0.33306 1.9149 1.9149 0 0 1 0.85446-1.0855 2.5049 2.5049 0 0 1 0.46387-0.22173c0.29595-0.10669 0.14937-0.60118 0.4713-0.60768 0.7524-0.01948 1.9891 0.66891 2.4715 1.1912a1.9093 1.9093 0 0 1 0.49264 1.2376l-0.03062 1.3174a0.43233 0.43233 0 0 1 0.31636 0.26998c0.10298 0.41656-0.32842 0.93332-0.52882 1.2645-0.18555 0.30523-0.8925 1.2924-0.8925 1.2988a0.2607 0.2607 0 0 0 0.063087 0.15308c1.0975 1.5085 4.3233 0.55665 4.3233 3.557h-11.4c0-3.0013 3.2267-2.0475 4.3233-3.5561 0.053809-0.07886 0.078858-0.12246 0.077931-0.15679 0-0.01948-0.81271-1.169-0.88507-1.2849z" fill="#2e3440" stroke-width=".092775"/>
+</svg>

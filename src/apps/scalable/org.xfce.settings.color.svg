@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.01281" y="-.0127" width="1.0256" height="1.0254" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <filter id="filter1786" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.565"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round" style="mix-blend-mode:multiply">
+  <path transform="scale(.26458)" d="m14.84 3.5c-6.2817 0-11.34 5.0581-11.34 11.34v34.322c0 6.2817 5.0581 11.338 11.34 11.338h34.322c6.2817 0 11.338-5.0562 11.338-11.338v-34.322c0-6.2817-5.0562-11.34-11.338-11.34h-34.322zm17.16 5.9453a12.613 13.978 0 0 1 12.613 13.979 12.613 13.978 0 0 1-0.44726 3.6621 12.613 13.978 0 0 1 9.3418 13.49 12.613 13.978 0 0 1-12.611 13.979 12.613 13.978 0 0 1-8.8965-4.0898 12.613 13.978 0 0 1-8.8945 4.0898 12.613 13.978 0 0 1-12.613-13.979 12.613 13.978 0 0 1 9.3418-13.49 12.613 13.978 0 0 1-0.44726-3.6621 12.613 13.978 0 0 1 12.613-13.979z" fill="#2e3440" filter="url(#filter1786)" opacity=".3" stroke-width="4.6391"/>
+  <path transform="scale(.26458)" d="m14.688 3.8442h34.625c6.3367 0 11.438 5.1458 11.438 11.538v34.927c0 6.3918-5.1014 11.538-11.438 11.538h-34.625c-6.3367 0-11.438-5.1458-11.438-11.538v-34.927c0-6.3918 5.1014-11.538 11.438-11.538z" fill="none" filter="url(#filter1178)" opacity=".2" stroke-width="4.7" style="mix-blend-mode:normal"/>
+  <path transform="scale(.26458)" d="m14.84 3.5c-6.2817 0-11.34 5.0581-11.34 11.34v34.322c0 6.2817 5.0581 11.338 11.34 11.338h34.322c6.2817 0 11.338-5.0562 11.338-11.338v-34.322c0-6.2817-5.0562-11.34-11.338-11.34h-34.322zm17.16 5.9453a12.613 13.978 0 0 1 12.613 13.979 12.613 13.978 0 0 1-0.44726 3.6621 12.613 13.978 0 0 1 9.3418 13.49 12.613 13.978 0 0 1-12.611 13.979 12.613 13.978 0 0 1-8.8965-4.0898 12.613 13.978 0 0 1-8.8945 4.0898 12.613 13.978 0 0 1-12.613-13.979 12.613 13.978 0 0 1 9.3418-13.49 12.613 13.978 0 0 1-0.44726-3.6621 12.613 13.978 0 0 1 12.613-13.979z" fill="url(#linearGradient1340)" stroke-width="4.6391"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g style="mix-blend-mode:screen">
+  <ellipse cx="8.465" cy="6.1997" rx="3.337" ry="3.6984" fill="#a3be8c" stroke-linecap="round" stroke-linejoin="round" stroke-width=".036794"/>
+ </g>
+ <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".036794" style="mix-blend-mode:screen">
+  <ellipse cx="10.818" cy="10.738" rx="3.337" ry="3.6984" fill="#b54a55" style="mix-blend-mode:screen"/>
+  <ellipse cx="6.1114" cy="10.738" rx="3.337" ry="3.6984" fill="#5e81ac"/>
+ </g>
+</svg>

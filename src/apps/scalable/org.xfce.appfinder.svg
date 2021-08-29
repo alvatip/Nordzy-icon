@@ -1,0 +1,35 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.3544" x2="8.3996" y1="15.556" y2="1.2372" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c-3" x1="42.137" x2="45.252" y1="45.492" y2="42.441" gradientTransform="matrix(.28006 0 0 .28006 -.34756 -.58136)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#242424" offset="0"/>
+   <stop stop-color="#6a6a6a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b-5" x1="26.752" x2="27.555" y1="43.539" y2="14.105" gradientTransform="matrix(.28006 0 0 .28006 -.34756 -.58136)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#696969" offset="0"/>
+   <stop stop-color="#979797" offset="1"/>
+  </linearGradient>
+  <filter id="filter2055" x="-.14461" y="-.14461" width="1.2785" height="1.2785" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41308517"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="translate(-.024966 .099328)">
+  <g fill="none">
+   <path d="m11.303 7.4771a3.6967 3.6967 0 0 1-3.6967 3.6967 3.6967 3.6967 0 0 1-3.6967-3.6967 3.6967 3.6967 0 0 1 3.6967-3.6967 3.6967 3.6967 0 0 1 3.6967 3.6967zm1.7864 5.4829-2.096-2.096m0.13999 0.13999-0.83842-0.83842" filter="url(#filter2055)" opacity=".5" stroke="#2e3440" stroke-width=".67216"/>
+   <path d="m11.133 11.004-0.83842-0.83842" color="#000000" stroke="#888" stroke-width=".67216"/>
+   <path d="m13.089 12.96-2.096-2.096" color="#000000" stroke="url(#c-3)" stroke-width="1.0082"/>
+  </g>
+  <circle cx="7.6059" cy="7.4771" r="3.6967" color="#000000" fill="#fff" fill-opacity=".54292" stroke="url(#b-5)" stroke-width=".67216"/>
+ </g>
+</svg>

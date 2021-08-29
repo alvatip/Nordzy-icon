@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e81ac" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1574" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(1.4577 0 0 1.4577 -3.8781 -3.8708)" fill="url(#linearGradient1574)" stroke-width=".68276">
+  <path d="m5.3389 6.4854a0.21166 0.21166 0 0 0-0.12769 0.021161 0.24648 0.24648 0 0 0-0.15022 0.21303c-6.813e-4 0.092178 0.064876 0.1707 0.15022 0.2137l2.3467 0.72509-0.021161 1.6864-0.83229 2.4955c-0.079894 0.11404-0.055302 0.24443 0.064179 0.3209 0.11948 0.07509 0.30451 0.04916 0.38371-0.06418l1.3232-2.6887 1.3225 2.6887a0.25057 0.25057 0 0 0 0.34138 0.08534c0.12426-0.06828 0.17752-0.20278 0.1072-0.3209l-0.81111-2.5173-0.042332-1.5574 2.3897-0.85345a0.25126 0.25126 0 0 0 0.08534-0.29905c-0.04165-0.10379-0.16113-0.16183-0.21917-0.15566l-3.1735 0.5189z"/>
+  <path d="m8.5178 4.7143c-0.48681 0-0.87394 0.37893-0.87394 0.85345 0 0.47452 0.38713 0.87462 0.87394 0.87462s0.8753-0.4001 0.8753-0.87462c0-0.47452-0.38849-0.85345-0.8753-0.85345z"/>
+ </g>
+</svg>
