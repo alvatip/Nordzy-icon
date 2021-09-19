@@ -1,0 +1,49 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1313" x1="8.2364" x2="8.24" y1="1.1606" y2="3.5817" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6495" x1="12.05" x2="12.066" y1="1.9716" y2="2.8515" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#eac57b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6567" x1="13.286" x2="13.275" y1="1.9581" y2="2.8476" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a3be8c" offset="0"/>
+   <stop stop-color="#97b67c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6639" x1="14.461" x2="14.467" y1="1.9502" y2="2.8203" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" offset="0"/>
+   <stop stop-color="#b54a55" offset="1"/>
+  </linearGradient>
+  <style>.cls-1{fill-rule:evenodd;}</style>
+  <linearGradient id="linearGradient4244" x1="30.848" x2="29.533" y1="9.3428" y2="6.5725" gradientTransform="matrix(1.5536 0 0 1.5536 -39.121 -3.5418)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a3be8c" offset="0"/>
+   <stop stop-color="#97b67c" offset="1"/>
+  </linearGradient>
+  <filter id="filter1507" x="-.07009" y="-.052604" width="1.1402" height="1.1052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.17812554"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <style type="text/css"><![CDATA[
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+]]></style>
+ <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3h-15.081c0-1.662 1.338-3 3-3z" fill="url(#linearGradient1313)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>
+ <ellipse cx="12.06" cy="2.426" rx=".44454" ry=".50993" fill="url(#linearGradient6495)"/>
+ <ellipse cx="13.288" cy="2.426" rx=".44454" ry=".50993" fill="url(#linearGradient6567)"/>
+ <ellipse cx="14.482" cy="2.426" rx=".44454" ry=".50993" fill="url(#linearGradient6639)"/>
+ <path d="m12.249 9.7212-6.0993 4.096v-8.1268z" fill="#2e3440" filter="url(#filter1507)" opacity=".37199" stroke-width=".18669"/>
+ <path d="m12.151 9.4513-6.0993 4.096v-8.1268z" fill="url(#linearGradient4244)" stroke-width=".18669"/>
+</svg>
