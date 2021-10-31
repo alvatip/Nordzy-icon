@@ -1,0 +1,87 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5234" x2="8.4785" y1="15.743" y2="1.3583" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <filter id="q" x="-.051346" y="-.072162" width="1.1027" height="1.1443" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.1125"/>
+  </filter>
+  <linearGradient id="d" x1="32" x2="32" y1="53" y2="16" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#6f7881" offset=".27"/>
+   <stop stop-color="#a6aebf" offset="1"/>
+  </linearGradient>
+  <filter id="r" x="-.021808" y="-.10309" width="1.0436" height="1.2062" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.4725"/>
+  </filter>
+  <linearGradient id="e" x1="22" x2="22" y1="32" y2="22" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6f7881" offset="0"/>
+   <stop stop-color="#b0b4b8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="12" x2="12" y1="32" y2="22" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <filter id="p" x="-.042692" y="-.10091" width="1.0854" height="1.2018" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.4625"/>
+  </filter>
+  <linearGradient id="g" x1="32" x2="32" y1="45" y2="34" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7b88a1" offset="0"/>
+   <stop stop-color="#a6aebf" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="32" x2="32" y1="43" y2="36" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <radialGradient id="i" cx="387.57" cy="537.57" r="1" gradientTransform="matrix(4 .00042 -.00224 21 -1543.1 -11237)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </radialGradient>
+  <radialGradient id="j" cx="387.57" cy="537.57" r="1" gradientTransform="matrix(-4,2e-5,1.4e-4,21,1608.3,-11237)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </radialGradient>
+  <linearGradient id="k" x1="47" x2="47" y1="25" y2="21" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eac57b" offset="0"/>
+   <stop stop-color="#ebcb8b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="l" x1="51" x2="51" y1="29" y2="25" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b54a55" offset="0"/>
+   <stop stop-color="#bf616a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="m" x1="47" x2="47" y1="33" y2="29" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#97b67c" offset="0"/>
+   <stop stop-color="#a3be8c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="n" x1="43" x2="43" y1="29" y2="25" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e81ac" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(.2546 0 0 .2546 .31912 -.31662)" fill-rule="evenodd">
+  <path d="m15.002 15.996a9 14 0 0 0-9 14v18.5a4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 3.18-1.32l8.68-8.68h19.28l8.68 8.68a4.5 4.5 0 0 0 3.18 1.32 4.5 4.5 0 0 0 4.5-4.5v-18.5a9 14 0 0 0-9-14z" filter="url(#q)" opacity=".25"/>
+  <path d="m15.002 15.996a9 14 0 0 0-9 14v18.5a4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 3.18-1.32l8.68-8.68h19.28l8.68 8.68a4.5 4.5 0 0 0 3.18 1.32 4.5 4.5 0 0 0 4.5-4.5v-18.5a9 14 0 0 0-9-14z" fill="url(#d)"/>
+  <path d="m22.36 42-8.68 8.68a4.5 4.5 0 0 1-3.18 1.32 4.5 4.5 0 0 1-4.5-4.5v1a4.5 4.5 0 0 0 4.5 4.5 4.5 4.5 0 0 0 3.18-1.32l8.68-8.68h19.28l8.68 8.68a4.5 4.5 0 0 0 3.18 1.32 4.5 4.5 0 0 0 4.5-4.5v-1a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-3.18-1.32l-8.68-8.68z" fill="#292c2f" filter="url(#r)" opacity=".2"/>
+  <path d="m54.002 26.996a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7zm-30 0a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#7b88a1"/>
+  <circle cx="17" cy="27" r="5" fill="url(#e)"/>
+  <path d="m17.002 21.996a5 5 0 0 0-2 0.424v2.576h-2.58a5 5 0 0 0-0.42 2 5 5 0 0 0 0.424 2h2.576v2.58a5 5 0 0 0 2 0.42 5 5 0 0 0 2-0.424v-2.576h2.58a5 5 0 0 0 0.42-2 5 5 0 0 0-0.422-2h-2.578v-2.58a5 5 0 0 0-2-0.42z" fill="url(#f)"/>
+  <path d="m45.002 39.496a5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5 5.5 5.5 0 0 1 5.5 5.5zm-15 0a5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5 5.5 5.5 0 0 1 5.5 5.5z" filter="url(#p)" opacity=".25"/>
+  <path d="m45.002 39.496a5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5 5.5 5.5 0 0 1 5.5 5.5zm-15 0a5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5 5.5 5.5 0 0 1 5.5 5.5z" fill="url(#g)"/>
+  <path d="m43.002 39.496a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5zm-15 0a3.5 3.5 0 0 1-3.5 3.5 3.5 3.5 0 0 1-3.5-3.5 3.5 3.5 0 0 1 3.5-3.5 3.5 3.5 0 0 1 3.5 3.5z" fill="url(#h)"/>
+  <path d="m6.002 30.996v17.5a4.5 4.5 0 0 0 1.896 3.662 4 7 0 0 0 2.104-6.162v-8a4 7 0 0 0-4-7z" fill="url(#i)"/>
+  <path d="m58.002 30.996v17.5a4.5 4.5 0 0 1-1.894 3.662 4 7 0 0 1-2.106-6.162v-8a4 7 0 0 1 4-7z" fill="url(#j)"/>
+  <circle cx="47" cy="23" r="2" fill="url(#k)"/>
+  <circle cx="51" cy="27" r="2" fill="url(#l)"/>
+  <circle cx="47" cy="31" r="2" fill="url(#m)"/>
+  <circle cx="43" cy="27" r="2" fill="url(#n)"/>
+ </g>
+</svg>
