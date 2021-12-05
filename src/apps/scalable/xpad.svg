@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(3.747 0 0 3.7796 .24696 -.011404)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <path d="m14.81 3.4887h34.323c6.2817 0 11.339 5.0571 11.339 11.339v34.323c0 6.2817-5.0571 11.339-11.339 11.339h-34.323c-6.2817 0-11.339-5.0571-11.339-11.339v-34.323c0-6.2817 5.0571-11.339 11.339-11.339z" fill="#ebcb8b" stroke-width="4.6391"/>
+  <rect x=".017008" y=".011338" width="63.966" height="63.977" fill="none" opacity=".15" stroke-width="3.9761"/>
+  <path d="m14.81 3.4887h34.323c6.2817 0 11.339 5.0571 11.339 11.339h-57.001c0-6.2817 5.0571-11.339 11.339-11.339z" fill="#eac57b" stroke-width="4.6391"/>
+  <path d="m14.81 3.4887h34.323c6.2817 0 11.339 5.0571 11.339 11.339h-57.001c0-6.2817 5.0571-11.339 11.339-11.339z" fill="#2e3440" opacity=".15" stroke-width="4.6391"/>
+ </g>
+</svg>

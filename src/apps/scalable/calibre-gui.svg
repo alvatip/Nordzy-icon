@@ -1,0 +1,83 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <radialGradient id="radialGradient20313" cx="32" cy="32" r="28.5" gradientTransform="matrix(2.5232 .0019465 -.0017655 2.2886 -48.684 -41.299)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2f3541" stop-opacity="0" offset="0"/>
+   <stop stop-color="#2e3440" stop-opacity=".15" offset="1"/>
+  </radialGradient>
+  <filter id="filter20893" x="-.03468" y="-.03468" width="1.0694" height="1.0694" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.21144734"/>
+  </filter>
+  <radialGradient id="radialGradient45021" cx="-9.0747" cy="3.7231" r="4.1204" gradientTransform="matrix(-.45755 .034999 -.03475 -.27818 -13.097 4.7178)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" stop-opacity=".5" offset="0"/>
+   <stop stop-color="#f2ab64" offset="1"/>
+  </radialGradient>
+  <filter id="filter54388" x="-.13184" y="-.033104" width="1.2637" height="1.0662" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1519561"/>
+  </filter>
+  <linearGradient id="linearGradient65090" x1="5.0992" x2="7.4389" y1="5.7633" y2="15.198" gradientTransform="translate(.031718)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#434c5e" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+  <filter id="filter65448" x="-.12306" y="-.033707" width="1.2461" height="1.0674" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14184337"/>
+  </filter>
+  <linearGradient id="linearGradient80748" x1="6.9712" x2="8.75" y1="6.254" y2="15.754" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eac57b" offset="0"/>
+   <stop stop-color="#f2ab64" offset="1"/>
+  </linearGradient>
+  <filter id="filter87786" x="-.25699" y="-.038078" width="1.514" height="1.0762" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.19046814"/>
+  </filter>
+  <linearGradient id="linearGradient94665" x1="12.398" x2="14.35" y1="7.7241" y2="14.817" gradientTransform="translate(-3.907 2.5759)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" stop-opacity=".25" offset="0"/>
+   <stop stop-color="#81a1c1" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter95109" x="-.088702" y="-.043175" width="1.1774" height="1.0864" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.076096167"/>
+  </filter>
+  <filter id="filter95547" x="-.099675" y="-.039741" width="1.1994" height="1.0795" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.13861919"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(.99138 0 0 1 .072989 0)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ <g>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="#d6a77f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>
+  <rect transform="rotate(-13.717)" x="7.9532" y="9.7402" width="3.3377" height="8.3714" fill="#2e3440" filter="url(#filter95547)" opacity=".38398"/>
+  <rect transform="rotate(-8.8555)" x="6.9712" y="5.0636" width="1.7788" height="12.005" fill="#2e3440" filter="url(#filter87786)" opacity=".62"/>
+ </g>
+ <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.052"/>
+ <g fill="#2e3440">
+  <path d="m4.0611 1.15c-1.6126 0-2.9112 1.2985-2.9112 2.9112v8.8112c0 1.6126 1.2985 2.9107 2.9112 2.9107h8.8112c1.6126 0 2.9107-1.298 2.9107-2.9107v-8.8112c0-1.6126-1.298-2.9112-2.9107-2.9112zm0.35199 0.58514h8.1067c1.4836 0 2.678 1.1944 2.678 2.678v8.1067c0 1.4836-1.1944 2.678-2.678 2.678h-8.1067c-1.4836 0-2.678-1.1944-2.678-2.678v-8.1067c0-1.4836 1.1944-2.678 2.678-2.678z" filter="url(#filter20893)" opacity=".42451" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>
+  <rect x="2.333" y="4.5178" width="2.7662" height="11.017" filter="url(#filter54388)"/>
+  <rect x="5.1309" y="5.4351" width="2.7662" height="10.099" filter="url(#filter65448)"/>
+ </g>
+ <g>
+  <rect x="2.333" y="4.5178" width="2.7662" height="11.017" fill="#6b5756"/>
+  <rect x="2.333" y="14.579" width="2.7662" height=".32818" fill="#f2ab64"/>
+  <rect x="5.1309" y="5.4351" width="2.7662" height="10.099" fill="url(#linearGradient65090)"/>
+ </g>
+ <g fill="#eceff4">
+  <rect x="5.1309" y="14.469" width="2.7662" height=".16912"/>
+  <rect x="5.1309" y="6.3418" width="2.7662" height=".16912"/>
+  <text transform="matrix(0 -.84697 1.1807 0 0 0)" x="-16.809778" y="5.7839403" font-family="sans-serif" font-size="1.2408px" font-weight="bold" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-16.809778" y="5.7839403" fill="#eceff4" font-family="'TeX Gyre Chorus'" font-weight="normal" stroke-width=".26458">Kovid Goyal</tspan></text>
+ </g>
+ <g>
+  <rect transform="rotate(-8.8555)" x="6.9712" y="5.0636" width="1.7788" height="12.005" fill="url(#linearGradient80748)"/>
+  <rect transform="rotate(-8.8555)" x="6.9712" y="16.234" width="1.7788" height=".83407" fill="#836867"/>
+  <rect transform="rotate(-13.717)" x="7.9532" y="9.7402" width="3.3377" height="8.3714" fill="#81a1c1"/>
+  <rect transform="rotate(-13.717)" x="7.9532" y="9.7402" width="3.3377" height="8.3714" fill="url(#linearGradient94665)"/>
+ </g>
+ <path d="m11.033 7.415 1.0915-0.26641 0.96745 3.9636-0.63065-0.22365-0.46083 0.49006z" fill="#2e3440" filter="url(#filter95109)" opacity=".23072" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2435"/>
+ <path d="m11.112 7.314 1.0915-0.26641 0.96745 3.9636-0.63065-0.22365-0.46083 0.49006z" fill="#bf616a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2435"/>
+ <g>
+  <path transform="scale(.26458)" d="m14.84 3.5c-6.2817 0-11.34 5.0581-11.34 11.34v34.322c0 6.2817 5.0581 11.338 11.34 11.338h34.322c6.2817 0 11.338-5.0562 11.338-11.338v-34.322c0-6.2817-5.0562-11.34-11.338-11.34h-34.322zm1.3711 2.2793h31.578c5.7792 0 10.432 4.6525 10.432 10.432v31.578c0 5.7792-4.6525 10.432-10.432 10.432h-31.578c-5.7792 0-10.432-4.6525-10.432-10.432v-31.578c0-5.7792 4.6525-10.432 10.432-10.432z" fill="#e5d0bd" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6391"/>
+  <path transform="scale(.26458)" d="m14.84 3.5c-6.2817 0-11.34 5.0581-11.34 11.34v34.322c0 6.2817 5.0581 11.338 11.34 11.338h34.322c6.2817 0 11.338-5.0562 11.338-11.338v-34.322c0-6.2817-5.0562-11.34-11.338-11.34h-34.322zm1.3711 2.2793h31.578c5.7792 0 10.432 4.6525 10.432 10.432v31.578c0 5.7792-4.6525 10.432-10.432 10.432h-31.578c-5.7792 0-10.432-4.6525-10.432-10.432v-31.578c0-5.7792 4.6525-10.432 10.432-10.432z" fill="url(#radialGradient20313)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6391"/>
+  <rect x="2.333" y="5.4351" width="2.7662" height=".32818" fill="#f2ab64"/>
+  <text transform="matrix(0 -.8846 1.1305 0 0 0)" x="-16.021221" y="3.9935462" fill="#f2ab64" font-family="sans-serif" font-size="1.9735px" font-weight="bold" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-16.021221" y="3.9935462" fill="#f2ab64" font-family="Arial" font-weight="normal" stroke-width=".26458">CALIBRE</tspan></text>
+  <text transform="matrix(0 -.8846 1.1305 0 0 0)" x="-16.021221" y="3.9935462" fill="url(#radialGradient45021)" font-family="sans-serif" font-size="1.9735px" font-weight="bold" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-16.021221" y="3.9935462" fill="url(#radialGradient45021)" font-family="Arial" font-weight="normal" stroke-width=".26458">CALIBRE</tspan></text>
+  <rect transform="rotate(-8.8555)" x="6.9712" y="5.0636" width="1.7788" height=".83407" fill="#866b6a"/>
+ </g>
+</svg>

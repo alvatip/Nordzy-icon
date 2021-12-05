@@ -1,0 +1,45 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient968" x1="8.3121" x2="8.3121" y1="16.007" y2=".92604" gradientTransform="translate(-1.093e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" stop-opacity=".5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient43148" x1="8.344" x2="8.344" y1="1.0721" y2="15.871" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#caafc5" offset="0"/>
+   <stop stop-color="#a677a0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient-1" x1="198.27" x2="198.27" y1="346.53" y2="20.551" gradientTransform="scale(.70864 1.4111)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8a4e7d" offset="0"/>
+   <stop stop-color="#b38cac" offset="1"/>
+  </linearGradient>
+  <path id="path-2" d="m25 29c127.58 0 231 102.97 231 230s-103.42 230-231 230v-460z"/>
+  <filter id="filter-3" x="-.13853" y="-.052174" width="1.2424" height="1.1043">
+   <feOffset dx="-8" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"/>
+   <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+   <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.250980392   0 0 0 0 0.250980392   0 0 0 0 0.250980392  0 0 0 0.2 0"/>
+  </filter>
+  <linearGradient id="linearGradient43517" x1="256" x2="256" y1="512" gradientTransform="matrix(.022629 0 0 .022629 2.5224 2.6835)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8a4d7d" offset="0"/>
+   <stop stop-color="#b78bad" offset="1"/>
+  </linearGradient>
+  <filter id="filter52869" x="-.030922" y="-.030922" width="1.0618" height="1.0618" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14927226"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 0)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient968)" opacity=".5" stroke-width="1.2274"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient43148)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <circle id="background" cx="8.3154" cy="8.4764" r="5.5666" fill="#eceff4"/>
+ <g fill-rule="evenodd">
+  <path d="m8.3273 13.216v-0.70224c2.2244-0.0064 4.0255-1.8112 4.0255-4.0373 0-2.2259-1.8011-4.0307-4.0255-4.0371v-0.70224c2.6122 0.00658 4.7276 2.1257 4.7276 4.7393 0 2.6138-2.1154 4.7331-4.7276 4.7395zm0-2.4579c1.2546-0.0066 2.2702-1.0252 2.2702-2.2816 0-1.2563-1.0155-2.2748-2.2702-2.2814v-0.70208c1.6426 0.00642 2.9724 1.3394 2.9724 2.9835 0 1.6442-1.3298 2.9772-2.9724 2.9837zm0-3.5097c0.67301 0.00642 1.2169 0.55354 1.2169 1.2282 0 0.67478-0.5439 1.2219-1.2169 1.2283zm-5.8048 1.2282c0 3.1995 2.5934 5.7931 5.7929 5.7931 3.1993 0 5.7929-2.5936 5.7929-5.7931 0-3.1993-2.5936-5.7928-5.7929-5.7928-3.1995 0-5.7929 2.5934-5.7929 5.7928z" fill="#2e3440" filter="url(#filter52869)" opacity=".76816"/>
+  <path id="center" d="m8.3273 13.216v-0.70224c2.2244-0.0064 4.0255-1.8112 4.0255-4.0373 0-2.2259-1.8011-4.0307-4.0255-4.0371v-0.70224c2.6122 0.00658 4.7276 2.1257 4.7276 4.7393 0 2.6138-2.1154 4.7331-4.7276 4.7395zm0-2.4579c1.2546-0.0066 2.2702-1.0252 2.2702-2.2816 0-1.2563-1.0155-2.2748-2.2702-2.2814v-0.70208c1.6426 0.00642 2.9724 1.3394 2.9724 2.9835 0 1.6442-1.3298 2.9772-2.9724 2.9837zm0-3.5097c0.67301 0.00642 1.2169 0.55354 1.2169 1.2282 0 0.67478-0.5439 1.2219-1.2169 1.2283zm-5.8048 1.2282c0 3.1995 2.5934 5.7931 5.7929 5.7931 3.1993 0 5.7929-2.5936 5.7929-5.7931 0-3.1993-2.5936-5.7928-5.7929-5.7928-3.1995 0-5.7929 2.5934-5.7929 5.7928z" fill="url(#linearGradient43517)"/>
+  <use transform="matrix(-.022629 0 0 .022629 8.8811 2.6835)" width="100%" height="100%" fill="#000000" filter="url(#filter-3)" xlink:href="#path-2"/>
+  <use transform="matrix(-.022629 0 0 .022629 8.8811 2.6835)" width="100%" height="100%" fill="url(#linearGradient-1)" xlink:href="#path-2"/>
+ </g>
+</svg>

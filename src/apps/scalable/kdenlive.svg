@@ -1,0 +1,39 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <filter id="filter1151" x="-.10168" y="-.13319" width="1.2034" height="1.2664" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.10604496"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <style type="text/css">.st0{fill:#83B9F5;}
+	.st1{fill:#F38577;}
+	.st2{fill:#527EB2;}</style>
+ <g transform="matrix(.076963 0 0 .076963 129.67 159.08)" fill="#88c0d0" stroke-width="3.0731">
+  <path class="st0" d="m-1598.1-2004.7v7.5h10.3v-7.5z"/>
+  <path class="st0" d="m-1606.2-1992.6v7.5h18.5v-7.5z"/>
+  <path class="st0" d="m-1627.9-1980.5v7.5h40.1v-7.5z"/>
+  <path class="st0" d="m-1650-1968.5v7.5h62.2v-7.5z"/>
+  <path class="st0" d="m-1664.6-1956.4v7.5h76.8v-7.5z"/>
+  <path class="st0" d="m-1640.3-1944.4v7.5h52.5v-7.5z"/>
+  <path class="st0" d="m-1618.9-1932.3v7.5h31.2v-7.5z"/>
+  <path class="st0" d="m-1627.3-1920.3v7.5h39.6v-7.5z"/>
+  <path class="st0" d="m-1606.9-1908.8v7.5h19.1v-7.5z"/>
+ </g>
+ <g stroke-width=".82711">
+  <path class="st1" d="m8.7793 3.6354v10.012h-0.32297v-10.012z" fill="#bf616a"/>
+  <path class="st1" d="m9.8828 3.3304h-2.503l1.2381 1.9109z" fill="#2e3440" filter="url(#filter1151)"/>
+  <path class="st1" d="m9.8828 3.2855h-2.503l1.2381 1.9109z" fill="#bf616a"/>
+ </g>
+ <path class="st2" d="m9.9655 4.7921c-0.11489 0-0.21446 0.091911-0.21446 0.2068v7.5597c0 0.1685 0.19148 0.26807 0.32935 0.1685l5.2083-3.776c0.11489-0.084252 0.11489-0.25276 0-0.33701l-5.2083-3.776c-0.03064-0.030638-0.06894-0.045956-0.11489-0.045956z" fill="#5e81ac" stroke-width=".23538"/>
+</svg>

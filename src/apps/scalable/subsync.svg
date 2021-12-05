@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5039">
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#e1b965" offset="1"/>
+  </linearGradient>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#81a1c1" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5027" x1="36.98" x2="37.001" y1="4.5229" y2="9.013" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#e1b965" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5041" x1="36.98" x2="37.001" y1="4.5229" y2="9.013" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5039"/>
+  <linearGradient id="linearGradient5923" x1="38.875" x2="39.949" y1="6.8255" y2="6.8255" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5039"/>
+  <linearGradient id="linearGradient5931" x1="40.622" x2="41.696" y1="6.8255" y2="6.8255" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5039"/>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(1.6404 0 0 1.6404 -54.278 -2.6777)">
+  <circle cx="41.159" cy="6.8255" r=".537" fill="url(#linearGradient5931)" fill-rule="evenodd" stroke-width=".67655"/>
+  <circle cx="39.412" cy="6.8255" r=".537" fill="url(#linearGradient5923)" fill-rule="evenodd"/>
+  <path d="m35.028 6.0247h1.0424l1.5097-1.5097v4.5572l-1.443-1.443h-1.1041zm3.189 0.80083a0.537 0.537 0 0 1-0.537 0.537 0.537 0.537 0 0 1-0.537-0.537 0.537 0.537 0 0 1 0.537-0.537 0.537 0.537 0 0 1 0.537 0.537z" fill="url(#linearGradient5027)" stroke="url(#linearGradient5041)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26458px"/>
+ </g>
+</svg>

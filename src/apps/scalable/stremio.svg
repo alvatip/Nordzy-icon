@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient2801" x1="16.274" x2="28.825" y1="14.96" y2="31.729" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3065" x1="28.825" x2="16.274" y1="31.729" y2="14.96" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <filter id="filter3697" x="-.17699" y="-.15362" width="1.354" height="1.3072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.3624512"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="#936889" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <path d="m3.926 0.92604h9.081c1.662 0 3 1.338 3 3v4.5575h-15.081v-4.5575c0-1.662 1.338-3 3-3z" fill="#b99db4" stroke-width="1.2274"/>
+  <path transform="matrix(.26458 0 0 .26458 2.6917 2.2838)" d="m37.445 24.77-22.712 12.996 0.10129-26.168z" fill="#2e3440" filter="url(#filter3697)" opacity=".40721" stroke="#2e3440" stroke-width="1.5"/>
+  <path transform="matrix(.26458 0 0 .26458 2.4898 1.9698)" d="m37.445 24.77-22.712 12.996 0.10129-26.168z" fill="url(#linearGradient2801)" stroke="url(#linearGradient3065)" stroke-width="1.5"/>
+ </g>
+</svg>
