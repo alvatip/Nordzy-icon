@@ -1,0 +1,41 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient13543" x1="6.0969" x2="6.2096" y1="2.6314" y2="13.85" gradientTransform="matrix(1.0611 0 0 1 -.15531 0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient13789" x1="6.0504" x2="5.9851" y1="3.4093" y2="12.808" gradientTransform="matrix(.96964 0 0 .96964 .233 .45209)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient14115" x1="12.029" x2="13.313" y1="8.0714" y2="13.072" gradientTransform="translate(0 -.147)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+  <filter id="filter14283" x="-.11763" y="-.10251" width="1.2353" height="1.205" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.22094874"/>
+  </filter>
+  <filter id="filter14547" x="-.090588" y="-.060713" width="1.1812" height="1.1214" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.290788"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+  <rect x="2.6324" y="2.6786" width="7.704" height="11.495" fill="#2e3440" filter="url(#filter14547)" opacity=".52174" stroke-width=".52074"/>
+  <rect x="2.5426" y="2.5665" width="7.704" height="11.495" ry=".61916" fill="url(#linearGradient13543)" stroke-width=".52074"/>
+ </g>
+ <g font-family="sans-serif" font-weight="bold" letter-spacing="0px" word-spacing="0px">
+  <text x="2.7101691" y="13.008178" fill="url(#linearGradient13789)" font-size="13.296px" stroke-width="1.2466" style="line-height:1.25" xml:space="preserve"><tspan x="2.7101691" y="13.008178" fill="url(#linearGradient13789)" font-family="Arial" font-weight="bold" stroke-width="1.2466">7</tspan></text>
+  <text x="10.365758" y="13.142743" fill="#2e3440" filter="url(#filter14283)" font-size="7.0962px" opacity=".54819" stroke-width=".66526" style="line-height:1.25" xml:space="preserve"><tspan x="10.365758" y="13.142743" fill="#2e3440" stroke-width=".66526">Z</tspan></text>
+  <text x="10.276048" y="13.008178" fill="url(#linearGradient14115)" font-size="7.0962px" stroke-width=".66526" style="line-height:1.25" xml:space="preserve"><tspan x="10.276048" y="13.008178" fill="url(#linearGradient14115)" stroke-width=".66526">Z</tspan></text>
+ </g>
+</svg>

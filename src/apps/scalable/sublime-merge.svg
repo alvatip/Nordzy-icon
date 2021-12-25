@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <radialGradient id="radialGradient14805" cx="8.4665" cy="8.4665" r="7.5405" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#3b4252" offset="1"/>
+  </radialGradient>
+  <filter id="filter17779" x="-.05782" y="-.095251" width="1.1156" height="1.1905" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23573362"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#radialGradient14805)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(1.1536 0 0 1.1536 -1.7698 -1.3408)">
+  <path d="m4.1988 6.2205 1.3537-1.9792c0.17161-0.23973 0.17204-0.23862 0.41785-0.06491l4.0996 2.9509 2.4191-0.11633s1.4221 1.3775 1.4221 1.4775c0 0.11708-1.4274 1.504-1.4274 1.504l-3.3485-0.075756-4.8998-3.438c-0.13801-0.10084-0.13933-0.10109-0.03648-0.2583z" fill="#8cc1d4"/>
+  <path d="m4.1369 10.671 1.3537 1.9792c0.17161 0.23973 0.17204 0.23862 0.41785 0.06491l4.0067-2.8315 2.512-0.0031s1.4221-1.3775 1.4221-1.4775c0-0.11708-1.4274-1.5041-1.4274-1.5041l-3.3485 0.075757-4.8998 3.438c-0.13801 0.10084-0.13933 0.10109-0.03648 0.2583z" fill="#2e3440" filter="url(#filter17779)" opacity=".3515"/>
+  <path d="m4.2042 10.783 1.3537 1.9792c0.17161 0.23973 0.17204 0.23862 0.41785 0.06491l4.0067-2.8315 2.512-0.0031s1.4221-1.3775 1.4221-1.4775c0-0.11708-1.4274-1.5041-1.4274-1.5041l-3.3485 0.075757-4.8998 3.438c-0.13801 0.10084-0.13933 0.10109-0.03648 0.2583z" fill="#81b9ca"/>
+ </g>
+</svg>
