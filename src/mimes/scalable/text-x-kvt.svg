@@ -18,19 +18,19 @@
   <path d="m31.309 57.024-2.2907-6h0.84796l1.9009 5.0516 1.9049-5.0516h0.84394l-2.2867 6z"/>
   <path d="m34.56 51.024h5.0757v0.68319h-2.1299v5.3168h-0.81581v-5.3168h-2.1299z"/>
  </g>
- <g transform="matrix(2.0346 0 0 2.035 14.777 16.768)" opacity=".75" stroke-width=".96313">
-  <path d="m13.323 3.603c-0.048 0.049 2.02 4.86 2.02 4.86l-2.02 4.858s-4.86-2.568-4.86-4.859c0-2.29 4.86-4.859 4.86-4.859z" fill="#46a926" style="isolation:isolate"/>
-  <path d="m3.604 13.321c0.049-0.049-2.02-4.859-2.02-4.859l2.02-4.859s4.86 2.569 4.86 4.86c0 2.29-4.86 4.858-4.86 4.858z" fill="#f22c42" style="isolation:isolate"/>
-  <path d="m13.323 3.603c-0.048 0.049-4.86-2.019-4.86-2.019l-4.86 2.019 4.86 4.86z" fill="#ffda64" style="isolation:isolate"/>
-  <path d="m3.604 13.321 4.86 2.013s4.81-2.062 4.86-2.013l-4.86-4.859z" fill="#2f5fdd" style="isolation:isolate"/>
-  <path d="m8.464 1.587c-1e-3 1.758 0.672 3.516 2.019 4.862l2.845-2.844a6.88 6.88 0 0 0-4.861-2.018z" fill="#a6d74f" style="isolation:isolate"/>
-  <path d="m13.328 3.605-2.845 2.844a6.84 6.84 0 0 0 4.863 2.012 6.88 6.88 0 0 0-2.018-4.856z" fill="#76c22b" style="isolation:isolate"/>
-  <path d="m10.476 10.481a6.85 6.85 0 0 0-2.019 4.862h0.069a6.88 6.88 0 0 0 4.8-2.013z" fill="#1463a5" style="isolation:isolate"/>
-  <path d="m15.346 8.469a6.84 6.84 0 0 0-4.87 2.012l2.85 2.85a6.88 6.88 0 0 0 2.02-4.862z" fill="#2b898f" style="isolation:isolate"/>
-  <path d="m1.587 8.463a6.88 6.88 0 0 0 0 3e-3 6.88 6.88 0 0 0 2.014 4.857l2.85-2.848a6.839 6.839 0 0 0-4.864-2.011z" fill="#9b33ae" style="isolation:isolate"/>
-  <path d="m6.45 10.475-2.85 2.848a6.88 6.88 0 0 0 4.826 2.02h0.043a6.85 6.85 0 0 0-2.019-4.868z" fill="#7839b7" style="isolation:isolate"/>
-  <path d="m8.467 1.587a6.88 6.88 0 0 0-4.858 2.015l2.848 2.847a6.85 6.85 0 0 0 2.019-4.861 6.88 6.88 0 0 0-0.01 0z" fill="#fdc92b" style="isolation:isolate"/>
-  <path d="m3.609 3.602a6.88 6.88 0 0 0-2.021 4.859 6.84 6.84 0 0 0 4.869-2.012z" fill="#f34f17" style="isolation:isolate"/>
+ <g stroke-width="1.9598">
+  <path d="m41.884 24.1c-0.09766 0.09971 4.1099 9.8901 4.1099 9.8901l-4.1099 9.886s-9.8882-5.2259-9.8882-9.8881c0-4.6602 9.8882-9.8881 9.8882-9.8881z" fill="#97b67c" opacity=".75" style="isolation:isolate"/>
+  <path d="m22.11 43.876c0.0997-0.09972-4.1099-9.8881-4.1099-9.8881l4.1099-9.8881s9.8882 5.2279 9.8882 9.8901c0 4.6602-9.8882 9.886-9.8882 9.886z" fill="#b54a55" opacity=".75" style="isolation:isolate"/>
+  <path d="m41.884 24.1c-0.097661 0.099715-9.8882-4.1087-9.8882-4.1087l-9.8882 4.1087 9.8882 9.8901z" fill="#ebcb8b" opacity=".75" style="isolation:isolate"/>
+  <path d="m22.11 43.876 9.8882 4.0965s9.7864-4.1962 9.8882-4.0965l-9.8882-9.8881z" fill="#81a1c1" opacity=".75" style="isolation:isolate"/>
+  <path d="m31.998 19.998c-2e-3 3.5775 1.3673 7.1551 4.1079 9.8942l5.7884-5.7875a13.998 14.001 0 0 0-9.8902-4.1066z" fill="#a3be8c" opacity=".75" style="isolation:isolate"/>
+  <path d="m41.894 24.104-5.7884 5.7875a13.917 13.919 0 0 0 9.8943 4.0944 13.998 14.001 0 0 0-4.1058-9.882z" fill="#a3be8c" opacity=".75" style="isolation:isolate"/>
+  <path d="m36.091 38.097a13.937 13.94 0 0 0-4.1079 9.8942h0.14039a13.998 14.001 0 0 0 9.7661-4.0965z" fill="#5e81ac" opacity=".75" style="isolation:isolate"/>
+  <path d="m46 34.002a13.917 13.919 0 0 0-9.9085 4.0944l5.7986 5.7998a13.998 14.001 0 0 0 4.1099-9.8942z" fill="#8fbcbb" opacity=".75" style="isolation:isolate"/>
+  <path d="m18.006 33.99a13.998 14.001 0 0 0 0 0.0061 13.998 14.001 0 0 0 4.0977 9.884l5.7986-5.7957a13.915 13.917 0 0 0-9.8963-4.0924z" fill="#b48ead" opacity=".75" style="isolation:isolate"/>
+  <path d="m27.9 38.085-5.7986 5.7957a13.998 14.001 0 0 0 9.819 4.1107h0.08749a13.937 13.94 0 0 0-4.1079-9.9064z" fill="#ad85a5" opacity=".75" style="isolation:isolate"/>
+  <path d="m32.004 19.998a13.998 14.001 0 0 0-9.8841 4.1005l5.7945 5.7936a13.937 13.94 0 0 0 4.1079-9.8921 13.998 14.001 0 0 0-0.02035 0z" fill="#eac57b" opacity=".75" style="isolation:isolate"/>
+  <path d="m22.12 24.098a13.998 14.001 0 0 0-4.1119 9.8881 13.917 13.919 0 0 0 9.9065-4.0944z" fill="#d08770" opacity=".75" style="isolation:isolate"/>
  </g>
- <circle cx="32" cy="33.991" r="10" fill="#fff" opacity=".35" stroke-width="1.8898" style="paint-order:fill markers stroke"/>
+ <circle cx="32" cy="33.991" r="10" fill="#eceff4" opacity=".35" stroke-width="1.8898" style="paint-order:fill markers stroke"/>
 </svg>
