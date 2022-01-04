@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.3017" x2="8.355" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient881" x1="19.741" x2="19.741" y1="4.6819" y2="3.6758" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1017" x1="19.591" x2="19.591" y1="4.6845" y2="3.6779" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 0)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(8.0848 0 0 8.0848 -151.41 -25.135)" fill="url(#linearGradient881)" stroke="url(#linearGradient1017)" stroke-linejoin="round" stroke-width=".0032725">
+  <path d="m19.629 4.007c0.01774 0.018617 0.11354-0.18438 0.1028-0.19474-0.02707-0.12134-0.09458-0.14224-0.18027-0.14572l-0.44006 0.00492c-0.1242 0.00453-0.1083 0.12361-0.07436 0.20379l0.35345 0.73506c0.0258 0.040743 0.07223 0.098417 0.1287 0.095797s0.10582-0.078956 0.12014-0.10618l0.35647-0.76362c0.07094-0.12773 0.14245-0.17041 0.14245-0.17041l-0.2255 6.54e-5c-0.0087 1.5e-4 -0.03043-0.018317-0.12132 0.1535l-0.27917 0.57322-0.24197-0.51364h0.25548s0.06988 0.00857 0.10317 0.12794z"/>
+  <path d="m19.796 4.371 0.09967-0.20018 0.1241 0.22906 0.26166-0.51349-0.3565 0.00322-0.02122-0.22355h0.54707c0.06476 2.858e-4 0.10806 0.068964 0.08071 0.15459l-0.38365 0.78681c-0.05123 0.09478-0.10168 0.095482-0.12041 0.095482s-0.06439-0.013696-0.10843-0.085634z" stroke-linecap="round"/>
+ </g>
+</svg>
