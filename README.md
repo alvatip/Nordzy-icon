@@ -8,7 +8,8 @@
 </p>
 
 Nordzy is a free and open source  icon theme for Linux desktops using the [Nord](https://github.com/arcticicestudio/nord) color palette from [Arctic Ice Studio](https://github.com/arcticicestudio) and based on [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) and [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme)<br/>
-Currently there is not that much icons, I'll take requests for which app icons I should put in next. If I get no requests I take (almost) randomly from the long list of apps. <br/>
+Currently, there are not that many icons, I’ll take requests for which app icons I should put in next. If I get no requests, I take (almost) randomly from the long list of apps.
+Dark variants are more appropriate for dark desktop environments, while the normal variants are more appropriate for light desktop environments. <br/>
 
 ## Preview
 
@@ -48,6 +49,17 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-n, --name  NAME  | Specify theme name (Default: Nordzy)|
 |-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)
 |-h, --help                 | Show  help|
+
+### tar.gz file
+Alternatively, you can use the tar.gz files located in the release section and extract them to the adequate directory.</br>
+> Usually `$HOME/.local/share/icons/` for a user installation and `/usr/share/icons/` for a system wide installation.
+### Also available on Pling
+<p align="left">
+  <a href="https://www.pling.com/p/1686927" >
+    <img title="Nordzy-icon Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
+  </a>
+</p>
+
 ## Uninstallation
 To remove the icon theme, 
 If you installed it locally:
