@@ -95,7 +95,7 @@ MaxSize=256
 
 [categories/symbolic]
 Size=16
-Context=Applications
+Context=Categories
 MinSize=16
 MaxSize=512
 Type=Scalable
