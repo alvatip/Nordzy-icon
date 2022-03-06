@@ -63,7 +63,7 @@ install() {
   if [[ ${color} == '' ]]; then
     mkdir -p                                                                               ${THEME_DIR}/status
     cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable,symbolic}                            ${THEME_DIR}/status
     cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
 
     # If another theme color is specified
@@ -83,7 +83,7 @@ install() {
     cp -r ${SRC_DIR}/src/mimes/symbolic                                                ${THEME_DIR}/mimes
     cp -r ${SRC_DIR}/src/devices/{16,22,24,symbolic}                                   ${THEME_DIR}/devices
     cp -r ${SRC_DIR}/src/places/{16,22,24,symbolic}                                    ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/src/status/{16,22,24}                                             ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/src/status/{16,22,24,symbolic}                                    ${THEME_DIR}/status
 
     # Change icon color for dark theme
     sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
