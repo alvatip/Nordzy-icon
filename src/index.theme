@@ -316,7 +316,7 @@ MaxSize=256
 [categories@2x/symbolic]
 Size=16
 Scale=2
-Context=Applications
+Context=Categories
 MinSize=16
 MaxSize=512
 Type=Scalable
