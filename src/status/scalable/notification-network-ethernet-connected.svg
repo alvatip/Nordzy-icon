@@ -1,7 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <rect transform="scale(1,-1)" x="12" y="-19" width="3" height="8" rx="0" color="#eceff4" fill="#eceff4"/>
- <path d="m8 43c-4 0-5-1-5-4v-30c0-3 1-4 5-4h32c4 0 5 1 5 4v30c0 3-1 4-5 4zm8-9h3v4h10v-4h3v-3h7v-18c0-2 0-3-1.5-3h-27c-1.5 0-1.5 1-1.5 3v18h7z" color="#eceff4" fill="#eceff4"/>
- <rect transform="scale(1,-1)" x="19" y="-19" width="3" height="8" rx="0" color="#eceff4" fill="#eceff4"/>
- <rect transform="scale(1,-1)" x="26" y="-19" width="3" height="8" rx="0" color="#eceff4" fill="#eceff4"/>
- <rect transform="scale(1,-1)" x="33" y="-19" width="3" height="8" rx="0" color="#eceff4" fill="#eceff4"/>
-</svg>

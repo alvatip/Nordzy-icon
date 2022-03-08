@@ -1,8 +1,0 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-553 -57)" color="#2e3440" fill="#2e3440">
-  <rect transform="scale(-1 1)" x="-568" y="58" width="14" height="1" overflow="visible"/>
-  <rect transform="scale(-1 1)" x="-568" y="61" width="14" height="1" overflow="visible"/>
-  <path d="m568 67h-10v1h10zm-12 1v2h10v1h-10v2l-3-2.5z" overflow="visible"/>
-  <rect transform="scale(-1 1)" x="-568" y="64" width="14" height="1" overflow="visible"/>
- </g>
-</svg>

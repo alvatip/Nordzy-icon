@@ -1,9 +1,0 @@
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(2.2222 0 0 2.25 -.444 -.75)" fill="#eceff4">
-  <path d="m8 3c-1.657 0-3 1.343-3 3v5.01c0 1.657 1.343 3 3 3s3-1.343 3-3v-5.01c0-1.657-1.343-3-3-3"/>
-  <path d="m2 11c0 2.976 2.159 5.433 5 5.906v1.094h-1v1h4v-1h-1v-1.094c2.841-0.473 5-2.931 5-5.906h-2c0 2.209-1.791 4-4 4s-4-1.791-4-4h-2z"/>
-  <path transform="translate(0 1)" d="m20 4a2 2 0 1 1-4 0 2 2 0 1 1 4 0z"/>
-  <path transform="translate(0 7)" d="m20 4a2 2 0 1 1-4 0 2 2 0 1 1 4 0z"/>
-  <path transform="translate(0 13)" d="m20 4a2 2 0 1 1-4 0 2 2 0 1 1 4 0z"/>
- </g>
-</svg>
