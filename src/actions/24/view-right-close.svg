@@ -1,21 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
       }
       .ColorScheme-NegativeText {
         color:#bf616a;
-      }
-      </style>
-  </defs>
-  <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 20 L 9 20 L 10 20 L 20 20 L 20 4 L 10 4 L 9 4 L 4 4 z M 5 8 L 9 8 L 9 19 L 5 19 L 5 8 z M 10 8 L 19 8 L 19 19 L 10 19 L 10 8 z "
-     class="ColorScheme-Text"/>
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 12.707031 11 L 12 11.707031 L 13.792969 13.5 L 12 15.292969 L 12.707031 16 L 14.5 14.207031 L 16.292969 16 L 17 15.292969 L 15.207031 13.5 L 17 11.707031 L 16.292969 11 L 14.5 12.792969 L 12.707031 11 z "
-     class="ColorScheme-NegativeText"
-     />
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m4 4v16h5 1 10v-16h-10-1-5zm1 4h4v11h-4v-11zm5 0h9v11h-9v-11z" fill="currentColor"/>
+ <path class="ColorScheme-NegativeText" d="m12.707 11-0.70703 0.70703 1.793 1.793-1.793 1.793 0.70703 0.70703 1.793-1.793 1.793 1.793 0.70703-0.70703-1.793-1.793 1.793-1.793-0.70703-0.70703-1.793 1.793-1.793-1.793z" fill="currentColor"/>
 </svg>

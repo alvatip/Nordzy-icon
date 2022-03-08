@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <g transform="translate(-544.57141-742.93359)">
-  <circle r="4.999998" cy="756.93359" cx="558.57141" style="fill:#ebcb8b"/>
-  <circle r="4.999998" cy="756.93359" cx="552.57141" style="fill:#bf616a"/>
-  <circle r="4.999998" cy="750.93359" cx="555.57141" style="fill:#5e81ac"/>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-544.57 -742.93)">
+  <circle cx="558.57" cy="756.93" r="5" fill="#ebcb8b"/>
+  <circle cx="552.57" cy="756.93" r="5" fill="#bf616a"/>
+  <circle cx="555.57" cy="750.93" r="5" fill="#5e81ac"/>
  </g>
 </svg>

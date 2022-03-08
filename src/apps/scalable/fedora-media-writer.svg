@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <g clip-path="url(#clip0_5_152)">
   <g filter="url(#filter0_f_5_152)" opacity=".2">
    <path d="m49.285 3.8328h-34.625c-6.3172 0-11.438 5.1656-11.438 11.538v34.927c0 6.372 5.121 11.538 11.438 11.538h34.625c6.3172 0 11.438-5.1656 11.438-11.538v-34.927c0-6.372-5.121-11.538-11.438-11.538z" fill="#2E3440"/>

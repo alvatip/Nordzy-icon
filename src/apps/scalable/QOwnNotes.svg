@@ -1,4 +1,4 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
@@ -17,7 +17,7 @@
   <filter id="filter7451" x="-.073049" y="-.072538" width="1.1461" height="1.1451" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.15989484"/>
   </filter>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+  <style type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }</style>
  </defs>

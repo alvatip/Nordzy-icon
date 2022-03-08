@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <g transform="matrix(1 0 0 .99976 -1 .00497)" style="fill-rule:evenodd">
-  <path d="m 8,1 8,0 c 2,0 2,-0.2 2,2 l 0,8 c 0,2 0,2 -2,2 L 8,13 C 6,13 6,13 6,11 L 6,3 C 6,1 6,1 8,1 z" style="fill:#7b88a1;fill-opacity:0.94"/>
-  <path d="m 4,7 16,0 c 2,0 2,0 2,2 l 0,6 c 0,2 0,2 -2,2 L 4,17 C 2,17 2,17 2,15 L 2,9 C 2,7 2,7 4,7 z" style="fill:#a6aebf"/>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1 0 0 .99976 -1 .00497)" fill-rule="evenodd">
+  <path d="m8 1h8c2 0 2-0.2 2 2v8c0 2 0 2-2 2h-8c-2 0-2 0-2-2v-8c0-2 0-2 2-2z" fill="#7b88a1" fill-opacity=".94"/>
+  <path d="m4 7h16c2 0 2 0 2 2v6c0 2 0 2-2 2h-16c-2 0-2 0-2-2v-6c0-2 0-2 2-2z" fill="#a6aebf"/>
  </g>
  <g transform="matrix(1 0 0 .99976 -1 .00497)">
-  <path d="m 6 11 12 0 0 10 -12 0 z" style="fill:#bf616a"/>
+  <path d="m6 11h12v10h-12z" fill="#bf616a"/>
  </g>
- <rect width="2" height="5" x="10" y="12" style="fill:#2e3440;opacity:1;fill-opacity:1;stroke:none"/>
- <path d="m 8 16 6 0 -3 4 z" style="fill:#2e3440;opacity:1;fill-opacity:1;stroke:none"/>
+ <rect x="10" y="12" width="2" height="5" fill="#2e3440"/>
+ <path d="m8 16h6l-3 4z" fill="#2e3440"/>
 </svg>

@@ -11,8 +11,7 @@
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#a6aebf" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1120" x1="-230.59" x2="-128.89" y1="205.2" y2="247.06" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-  <linearGradient id="c">
+  <linearGradient id="linearGradient1120" x1="-230.59" x2="-128.89" y1="205.2" y2="247.06" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fcfcfc" offset="0"/>
    <stop stop-color="#e3e3e3" offset="1"/>
   </linearGradient>

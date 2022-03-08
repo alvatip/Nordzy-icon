@@ -7,7 +7,7 @@
  </g>
  <path d="m4.7624 5.8207v6.6145h7.6728v-6.6145z" color="#000000" fill="#2e3440" opacity=".15" stroke-width=".063732"/>
  <g fill="#a3be8c" stroke-width=".058836">
-  <rect id="d" x="5.027" y="6.0853" width="1.5875" height=".79373" color="#000000"/>
+  <rect x="5.027" y="6.0853" width="1.5875" height=".79373" color="#000000"/>
   <rect x="6.879" y="6.0853" width="1.5875" height=".79373" color="#000000"/>
   <rect x="8.7311" y="6.0853" width="1.5875" height=".79373" color="#000000"/>
   <rect x="10.583" y="6.0853" width="1.5875" height=".79373" color="#000000"/>

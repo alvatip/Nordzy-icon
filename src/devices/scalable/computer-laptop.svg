@@ -13,23 +13,21 @@
    <feGaussianBlur stdDeviation="0.25500006"/>
   </filter>
  </defs>
- <filter id="d" x="-.01448" y="-.016908" width="1.029" height="1.0338" color-interpolation-filters="sRGB">
+ <filter x="-.01448" y="-.016908" width="1.029" height="1.0338" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation=".74992302"/>
  </filter>
- <filter id="g" x="-.040865" y="-.504" width="1.0817" height="2.008" color-interpolation-filters="sRGB">
+ <filter x="-.040865" y="-.504" width="1.0817" height="2.008" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation=".32830532"/>
  </filter>
- <filter id="h" x="-.080467" y="-.24545" width="1.1609" height="1.4909" color-interpolation-filters="sRGB">
+ <filter x="-.080467" y="-.24545" width="1.1609" height="1.4909" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="1.4789442"/>
  </filter>
  <rect width="64" height="64" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
  <g fill-rule="evenodd">
   <path transform="matrix(2,0,0,2,-140,-58)" d="m72.286 54.105h29.714v1.0009c0 0.36933-1.7337 0.99916-3 0.99916h-26c-1.2663 0-3-0.62982-3-0.99916v-1.0009z" filter="url(#c)" opacity=".35" stroke-width=".5" style="paint-order:fill markers stroke"/>
-  <g>
-   <rect x="4" y="12" width="56" height="40" rx="2" ry="2" fill="#2e3440" style="paint-order:fill markers stroke"/>
-   <rect x="6" y="14" width="52" height="34" fill="url(#b)" style="paint-order:fill markers stroke"/>
-   <path d="m4.572 50h59.428v2.0018c0 0.73866-3.4674 1.9983-6 1.9983h-52c-2.5326 0-6-1.2596-6-1.9983v-2.0018z" fill="url(#a)" style="paint-order:fill markers stroke"/>
-  </g>
+  <rect x="4" y="12" width="56" height="40" rx="2" ry="2" fill="#2e3440" style="paint-order:fill markers stroke"/>
+  <rect x="6" y="14" width="52" height="34" fill="url(#b)" style="paint-order:fill markers stroke"/>
+  <path d="m4.572 50h59.428v2.0018c0 0.73866-3.4674 1.9983-6 1.9983h-52c-2.5326 0-6-1.2596-6-1.9983v-2.0018z" fill="url(#a)" style="paint-order:fill markers stroke"/>
   <path d="m22 50c0 1.108 0.892 2 2 2h16c1.108 0 2-0.892 2-2z" fill="#4c566a" opacity=".35" stroke-width=".5" style="paint-order:fill markers stroke"/>
  </g>
 </svg>

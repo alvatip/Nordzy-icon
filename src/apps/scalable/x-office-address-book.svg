@@ -1,4 +1,4 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
@@ -49,15 +49,13 @@
   <path transform="scale(.26458)" d="m42.894 31.975-1e-6 -14.123 17.606-0.001058-1e-6 14.123" fill="url(#linearGradient5557)" stroke-width="4.6391"/>
  </g>
  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.052"/>
- <g>
-  <g stroke-linecap="round" stroke-linejoin="round">
-   <g stroke-width="1.2274">
-    <path d="m11.296 4.8028v-3.7971h1.6583c1.662 0 3 1.338 3 3v0.79684" fill="#2e3440" filter="url(#filter5459)" opacity=".38738"/>
-    <path d="m11.349 4.7232v-3.7971h1.6583c1.662 0 3 1.338 3 3v0.79684" fill="url(#linearGradient5357)"/>
-    <path d="m11.508 16.007h-7.4227c-1.662 0-3-1.338-3-3v-9.081c0-1.662 1.338-3 3-3h7.4227" fill="#2e3440" filter="url(#filter5263)" opacity=".4085"/>
-   </g>
-   <path transform="scale(.26458)" d="m42.894 60.5-28.055-1e-6c-6.2817 0-11.339-5.0571-11.339-11.339v-34.323c0-6.2817 5.0571-11.339 11.339-11.339h28.055" fill="url(#linearGradient4923)" stroke-width="4.6391"/>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <g stroke-width="1.2274">
+   <path d="m11.296 4.8028v-3.7971h1.6583c1.662 0 3 1.338 3 3v0.79684" fill="#2e3440" filter="url(#filter5459)" opacity=".38738"/>
+   <path d="m11.349 4.7232v-3.7971h1.6583c1.662 0 3 1.338 3 3v0.79684" fill="url(#linearGradient5357)"/>
+   <path d="m11.508 16.007h-7.4227c-1.662 0-3-1.338-3-3v-9.081c0-1.662 1.338-3 3-3h7.4227" fill="#2e3440" filter="url(#filter5263)" opacity=".4085"/>
   </g>
-  <text x="3.2765412" y="9.9464874" fill="url(#linearGradient6235)" font-family="sans-serif" font-size="5.7134px" font-weight="bold" letter-spacing="0px" stroke-width=".53562" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="3.2765412" y="9.9464874" fill="url(#linearGradient6235)" font-family="Arial" font-weight="bold" stroke-width=".53562">@</tspan></text>
+  <path transform="scale(.26458)" d="m42.894 60.5-28.055-1e-6c-6.2817 0-11.339-5.0571-11.339-11.339v-34.323c0-6.2817 5.0571-11.339 11.339-11.339h28.055" fill="url(#linearGradient4923)" stroke-width="4.6391"/>
  </g>
+ <text x="3.2765412" y="9.9464874" fill="url(#linearGradient6235)" font-family="sans-serif" font-size="5.7134px" font-weight="bold" letter-spacing="0px" stroke-width=".53562" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="3.2765412" y="9.9464874" fill="url(#linearGradient6235)" font-family="Arial" font-weight="bold" stroke-width=".53562">@</tspan></text>
 </svg>

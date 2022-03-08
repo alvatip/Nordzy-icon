@@ -1,22 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
       }
       .ColorScheme-PositiveText {
         color:#a3be8c;
-      }
-      </style>
-  </defs>
-  <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 6 L 4 18 L 12 18 L 12 17 L 5 17 L 5 7 L 19 7 L 19 11 L 20 11 L 20 6 L 4 6 z M 8.5 8 C 7.669 8 7 8.669 7 9.5 L 7 11 L 6 11 L 6 14 L 11 14 L 11 11 L 10 11 L 10 9.5 C 10 8.669 9.331 8 8.5 8 z M 8.5 9 C 8.777 9 9 9.223 9 9.5 L 9 11 L 8 11 L 8 9.5 C 8 9.223 8.223 9 8.5 9 z M 12 9 L 12 10 L 18 10 L 18 9 L 12 9 z M 12 11 L 12 12 L 17 12 L 17 11 L 12 11 z M 12 13 L 12 14 L 16 14 L 16 13 L 12 13 z "
-     class="ColorScheme-Text"
-     />
-  <path
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     class="ColorScheme-PositiveText"
-     d="M 19 12 L 18.003906 12.994141 L 18 12.990234 L 13 17.988281 L 13.005859 17.994141 L 13 18 L 13.007812 18.007812 L 13.003906 19 L 13 19 L 13 19.990234 L 13 20 L 15 20 L 15.005859 19.994141 L 15.009766 19.990234 C 15.013766 19.990214 15.015531 19.992187 15.019531 19.992188 L 15.013672 19.986328 L 16 19 L 20 15.003906 C 19.996 15.005906 19.995234 15.006766 19.990234 15.009766 L 20 14.998047 L 20.998047 14 L 21 13.998047 L 19 12 z "
-      />
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m4 6v12h8v-1h-7v-10h14v4h1v-5h-16zm4.5 2c-0.831 0-1.5 0.669-1.5 1.5v1.5h-1v3h5v-3h-1v-1.5c0-0.831-0.669-1.5-1.5-1.5zm0 1c0.277 0 0.5 0.223 0.5 0.5v1.5h-1v-1.5c0-0.277 0.223-0.5 0.5-0.5zm3.5 0v1h6v-1h-6zm0 2v1h5v-1h-5zm0 2v1h4v-1h-4z" fill="currentColor"/>
+ <path class="ColorScheme-PositiveText" d="m19 12-0.99609 0.99414-0.003906-0.003907-5 4.998 0.005859 0.00586-0.005859 0.005859 0.007812 0.007812-0.003906 0.99219h-0.003906v0.99023 0.009766h2l0.009766-0.009766c4e-3 -2e-5 0.005765 0.001953 0.009765 0.001954l-0.005859-0.00586 0.98633-0.98633 4-3.9961c-4e-3 2e-3 -0.004766 0.00286-0.009766 0.00586l0.009766-0.011719 1-1-2-1.998z" fill="currentColor"/>
 </svg>

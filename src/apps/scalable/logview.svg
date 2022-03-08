@@ -1,4 +1,4 @@
-<svg id="SimpleNote" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="c" x1="42.137" x2="45.252" y1="45.492" y2="42.441" gradientTransform="matrix(1.0585 0 0 1.0585 1.3541 -3.4368)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#242424" offset="0"/>

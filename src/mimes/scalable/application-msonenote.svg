@@ -24,7 +24,7 @@
   <linearGradient id="linearGradient6755-6" x1="3.1749" x2="2.1166" y1="8.4665" y2="8.4665" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6261"/>
   <radialGradient id="radialGradient6757-1" cx="13.758" cy="15.346" r=".79373" gradientTransform="matrix(0,1.6667,-1.3333,0,34.219,-7.5846)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6261"/>
   <radialGradient id="radialGradient6759-8" cx="3.1749" cy="15.346" r=".79373" gradientTransform="matrix(-1.3333,0,0,-1.6667,7.4082,40.921)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6261"/>
-  <linearGradient id="linearGradient6761-7" x1="21.039" x2="21.039" y1="2" y2="62" gradientTransform="matrix(1 0 0 1 -.022708 .024427)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient6761-7" x1="21.039" x2="21.039" y1="2" y2="62" gradientTransform="translate(-.022708 .024427)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#dbc7c5" offset="0"/>
    <stop stop-color="#b48ead" offset="1"/>
   </linearGradient>
@@ -38,7 +38,7 @@
   <linearGradient id="linearGradient7286" x1="10.583" x2="6.3499" y1="3.1749" y2="3.1749" gradientTransform="matrix(3.7796 0 0 2.5197 -57.025 35.313)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6261"/>
   <linearGradient id="linearGradient7288" x1="10.583" x2="8.7237" y1="3.0426" y2="3.0426" gradientTransform="matrix(3.7796 0 0 2.5197 -57.025 35.313)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6261"/>
   <radialGradient id="radialGradient6781-2" cx="40" cy="12" r="8" gradientTransform="matrix(1.4336 0 0 -.87849 -11.365 27.566)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6261"/>
-  <linearGradient id="linearGradient7290" x1="40" x2="47.748" y1="17" y2="9.3176" gradientTransform="matrix(1 0 0 1 -.022708 .024427)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient7290" x1="40" x2="47.748" y1="17" y2="9.3176" gradientTransform="translate(-.022708 .024427)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#eceff4" offset="0"/>
    <stop stop-color="#d8dee9" offset="1"/>
   </linearGradient>

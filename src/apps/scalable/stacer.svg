@@ -1,4 +1,4 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691955"/>
@@ -25,14 +25,12 @@
  <g fill="none">
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.052"/>
   <path d="m4.2452 12.847c-1.7491-1.7365-2.2735-4.3587-1.3267-6.6343 0.94682-2.2756 3.1765-3.7519 5.6412-3.7351 2.4646 0.016789 4.6741 1.5234 5.5898 3.8117 0.91573 2.2883 0.35566 4.9032-1.417 6.6156" stroke="url(#linearGradient2162)" stroke-width=".95095"/>
-  <g stroke="#eceff4" stroke-linecap="round">
-   <path d="m8.4665 3.3043v1.0232" stroke-width=".34395"/>
-   <g stroke-width=".34395">
-    <path d="m13.676 8.4925h-1.0232"/>
-    <path d="m12.146 4.8195-0.72348 0.72348"/>
-    <path d="m3.2783 8.5138 1.0232-3e-7"/>
-    <path d="m4.7935 4.8346 0.72348 0.72348"/>
-   </g>
+  <g stroke="#eceff4" stroke-linecap="round" stroke-width=".34395">
+   <path d="m8.4665 3.3043v1.0232"/>
+   <path d="m13.676 8.4925h-1.0232"/>
+   <path d="m12.146 4.8195-0.72348 0.72348"/>
+   <path d="m3.2783 8.5138 1.0232-3e-7"/>
+   <path d="m4.7935 4.8346 0.72348 0.72348"/>
   </g>
  </g>
  <path d="m4.8086 12.187 0.72348-0.72348" fill="#88c0d0" stroke="#5e81ac" stroke-linecap="round" stroke-width=".34395"/>

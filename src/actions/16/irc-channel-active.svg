@@ -1,20 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
       }
       .ColorScheme-PositiveText {
         color:#a3be8c;
-      }
-      </style>
-  </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="m 4,2 0,2 -2,0 0,1 2,0 0,6 -2,0 0,1 2,0 0,2 1,0 0,-2 6,0 0,2 1,0 0,-2 2,0 0,-1 -2,0 0,-6 2.310547,0 0,-1 L 12,4 12,2 11,2 11,4 5,4 5,2 4,2 Z m 1,3 6,0 0,6 -6,0 0,-6 z"
-     class="ColorScheme-Text"
-     />
-  <path
-      style="fill:currentColor;fill-opacity:1;stroke:none" 
-     class="ColorScheme-PositiveText"
-   d="m 10.499991,6.9999781 c 1.939,0 3.5,1.561 3.5,3.4999999 0,1.939 -1.561,3.5 -3.5,3.5 -1.939,0 -3.5,-1.561 -3.5,-3.5 0,-1.9389999 1.561,-3.4999999 3.5,-3.4999999 z"/>
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m4 2v2h-2v1h2v6h-2v1h2v2h1v-2h6v2h1v-2h2v-1h-2v-6h2.3105v-1h-2.3105v-2h-1v2h-6v-2h-1zm1 3h6v6h-6v-6z" fill="currentColor"/>
+ <path class="ColorScheme-PositiveText" d="m10.5 7c1.939 0 3.5 1.561 3.5 3.5 0 1.939-1.561 3.5-3.5 3.5s-3.5-1.561-3.5-3.5c0-1.939 1.561-3.5 3.5-3.5z" fill="currentColor"/>
 </svg>

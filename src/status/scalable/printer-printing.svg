@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <g style="fill-rule:evenodd">
-  <path d="m 16 4 l 16 0 c 4 0 4 -0.398 4 4 l 0 16 c 0 4 0 4 -4 4 l -16 0 c -4 0 -4 0 -4 -4 l 0 -16 c 0 -4 0 -4 4 -4 Z" style="fill:#7b88a1;fill-opacity:0.941"/>
-  <path d="m 8 16 l 32 0 c 4 0 4 0 4 4 l 0 12 c 0 4 0 4 -4 4 l -32 0 c -4 0 -4 0 -4 -4 l 0 -12 c 0 -4 0 -4 4 -4 Z" style="fill:#a6aebf"/>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path d="m16 4h16c4 0 4-0.398 4 4v16c0 4 0 4-4 4h-16c-4 0-4 0-4-4v-16c0-4 0-4 4-4z" fill="#7b88a1" fill-opacity=".941"/>
+  <path d="m8 16h32c4 0 4 0 4 4v12c0 4 0 4-4 4h-32c-4 0-4 0-4-4v-12c0-4 0-4 4-4z" fill="#a6aebf"/>
  </g>
- <path d="m 12 24 l 24 0 l 0 20 l -24 0 Z" style="fill:#bf616a"/>
- <rect width="4" height="10" x="22" y="27" style="fill:#eceff4;opacity:1;fill-opacity:1;stroke:none"/>
- <path d="m 18 34 12 0 -6 8 z" style="fill:#eceff4;opacity:1;fill-opacity:1;stroke:none"/>
+ <path d="m12 24h24v20h-24z" fill="#bf616a"/>
+ <rect x="22" y="27" width="4" height="10" fill="#eceff4"/>
+ <path d="m18 34h12l-6 8z" fill="#eceff4"/>
 </svg>

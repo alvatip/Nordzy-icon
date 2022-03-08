@@ -95,8 +95,6 @@
   <path transform="matrix(.51413 0 0 -.51413 -53.55 32.211)" d="m127.12 42.131-2.2391-3.8798 4.4796 8.24e-4z" fill="url(#linearGradient16771)"/>
   <path transform="matrix(.51413 0 0 .51413 -52.399 -9.1153)" d="m127.12 42.131-2.2391-3.8798 4.4796 8.24e-4z" fill="url(#linearGradient17145)"/>
   <path transform="matrix(.51413 0 0 -.51413 -51.247 32.211)" d="m127.12 42.131-2.2391-3.8798 4.4796 8.24e-4z" fill="url(#linearGradient17409)"/>
- </g>
- <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".1">
   <path transform="matrix(.51413 0 0 -.51413 -58.156 32.211)" d="m127.12 42.131-2.2391-3.8798 4.4796 8.24e-4z" fill="#5e81ac"/>
   <path transform="matrix(.51413 0 0 .51413 -55.854 -11.111)" d="m127.12 42.131-2.2391-3.8798 4.4796 8.24e-4z" fill="#8fbcbb" style="mix-blend-mode:multiply"/>
  </g>

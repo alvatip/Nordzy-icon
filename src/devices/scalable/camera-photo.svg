@@ -56,11 +56,9 @@
   <path d="m1.0583 11.906v0.59234c0 1.9386 1.5729 3.4993 3.3318 3.4993h8.1603c1.7589 0 3.3243-1.5608 3.3243-3.4993v-0.58095c-0.0056 2.0952-1.5372 3.7801-3.4395 3.7801h-7.9368c-1.9058 0-3.44-1.691-3.44-3.7915z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".05" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
  </g>
  <rect x="1.0583" y="1.05" width="14.817" height="14.817" rx="3.44" ry="3.44" fill="url(#linearGradient960)"/>
- <g>
-  <circle cx="8.4665" cy="8.4665" r="5.5562" fill="url(#e)"/>
-  <circle cx="8.4665" cy="8.4665" r="4.4289" fill="url(#d)"/>
-  <circle cx="8.4665" cy="8.4665" r="3.6907" fill="url(#c)"/>
- </g>
+ <circle cx="8.4665" cy="8.4665" r="5.5562" fill="url(#e)"/>
+ <circle cx="8.4665" cy="8.4665" r="4.4289" fill="url(#d)"/>
+ <circle cx="8.4665" cy="8.4665" r="3.6907" fill="url(#c)"/>
  <circle cx="8.4665" cy="8.4665" r="2.8707" fill="url(#b)" stroke="#5e81ac" stroke-linecap="round" stroke-linejoin="round" stroke-width=".23458"/>
  <g stroke-width="1.4338">
   <path transform="matrix(.69746 0 0 .69746 2.5613 2.566)" d="m4.9448 6.47 1.4646 0.81043s0.45771-0.47747 0.77192-0.68614c0.34816-0.2312 1.1047-0.41587 1.0925-0.36047l-0.24082-1.7621s-1.6213-0.1607-3.0882 1.9983z" fill="#5e81ac" filter="url(#n)" opacity=".8"/>

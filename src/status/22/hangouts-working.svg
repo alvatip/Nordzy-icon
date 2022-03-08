@@ -1,8 +1,5 @@
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
- <g transform="matrix(0.03690888,0,0,0.03690888,1.3529415,2.705883)" style="fill:#2e3440;opacity:1;fill-opacity:1">
-  <g>
-   <path d="m 11 3 c -4.424 0 -8 3.576 -8 8 c 0 4.424 3.576 8 8 8 l 0 3 c 4.612 -2.165 8 -6.765 8 -11 c 0 -4.424 -3.576 -8 -8 -8 z m -5 7 l 2 0 l 0 2 l -2 0 l 0 -2 z m 4 0 l 2 0 l 0 2 l -2 0 l 0 -2 z m 4 0 l 2 0 l 0 2 l -2 0 l 0 -2 z" transform="matrix(27.093751,0,0,27.093751,-36.65626,-73.31252)"/>
-  </g>
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.036909 0 0 .036909 1.3529 2.7059)" fill="#2e3440">
+  <path transform="matrix(27.094 0 0 27.094 -36.656 -73.313)" d="m11 3c-4.424 0-8 3.576-8 8s3.576 8 8 8v3c4.612-2.165 8-6.765 8-11 0-4.424-3.576-8-8-8zm-5 7h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2z"/>
  </g>
 </svg>

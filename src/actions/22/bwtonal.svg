@@ -1,17 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
-      }
-      </style>
-  </defs>
- <g transform="translate(-544.57141-742.93359)" 
-	style="fill:currentColor;fill-opacity:1;stroke:none" 
-	class="ColorScheme-Text"
- >
-  <circle r="4.999998" cy="756.93359" cx="558.57141" style="opacity:.8"/>
-  <circle r="4.999998" cy="756.93359" cx="552.57141" style="opacity:.4"/>
-  <circle r="4.999998" cy="750.93359" cx="555.57141" style="opacity:.6"/>
+      }</style>
+ </defs>
+ <g class="ColorScheme-Text" transform="translate(-544.57 -742.93)" fill="currentColor">
+  <circle cx="558.57" cy="756.93" r="5" opacity=".8"/>
+  <circle cx="552.57" cy="756.93" r="5" opacity=".4"/>
+  <circle cx="555.57" cy="750.93" r="5" opacity=".6"/>
  </g>
 </svg>

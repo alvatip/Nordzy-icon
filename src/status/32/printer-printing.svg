@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
- <g style="fill-rule:evenodd">
-  <path d="m 9.332 0.008 l 13.336 0 c 3.332 0 3.332 -0.332 3.332 3.332 l 0 13.328 c 0 3.332 0 3.332 -3.332 3.332 l -13.336 0 c -3.332 0 -3.332 0 -3.332 -3.332 l 0 -13.328 c 0 -3.332 0 -3.332 3.332 -3.332 Z" style="fill:#7b88a1;fill-opacity:0.941"/>
-  <path d="M 3.199219 8 L 28.800781 8 C 32 8 32 8 32 11.199219 L 32 20.800781 C 32 24 32 24 28.800781 24 L 3.199219 24 C 0 24 0 24 0 20.800781 L 0 11.199219 C 0 8 0 8 3.199219 8 Z " style="fill:#a6aebf"/>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path d="m9.332 8e-3h13.336c3.332 0 3.332-0.332 3.332 3.332v13.328c0 3.332 0 3.332-3.332 3.332h-13.336c-3.332 0-3.332 0-3.332-3.332v-13.328c0-3.332 0-3.332 3.332-3.332z" fill="#7b88a1" fill-opacity=".941"/>
+  <path d="m3.1992 8h25.602c3.1992 0 3.1992 0 3.1992 3.1992v9.6016c0 3.1992 0 3.1992-3.1992 3.1992h-25.602c-3.1992 0-3.1992 0-3.1992-3.1992v-9.6016c0-3.1992 0-3.1992 3.1992-3.1992z" fill="#a6aebf"/>
  </g>
- <path d="m 6 16 l 20 0 l 0 16 l -20 0 Z" style="fill:#bf616a"/>
- <rect width="4" height="8" x="14" y="18" style="fill:#eceff4;opacity:1;fill-opacity:1;stroke:none"/>
- <path d="m 10 24 12 0 -6 6 z" style="fill:#eceff4;opacity:1;fill-opacity:1;stroke:none"/>
+ <path d="m6 16h20v16h-20z" fill="#bf616a"/>
+ <rect x="14" y="18" width="4" height="8" fill="#eceff4"/>
+ <path d="m10 24h12l-6 6z" fill="#eceff4"/>
 </svg>

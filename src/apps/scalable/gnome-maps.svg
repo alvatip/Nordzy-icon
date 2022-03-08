@@ -10,7 +10,7 @@
    <feGaussianBlur stdDeviation="1.5386188"/>
   </filter>
  </defs>
- <filter id="i" x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
+ <filter x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="1.9764485"/>
  </filter>
  <g stroke-linecap="round" stroke-linejoin="round">

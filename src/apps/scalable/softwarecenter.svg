@@ -7,11 +7,10 @@
   <filter id="filter9708" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.010417764"/>
   </filter>
-  <linearGradient id="linearGradient9748" x1="8.3518" x2="8.3702" y1="10.272" y2="8.1255" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient1446" x1="8.3518" x2="8.3702" y1="10.272" y2="8.1255" gradientUnits="userSpaceOnUse">
    <stop stop-color="#8eadd0" offset="0"/>
    <stop stop-color="#fff" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1446" x1="8.3518" x2="8.3702" y1="10.272" y2="8.1255" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient9748"/>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>

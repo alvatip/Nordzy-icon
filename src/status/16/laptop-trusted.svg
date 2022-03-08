@@ -1,4 +1,4 @@
-<svg viewBox="0 0 16 16" style="enable-background:new" xmlns="http://www.w3.org/2000/svg">
- <path white-space="normal" mix-blend-mode="normal" d="m 2.5 2 c -0.814 0 -1.5 0.686 -1.5 1.5 l 0 8 c 0 0.814 0.686 1.5 1.5 1.5 l 11 0 c 0.814 0 1.5 -0.686 1.5 -1.5 l 0 -8 c 0 -0.814 -0.686 -1.5 -1.5 -1.5 l -11 0 m 0.5 2 10 0 0 7 -10 0 0 -7" isolation="auto" solid-opacity="1" style="visibility:visible;shape-rendering:auto;color-interpolation-filters:linearRGB;fill:#2e3440;opacity:0.4;image-rendering:auto;fill-opacity:1;stroke:none;display:inline;color:#000;fill-rule:nonzero;color-rendering:auto;color-interpolation:sRGB" solid-color="#000000"/>
- <path style="fill:#2e3440;opacity:0.4;fill-opacity:1;stroke:none;fill-rule:nonzero" d="m 0 14 0 1 c 0 0.554 0.669 1 1.5 1 l 13 0 c 0.831 0 1.5 -0.446 1.5 -1 l 0 -1 -6 0 0 1 -4 0 0 -1 z"/>
+<svg enable-background="new" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m2.5 2c-0.814 0-1.5 0.686-1.5 1.5v8c0 0.814 0.686 1.5 1.5 1.5h11c0.814 0 1.5-0.686 1.5-1.5v-8c0-0.814-0.686-1.5-1.5-1.5h-11m0.5 2h10v7h-10v-7" color-rendering="auto" fill="#2e3440" image-rendering="auto" opacity=".4" shape-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
+ <path d="m0 14v1c0 0.554 0.669 1 1.5 1h13c0.831 0 1.5-0.446 1.5-1v-1h-6v1h-4v-1z" fill="#2e3440" opacity=".4"/>
 </svg>

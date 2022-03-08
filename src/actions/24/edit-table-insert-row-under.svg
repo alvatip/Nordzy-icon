@@ -1,22 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
       }
       .ColorScheme-Highlight {
         color:#88c0d0;
-      }
-      </style>
-  </defs>
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 4 L 4 9 L 5 9 L 5 5 L 7 5 L 7 8 L 7 9 L 8 9 L 8 8 L 8 5 L 10 5 L 10 9 L 11 9 L 11 5 L 13 5 L 13 9 L 14 9 L 14 5 L 16 5 L 16 8 L 16 9 L 17 9 L 17 8 L 17 5 L 19 5 L 19 9 L 20 9 L 20 5 L 20 4 L 5 4 L 4 4 z M 15 10 L 17.5 15 L 20 10 L 15 10 z M 4 15 L 4 20 L 5 20 L 13 20 L 14 20 L 16 20 L 17 20 L 19 20 L 20 20 L 20 19 L 20 15 L 19 15 L 19 19 L 17 19 L 17 15 L 16 15 L 16 19 L 14 19 L 14 15 L 13 15 L 13 19 L 11 19 L 11 15 L 10 15 L 10 19 L 8 19 L 8 15 L 7 15 L 7 19 L 5 19 L 5 15 L 4 15 z "
-     class="ColorScheme-Text"
-     />
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-     d="M 4 9 L 4 10 L 5 10 L 8.28125 10 L 5 13.28125 L 5 13.292969 L 4.2929688 14 L 4 14 L 4 15 L 5 15 L 12 15 L 14 15 L 14 14 L 13.71875 14 L 14 13.71875 L 14 12.28125 L 12.28125 14 L 12 14 L 9.71875 14 L 12 11.71875 L 13.71875 10 L 14 10 L 14 9 L 12 9 L 9.2929688 9 L 5 9 L 4 9 z M 9.71875 10 L 12 10 L 12.28125 10 L 12 10.28125 L 8.28125 14 L 5.71875 14 L 9.71875 10 z "
-     class="ColorScheme-Highlight"
-     />
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m4 4v5h1v-4h2v3 1h1v-1-3h2v4h1v-4h2v4h1v-4h2v3 1h1v-1-3h2v4h1v-4-1h-15-1zm11 6 2.5 5 2.5-5h-5zm-11 5v5h1 8 1 2 1 2 1v-1-4h-1v4h-2v-4h-1v4h-2v-4h-1v4h-2v-4h-1v4h-2v-4h-1v4h-2v-4h-1z" fill="currentColor"/>
+ <path class="ColorScheme-Highlight" d="m4 9v1h1 3.2812l-3.2812 3.2812v0.011719l-0.70703 0.70703h-0.29297v1h1 7 2v-1h-0.28125l0.28125-0.28125v-1.4375l-1.7188 1.7188h-0.28125-2.2812l4-4h0.28125v-1h-2-2.707-4.293-1zm5.7188 1h2.2812 0.28125l-4 4h-2.5625l4-4z" fill="currentColor"/>
 </svg>

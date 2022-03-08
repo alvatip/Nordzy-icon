@@ -1,1 +1,10 @@
-<svg height="16" viewBox="0 0 4.2333332 4.2333335" width="16" xmlns="http://www.w3.org/2000/svg"><style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#2e3440;}</style><g style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" transform="translate(0 -292.76665)"><path d="m.52916664 296.20624v-.26458h.79375006v.26458z"/><path d="m.52916666 293.5604v.26458h2.38125004v-.26458z"/><path d="m.52916668 295.41249v-.26458h1.32291662v.26458z"/><path d="m.52916672 294.61874v-.26458h1.85208328v.26458z"/><path d="m2.778125 296.47082-.9260417-.92604.1870687-.18707.6066813.60668v-1.08106h.2645833v1.08106l.6066814-.60668.1870686.18707z"/></g></svg>
+<svg width="16" height="16" viewBox="0 0 4.2333 4.2333" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.ColorScheme-Text{color:#2e3440;}</style>
+ <g class="ColorScheme-Text" transform="translate(0 -292.77)" fill="currentColor">
+  <path d="m0.52917 296.21v-0.26458h0.79375v0.26458z"/>
+  <path d="m0.52917 293.56v0.26458h2.3813v-0.26458z"/>
+  <path d="m0.52917 295.41v-0.26458h1.3229v0.26458z"/>
+  <path d="m0.52917 294.62v-0.26458h1.8521v0.26458z"/>
+  <path d="m2.7781 296.47-0.92604-0.92604 0.18707-0.18707 0.60668 0.60668v-1.0811h0.26458v1.0811l0.60668-0.60668 0.18707 0.18707z"/>
+ </g>
+</svg>

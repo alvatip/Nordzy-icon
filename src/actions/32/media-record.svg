@@ -1,16 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
-      }
-      </style>
-  </defs>
-  <path
-     style="fill:#bf616a"
-     d="M 26 16 A 10 10 0 0 1 16 26 10 10 0 0 1 6 16 10 10 0 0 1 16 6 10 10 0 0 1 26 16 Z"
-     id="circle44" />
+      }</style>
+ </defs>
+ <path d="m26 16a10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10 10 10 0 0 1 10 10z" fill="#bf616a"/>
 </svg>

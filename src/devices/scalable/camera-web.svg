@@ -8,11 +8,7 @@
    <stop stop-color="#5e81ac" offset="0"/>
    <stop stop-color="#88c0d0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4352" x1="400.57" x2="415.57" y1="512.8" y2="527.8" gradientTransform="matrix(1.1818 0 0 1.1818 -74.286 -95.236)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e5d89" offset="0"/>
-   <stop stop-color="#1b92f4" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4356" x1="397.48" x2="415.57" y1="509.7" y2="527.8" gradientTransform="matrix(1 0 0 1 -.000424 -1.0006)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient4356" x1="397.48" x2="415.57" y1="509.7" y2="527.8" gradientTransform="translate(-.000424 -1.0006)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#5e81ac" offset="0"/>
    <stop stop-color="#88c0d0" offset="1"/>
   </linearGradient>

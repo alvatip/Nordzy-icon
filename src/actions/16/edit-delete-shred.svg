@@ -1,5 +1,5 @@
 <svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <style id="current-color-scheme" type="text/css">.ColorScheme-NegativeText{color:#bf616a;}</style>
+ <style type="text/css">.ColorScheme-NegativeText{color:#bf616a;}</style>
  <path class="ColorScheme-NegativeText" d="m3 2v5h1v-4h5v3h3v1h1v-2l-3-3z" fill="currentColor"/>
  <path class="ColorScheme-NegativeText" d="m2 8h12v1h-12z" fill="currentColor"/>
  <g fill="#bf616a">

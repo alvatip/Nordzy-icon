@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <g transform="matrix(1.25 0 0 -1.25 -779.57 974.4)">
-  <g transform="matrix(0.16747 0 0 0.16747 638.97 769.43)" style="fill:#2e3440;fill-opacity:1">
-   <path style="stroke:none;fill-rule:evenodd" d="m -72.34 41.14 0 -66.878 19.11 0 0 -14.331 14.331 14.331 23.885 0 19.11 19.11 0 47.77 z m 19.11 -19.11 9.554 0 0 -28.662 -9.554 0 z m 28.662 0 9.554 0 0 -28.662 -9.554 0 z"/>
+  <g transform="matrix(.16747 0 0 .16747 638.97 769.43)" fill="#2e3440">
+   <path d="m-72.34 41.14v-66.878h19.11v-14.331l14.331 14.331h23.885l19.11 19.11v47.77zm19.11-19.11h9.554v-28.662h-9.554zm28.662 0h9.554v-28.662h-9.554z" fill-rule="evenodd"/>
   </g>
  </g>
 </svg>

@@ -1,27 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
       }
       .ColorScheme-Highlight {
         color:#88c0d0;
-      }
-      </style>
-  </defs>
-  <path 
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-        d="M 11.003906 3.5 A 7.5 7.5 0 0 0 3.5039062 11 L 4.5039062 11 A 6.5 6.5 0 0 1 11.003906 4.5 L 11.003906 3.5 z M 12 10 A 2 2 0 0 0 10 12 A 2 2 0 0 0 10.279297 13.013672 L 11.039062 12.257812 A 1 1 0 0 1 11 12 A 1 1 0 0 1 12 11 A 1 1 0 0 1 12.257812 11.035156 L 13.009766 10.279297 A 2 2 0 0 0 12 10 z M 13.720703 10.986328 L 12.964844 11.742188 A 1 1 0 0 1 13 12 A 1 1 0 0 1 12 13 A 1 1 0 0 1 11.742188 12.964844 L 10.986328 13.720703 A 2 2 0 0 0 12 14 A 2 2 0 0 0 14 12 A 2 2 0 0 0 13.720703 10.986328 z "
-        class="ColorScheme-Text"
-        />
-  <path 
-        style="fill:currentColor;fill-opacity:0.5;stroke:none"
-        d="M 10,4.59 C 7.211,5.028 5.023,7.215 4.586,10.004 l 1.414,0 0,3 3.178,0 C 9.062,12.683 9.002,12.345 9,12.004 c 0,-1.657 1.343,-3 3,-3 0.341,0.001 0.679,0.061 1,0.176 l 0,-3.176 -3,0 z"
-        class="ColorScheme-Text"
-        />
-  <path
-        style="fill:currentColor;fill-opacity:1;stroke:none"
-     d="M 10 2 L 10 6 L 14 6 L 14 2 L 10 2 z M 11 3 L 13 3 L 13 5 L 11 5 L 11 3 z M 2 10 L 2 14 L 6 14 L 6 10 L 2 10 z M 3 11 L 5 11 L 5 13 L 3 13 L 3 11 z "
-        class="ColorScheme-Highlight"
-      />
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m11.004 3.5a7.5 7.5 0 0 0-7.5 7.5h1a6.5 6.5 0 0 1 6.5-6.5v-1zm0.99609 6.5a2 2 0 0 0-2 2 2 2 0 0 0 0.2793 1.0137l0.75976-0.75586a1 1 0 0 1-0.039062-0.25781 1 1 0 0 1 1-1 1 1 0 0 1 0.25781 0.035156l0.75195-0.75586a2 2 0 0 0-1.0098-0.2793zm1.7207 0.98633-0.75586 0.75586a1 1 0 0 1 0.035156 0.25781 1 1 0 0 1-1 1 1 1 0 0 1-0.25781-0.035156l-0.75586 0.75586a2 2 0 0 0 1.0137 0.2793 2 2 0 0 0 2-2 2 2 0 0 0-0.2793-1.0137z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m10 4.59c-2.789 0.438-4.977 2.625-5.414 5.414h1.414v3h3.178c-0.116-0.321-0.176-0.659-0.178-1 0-1.657 1.343-3 3-3 0.341 1e-3 0.679 0.061 1 0.176v-3.176h-3z" fill="currentColor" fill-opacity=".5"/>
+ <path class="ColorScheme-Highlight" d="m10 2v4h4v-4h-4zm1 1h2v2h-2v-2zm-9 7v4h4v-4h-4zm1 1h2v2h-2v-2z" fill="currentColor"/>
 </svg>

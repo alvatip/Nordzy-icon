@@ -1,18 +1,13 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="c">
-   <stop stop-color="#fcfcfc" offset="0"/>
-   <stop stop-color="#e3e3e3" offset="1"/>
-  </linearGradient>
   <linearGradient id="b" x1="-241.22" x2="-241.22" y1="231.54" y2="240.93" gradientTransform="matrix(.15859 0 0 .15786 45.846 -32.215)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#a6aebf" offset="1"/>
   </linearGradient>
-  <linearGradient id="a" x1="-230.59" x2="-128.89" y1="205.2" y2="247.06" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
+  <linearGradient id="linearGradient1120" x1="-230.59" x2="-128.89" y1="205.2" y2="247.06" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fcfcfc" offset="0"/>
+   <stop stop-color="#e3e3e3" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1120" x1="-230.59" x2="-128.89" y1="205.2" y2="247.06" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
  </defs>
  <rect x=".10003" y="3.8038" width="16.733" height="9.3231" ry=".35582" fill="url(#b)" stroke="#7b88a1" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
  <g transform="matrix(.15859 0 0 .15786 36.913 -26.13)" opacity=".25" stroke-width="1.9907">

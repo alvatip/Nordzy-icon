@@ -1,9 +1,5 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient3119">
-   <stop stop-color="#cdb6c8" offset="0"/>
-   <stop stop-color="#9c6a92" offset="1"/>
-  </linearGradient>
   <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691955"/>
   </filter>
@@ -21,7 +17,10 @@
   <filter id="filter3081" x="-.11399" y="-.11399" width="1.228" height="1.228" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.37699355"/>
   </filter>
-  <linearGradient id="linearGradient3121" x1="69.843" x2="70.416" y1="-23.116" y2="8.4533" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3119"/>
+  <linearGradient id="linearGradient3121" x1="69.843" x2="70.416" y1="-23.116" y2="8.4533" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cdb6c8" offset="0"/>
+   <stop stop-color="#9c6a92" offset="1"/>
+  </linearGradient>
  </defs>
  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489"/>
  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>

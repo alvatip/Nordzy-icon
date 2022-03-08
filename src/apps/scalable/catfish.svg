@@ -27,11 +27,10 @@
    <stop stop-color="#242424" offset="0"/>
    <stop stop-color="#6a6a6a" offset="1"/>
   </linearGradient>
-  <linearGradient id="b-5" x1="26.752" x2="27.555" y1="43.539" y2="14.105" gradientTransform="matrix(.23696 0 0 .23696 3.1502 -13.881)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient4201" x1="26.752" x2="27.555" y1="43.539" y2="14.105" gradientTransform="matrix(.23696 0 0 .23696 3.1502 -13.881)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#696969" offset="0"/>
    <stop stop-color="#979797" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient4201" x1="26.752" x2="27.555" y1="43.539" y2="14.105" gradientTransform="matrix(.23696 0 0 .23696 3.1502 -13.881)" gradientUnits="userSpaceOnUse" xlink:href="#b-5"/>
  </defs>
  <g transform="translate(-.0076499 -.0030174)">
   <g stroke-linecap="round" stroke-linejoin="round">

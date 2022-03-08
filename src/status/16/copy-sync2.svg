@@ -1,8 +1,6 @@
-
-<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg style="enable-background:new 0 0 24 24" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <polygon style="fill:#2e3440;opacity:0.4;fill-opacity:1" points="22.76,1.286 18.162,10.28 16.033,8.347 22.172,0.866 " transform="matrix(0.74345 0 0 0.74348 -0.922 -0.644)"/>
- <path d="m 3 6.999 -3 1 l 0 -1 l 3 -2.603 0.999 0.602 1.73 4.256 -1.729 1.745 z" style="fill:#2e3440;fill-opacity:1;stroke-width:1.158"/>
- <path d="m 3 4.396 -3 2.604 l 0 1 l 3 -1 1 4 1 4 2.459 -1.489 l 0 -0.002 l 8.238 2.49 l 0.274 0 l 0.028 -0.227 -3 -6.772 -1 -1 -5.118 4.091 -1.153 -2.836 -1.729 -4.256" style="fill:#2e3440;opacity:0.4;fill-opacity:1;stroke-width:1.158"/>
- <path d="m 7.583 9.998 -1.562 -2.999 1.979 -1 c 0.999 0 2.999 1 2.999 1 z" style="fill:#2e3440;opacity:0.4;fill-opacity:1;stroke-width:1.158"/>
+<svg enable-background="new 0 0 24 24" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <polygon transform="matrix(.74345 0 0 .74348 -.922 -.644)" points="22.76 1.286 18.162 10.28 16.033 8.347 22.172 0.866" fill="#2e3440" opacity=".4"/>
+ <path d="m3 6.999-3 1v-1l3-2.603 0.999 0.602 1.73 4.256-1.729 1.745z" fill="#2e3440" stroke-width="1.158"/>
+ <path d="m3 4.396-3 2.604v1l3-1 2 8 2.459-1.489v-2e-3l8.238 2.49h0.274l0.028-0.227-3-6.772-1-1-5.118 4.091-1.153-2.836-1.729-4.256" fill="#2e3440" opacity=".4" stroke-width="1.158"/>
+ <path d="m7.583 9.998-1.562-2.999 1.979-1c0.999 0 2.999 1 2.999 1z" fill="#2e3440" opacity=".4" stroke-width="1.158"/>
 </svg>

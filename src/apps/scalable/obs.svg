@@ -21,7 +21,7 @@
    <stop stop-color="#c7c7c7" offset="1"/>
   </radialGradient>
   <clipPath id="clip-path" transform="translate(-18 -20)">
-   <path id="SVGID" class="cls-1" d="m67.938 512.12c0 245.29 198.84 444.12 444.12 444.12s444.13-198.83 444.13-444.12c0-245.28-198.84-444.12-444.13-444.12s-444.12 198.84-444.12 444.12"/>
+   <path class="cls-1" d="m67.938 512.12c0 245.29 198.84 444.12 444.12 444.12s444.13-198.83 444.13-444.12c0-245.28-198.84-444.12-444.13-444.12s-444.12 198.84-444.12 444.12"/>
   </clipPath>
   <radialGradient id="radial-gradient-5" cx="494.06" cy="492.12" r="444.12" xlink:href="#radial-gradient"/>
   <clipPath id="clip-path-2" transform="translate(-18 -20)">

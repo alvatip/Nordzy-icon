@@ -60,10 +60,6 @@
    <stop stop-color="#5e81ac" offset="0"/>
    <stop stop-color="#88c0d0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1574" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#4c566a" offset="0"/>
-   <stop stop-color="#2e3440" offset="1"/>
-  </linearGradient>
   <filter id="filter1178-56" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
@@ -154,10 +150,6 @@
   <filter id="filter888" x="-.062856" y="-.09296" width="1.1257" height="1.1859" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14481734"/>
   </filter>
-  <linearGradient id="linearGradient881" x1="5.2049" x2="5.2049" y1="7.1604" y2="3.8654" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
-  </linearGradient>
   <style>.cls-1{fill-rule:evenodd;}</style>
   <linearGradient id="linearGradient1070" x1="24.255" x2="24.483" y1="-11.18" y2="1.0418" gradientTransform="matrix(.97275 0 0 .83606 6.2895 2.3313)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#eceff4" offset="0"/>
@@ -167,8 +159,14 @@
    <stop stop-color="#4c566a" offset="0"/>
    <stop stop-color="#2e3440" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1608" x1="5.2049" x2="5.2049" y1="7.1604" y2="3.8654" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient881"/>
-  <linearGradient id="linearGradient1614" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1574"/>
+  <linearGradient id="linearGradient1608" x1="5.2049" x2="5.2049" y1="7.1604" y2="3.8654" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1614" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
   <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
