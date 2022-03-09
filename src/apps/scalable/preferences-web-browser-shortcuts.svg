@@ -1,4 +1,4 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
@@ -64,7 +64,9 @@
   <filter id="filter1527" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.57148202"/>
   </filter>
-  <style>.cls-1{fill:#e72227;}.cls-2{fill:#262626;}</style>
+  <style>.cls-1{fill:#e72227;}
+.cls-2 { 
+}</style>
   <linearGradient id="linearGradient997" x1="8.7843" x2="8.7843" y1="5.104" y2="11.873" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ebcb8b" offset="0"/>
    <stop stop-color="#eac57b" offset="1"/>
