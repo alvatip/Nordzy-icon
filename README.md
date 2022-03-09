@@ -53,12 +53,16 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 ### tar.gz file
 Alternatively, you can use the tar.gz files located in the release section and extract them to the adequate directory.</br>
 > Usually `$HOME/.local/share/icons/` for a user installation and `/usr/share/icons/` for a system wide installation.
-### Also available on Pling
+### Also available
 <p align="left">
   <a href="https://www.pling.com/p/1686927" >
-    <img title="Nordzy-icon Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
+    <img title="Nordzy-icon Pling Store" width="350em" src="art/pling_banner.png">
   </a>
-</p>
+  <a href="https://aur.archlinux.org/packages/nordzy-icon-theme-git" >
+    <img title="Nordzy-icon Pling Store" width="350em" src="art/archlinux_banner.png">
+  </a>
+</p> 
+
 
 ## Uninstallation
 To remove the icon theme, 

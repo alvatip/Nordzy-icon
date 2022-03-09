@@ -1,3 +1,0 @@
-# Automatically generated
-# duptype id depth size device inode priority name
-# end of file
