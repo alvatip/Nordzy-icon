@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.399999 25.400001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="linuxmint-logo-filled-leaf-badge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-26.339286"
+     inkscape:cy="40.535714"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1214"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1358"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-271.59998)">
+    <g
+       id="g1214"
+       transform="matrix(0.57255348,0,0,0.57255348,-62.771996,153.53453)">
+      <path
+         id="rect1013-2"
+         transform="scale(0.26458333)"
+         d="m 414.36914,788.04883 v 48.05664 h 19.76953 V 845.75 l 0.0254,37.82422 c 0,31.15105 27.05922,54.78906 58.23828,54.78906 h 89.63672 V 843.2832 c 0,-31.17906 -27.02926,-54.78515 -58.23633,-54.78515 l -26.07617,-0.0586 z"
+         style="opacity:1;fill:#a3be8c;fill-opacity:1;stroke:none;stroke-width:6.58000278;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         id="layer3-2-3-6"
+         inkscape:label="Layer 1"
+         transform="matrix(0.12154991,0,0,0.12154991,111.42789,203.16749)"
+         style="fill:#eceff4;fill-opacity:1">
+        <path
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#eceff4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 80,104 v 144 c 0,35.15671 28.84329,64 64,64 h 96 c 35.15671,0 64,-28.84329 64,-64 v -80 c 0,-26.32015 -21.67985,-48 -48,-48 -12.29591,0 -23.46684,4.8602 -32,12.58594 C 215.46684,124.8602 204.29591,120 192,120 c -26.32015,0 -48,21.67985 -48,48 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 c 0,17.86263 -14.13737,32 -32,32 h -96 c -17.86263,0 -32,-14.13737 -32,-32 V 104 Z"
+           id="path4193-6-7-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
