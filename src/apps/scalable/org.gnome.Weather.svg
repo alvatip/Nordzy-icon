@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e81ac" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7479" x1="32.064" x2="35.762" y1="7.5615" y2="11.642" gradientTransform="matrix(1.4269 0 0 1.0713 -36.93 1.8522)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient1447" cx="33.766" cy="4.2051" r="5.7007" gradientTransform="matrix(.99999 .0033796 -.0045551 1.3478 .019348 -1.5767)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" stop-opacity=".48" offset="0"/>
+   <stop stop-color="#eceff4" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <filter id="filter2211" x="-.018894" y="-.035057" width="1.0378" height="1.0701" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.079427765"/>
+  </filter>
+  <filter id="filter2335" x="-.036057" y="-.036057" width="1.0721" height="1.0721" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.24224597"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(.85 0 0 .85 -20.504 1.7039)" filter="url(#filter2335)" opacity=".30936">
+  <path d="m39.784 8.2756a5.7007 5.7007 0 0 1-5.7007 5.7007 5.7007 5.7007 0 0 1-5.7007-5.7007 5.7007 5.7007 0 0 1 5.7007-5.7007 5.7007 5.7007 0 0 1 5.7007 5.7007zm-5.7007-8.0621 8.0621 8.0621-8.0621 8.0621-8.0621-8.0621zm-5.7008 2.3613h11.402v11.402h-11.402z" fill="#2e3440" fill-rule="evenodd" stroke-width=".69633"/>
+ </g>
+ <g transform="matrix(.85 0 0 .85 -20.504 1.7039)">
+  <rect x="28.382" y="2.2553" width="11.402" height="11.402" ry="0" fill="#ebcb8b"/>
+  <rect transform="rotate(45)" x="24.025" y="-24.175" width="11.402" height="11.402" ry="0" fill="#eac57b"/>
+  <circle cx="34.083" cy="7.956" r="5.7007" fill="url(#radialGradient1447)" fill-rule="evenodd" stroke-width=".69633"/>
+ </g>
+ <path d="m10.896 9.4829a1.6601 1.6083 0 0 0-1.3678 0.6992 1.6601 1.6083 0 0 0-0.79487-0.19597 1.6601 1.6083 0 0 0-1.6458 1.4045 1.6601 1.6083 0 0 0-0.10324-0.0027 1.6601 1.6083 0 0 0-1.6598 1.6083 1.6601 1.6083 0 0 0 1.6598 1.6083 1.6601 1.6083 0 0 0 1.5336-0.99538 1.6601 1.6083 0 0 0 1.6311 1.3115 1.6601 1.6083 0 0 0 1.078-0.38586 1.6601 1.6083 0 0 0 0.44832 0.05979 1.6601 1.6083 0 0 0 0.94604-0.28788 1.6601 1.6083 0 0 0 1.1318 0.43346 1.6601 1.6083 0 0 0 1.6605-1.6083 1.6601 1.6083 0 0 0-1.3663-1.5828 1.6601 1.6083 0 0 0-1.1518-0.81877 1.6601 1.6083 0 0 0-0.57219-0.46059 1.6601 1.6083 0 0 0-1.4275-0.78667z" fill="#2e3440" fill-rule="evenodd" filter="url(#filter2211)" opacity=".38928" stroke-width=".32712"/>
+ <path d="m10.896 9.3245a1.6601 1.6083 0 0 0-1.3678 0.6992 1.6601 1.6083 0 0 0-0.79487-0.19597 1.6601 1.6083 0 0 0-1.6458 1.4045 1.6601 1.6083 0 0 0-0.10324-0.0027 1.6601 1.6083 0 0 0-1.6598 1.6083 1.6601 1.6083 0 0 0 1.6598 1.6083 1.6601 1.6083 0 0 0 1.5336-0.99538 1.6601 1.6083 0 0 0 1.6311 1.3115 1.6601 1.6083 0 0 0 1.078-0.38586 1.6601 1.6083 0 0 0 0.44832 0.05979 1.6601 1.6083 0 0 0 0.94604-0.28788 1.6601 1.6083 0 0 0 1.1318 0.43346 1.6601 1.6083 0 0 0 1.6605-1.6083 1.6601 1.6083 0 0 0-1.3663-1.5828 1.6601 1.6083 0 0 0-1.1518-0.81877 1.6601 1.6083 0 0 0-0.57219-0.46059 1.6601 1.6083 0 0 0-1.4275-0.78667z" fill="url(#linearGradient7479)" fill-rule="evenodd" stroke-width=".32712"/>
+</svg>
