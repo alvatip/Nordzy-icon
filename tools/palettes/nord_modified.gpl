@@ -1,0 +1,32 @@
+GIMP Palette
+Name: Nord Modified
+Columns: 1
+#
+46	52	64	nord0
+59	66	82	nord1
+67	76	94	nord2
+76	86	106	nord3
+123	136	161	slate gray dark
+166	174	191	slate gray light
+216	222	233	nord4
+229	233	240	nord5
+236	239	244	nord6
+143	188	187	nord7
+136	192	208	nord8
+129	161	193	nord9
+94	129	172	nord10
+191	97	106	nord11
+181	74 	85	dark red
+208	135	112	nord12
+235	203	139	nord13
+234	197	123	dark yellow
+163	190	140	nord14
+151	182	124	aurora green
+180	142	173	nord15
+173	133 165	aurora purple
+219	199	197	pink
+107	87  86	dark brown
+140	126	117	light brown
+168	130	121	dark brown 2
+196	176	167	light brown 2
+
