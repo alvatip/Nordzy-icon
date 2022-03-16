@@ -11,6 +11,18 @@ Nordzy is a free and open source  icon theme for Linux desktops using the [Nord]
 Currently, there are not that many icons, I’ll take requests for which app icons I should put in next. If I get no requests, I take (almost) randomly from the long list of apps.
 Dark variants are more appropriate for dark desktop environments, while the normal variants are more appropriate for light desktop environments. <br/>
 
+## Table of contents
+
+- [Preview](#preview)
+- [Installation](#installation)
+- [Uninstallation](#uninstallation)
+- [Creating icons](https://github.com/alvatip/Nordzy-icon/tree/main/tools#creating-icons)
+- [Other ressources](#other-ressources)
+- [Contributing](#contributing)
+- [Icon request](#icon-request)
+- [License](#license)
+
+
 ## Preview
 
 ![applications preview](preview1.png)
