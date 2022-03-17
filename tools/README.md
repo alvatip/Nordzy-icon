@@ -21,7 +21,7 @@ sudo dnf install inkscape
 ```
 
 ## Color palette
-You can find the nord color palette and a Nord modified color palette that contains some additional colors [here](https://github.com/alvatip/Nordzy-icon/tree/contributing/tools/palettes)
+You can find the nord color palette and a Nord modified color palette that contains some additional colors [here](https://github.com/alvatip/Nordzy-icon/tree/tools/palettes)
 
 To add the color palette to Inkscape, move the nord.gpl and/or nord_modified.gpl files to ` $HOME/.config/inkscape/palette/ `. 
 ```
@@ -38,7 +38,7 @@ cp Nordzy-icon/tools/palettes/* $HOME/.config/inkscape/palettes/
 
 Finally, in Inkscape, switch to the Nord/Nord modified color palette. More informations on how to change the color palette in Inkscape are [here](https://inkscape-manuals.readthedocs.io/en/latest/palette.html).
 ## Templates
-As a starting point to create applications icons, [here](https://github.com/alvatip/Nordzy-icon/tree/contributing/tools/templates) are some templates.
+As a starting point to create applications icons, [here](https://github.com/alvatip/Nordzy-icon/tree/tools/templates) are some templates.
 You can add them in Inkscape by moving the templates to `$HOME/.config/inkscape/templates/ `
 ```
 # Example to download and move the templates to Inkscape
