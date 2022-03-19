@@ -32,18 +32,6 @@
      inkscape:current-layer="g18" />
   <defs
      id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient969">
-      <stop
-         style="stop-color:#d8dee9;stop-opacity:1"
-         offset="0"
-         id="stop965" />
-      <stop
-         style="stop-color:#eceff4;stop-opacity:1"
-         offset="1"
-         id="stop967" />
-    </linearGradient>
     <filter
        id="filter1178"
        x="-0.047999482"
@@ -55,22 +43,6 @@
          stdDeviation="0.30691668"
          id="feGaussianBlur2" />
     </filter>
-    <linearGradient
-       id="linearGradient1340"
-       x1="8.355"
-       x2="8.3996"
-       y1="16.007"
-       y2=".79375"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#d8dee9"
-         offset="0"
-         id="stop5" />
-      <stop
-         stop-color="#eceff4"
-         offset="1"
-         id="stop7" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient830"
@@ -116,7 +88,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient969"
+       xlink:href="#linearGradient838"
        id="linearGradient1094"
        gradientUnits="userSpaceOnUse"
        x1="178.14952"
@@ -148,7 +120,7 @@
        height="15.081"
        rx="3"
        ry="3"
-       fill="url(#linearGradient1340)"
+       fill="url(#linearGradient838)"
        stroke-width="1.2274"
        id="rect14"
        style="fill:none;fill-opacity:1" />
