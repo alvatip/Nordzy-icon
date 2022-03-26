@@ -139,7 +139,7 @@
        id="linearGradient3722">
       <stop
          id="stop3730"
-         style="stop-color:#e5e9f0;stop-opacity:1"
+         style="stop-color:#d8dee9;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3726"
@@ -180,10 +180,10 @@
        id="linearGradient7186"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.38990475,0,0,0.38990475,-10.141141,-11.194578)"
-       x1="48.651428"
-       y1="5.7143993"
-       x2="48.925041"
-       y2="90.480469" />
+       x1="48"
+       y1="16"
+       x2="47.235775"
+       y2="79.300041" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
