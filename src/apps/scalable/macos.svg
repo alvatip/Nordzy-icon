@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7491" x1="27.407" x2="27.407" y1="-15.718" y2="-5.116" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(.93033 0 0 .93033 -16.84 18.097)" fill="url(#linearGradient7491)" font-family="Roboto" font-weight="bold" letter-spacing="0px" word-spacing="0px">
+  <text x="22.321991" y="-13.018067" font-size="4.9388px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="22.321991" y="-13.018067" fill="url(#linearGradient7491)" font-family="Roboto" font-weight="normal" stroke-width=".26458">mac</tspan></text>
+  <text x="20.86655" y="-5.1158252" font-size="9.7426px" stroke-width=".52192" style="line-height:1.25" xml:space="preserve"><tspan x="20.86655" y="-5.1158252" fill="url(#linearGradient7491)" font-family="Roboto" font-weight="normal" stroke-width=".52192">OS</tspan></text>
+ </g>
+</svg>

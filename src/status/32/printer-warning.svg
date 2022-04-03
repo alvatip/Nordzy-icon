@@ -19,7 +19,7 @@
 <g id="surface1">
 <use xlink:href="#surface5" mask="url(#mask0)"/>
 <path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 3.199219 8 L 28.800781 8 C 32 8 32 8 32 11.199219 L 32 20.800781 C 32 24 32 24 28.800781 24 L 3.199219 24 C 0 24 0 24 0 20.800781 L 0 11.199219 C 0 8 0 8 3.199219 8 Z M 3.199219 8 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333336%,75.294119%,81.568629%);fill-opacity:1;" d="M 6 16 L 26 16 L 26 32 L 6 32 Z M 6 16 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 14 18 L 14 24 L 10 24 L 16 30 L 22 24 L 18 24 L 18 18 Z M 14 18 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.901962%,38.039216%,41.568628%);fill-opacity:1;" d="M 6 16 L 26 16 L 26 32 L 6 32 Z M 6 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 14 28.113281 L 18 28.113281 L 18 30.964844 L 14 30.964844 Z M 14 18 L 18 18 L 18 27.109375 L 14 27.109375 Z M 14 18 "/>
 </g>
 </svg>

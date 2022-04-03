@@ -1,3 +1,24 @@
-<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <path d="m5.5 3c-0.276 0-0.5 0.224-0.5 0.5v6.5h-1.5c-0.277 0-0.5 0.223-0.5 0.5v6c0 0.277 0.223 0.5 0.5 0.5h1.5v1.5c0 0.277 0.223 0.5 0.5 0.5h11c0.277 0 0.5-0.223 0.5-0.5v-1.5h1.5c0.277 0 0.5-0.223 0.5-0.5v-6c0-0.277-0.223-0.5-0.5-0.5h-1.5v-5l-2-2h-9.5zm0.5 1h8v2h2v4h-10v-6zm-2 7h14v3h-14v-3zm2 4h10v3h-10v-3zm11.5 0a0.5 0.5 0 0 1 0.5 0.5 0.5 0.5 0 0 1-0.5 0.5 0.5 0.5 0 0 1-0.5-0.5 0.5 0.5 0 0 1 0.5-0.5z" color-rendering="auto" fill="#2e3440" image-rendering="auto" shape-rendering="auto"/>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="22" height="22" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="22" height="22"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:0.941176;" d="M 6.414062 0.00390625 L 15.585938 0.00390625 C 17.875 0.00390625 17.875 -0.222656 17.875 2.296875 L 17.875 11.460938 C 17.875 13.75 17.875 13.75 15.585938 13.75 L 6.414062 13.75 C 4.125 13.75 4.125 13.75 4.125 11.460938 L 4.125 2.296875 C 4.125 0.00390625 4.125 0.00390625 6.414062 0.00390625 Z M 6.414062 0.00390625 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 2.199219 5.5 L 19.800781 5.5 C 22 5.5 22 5.5 22 7.699219 L 22 14.300781 C 22 16.5 22 16.5 19.800781 16.5 L 2.199219 16.5 C 0 16.5 0 16.5 0 14.300781 L 0 7.699219 C 0 5.5 0 5.5 2.199219 5.5 Z M 2.199219 5.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(84.705883%,87.058824%,91.37255%);fill-opacity:1;" d="M 4.125 11 L 17.875 11 L 17.875 22 L 4.125 22 Z M 4.125 11 "/>
+</g>
 </svg>

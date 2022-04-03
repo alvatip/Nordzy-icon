@@ -19,7 +19,7 @@
 <g id="surface1">
 <use xlink:href="#surface5" mask="url(#mask0)"/>
 <path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 2.199219 5.5 L 19.800781 5.5 C 22 5.5 22 5.5 22 7.699219 L 22 14.300781 C 22 16.5 22 16.5 19.800781 16.5 L 2.199219 16.5 C 0 16.5 0 16.5 0 14.300781 L 0 7.699219 C 0 5.5 0 5.5 2.199219 5.5 Z M 2.199219 5.5 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333336%,75.294119%,81.568629%);fill-opacity:1;" d="M 4.125 11 L 17.875 11 L 17.875 22 L 4.125 22 Z M 4.125 11 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 9.625 12.375 L 9.625 16.5 L 6.875 16.5 L 11 20.625 L 15.125 16.5 L 12.375 16.5 L 12.375 12.375 Z M 9.625 12.375 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.901962%,38.039216%,41.568628%);fill-opacity:1;" d="M 4.125 11 L 17.875 11 L 17.875 22 L 4.125 22 Z M 4.125 11 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 9.625 19.328125 L 12.375 19.328125 L 12.375 21.285156 L 9.625 21.285156 Z M 9.625 12.375 L 12.375 12.375 L 12.375 18.640625 L 9.625 18.640625 Z M 9.625 12.375 "/>
 </g>
 </svg>
