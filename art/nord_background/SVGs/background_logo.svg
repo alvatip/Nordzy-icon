@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920mm"
+   height="1080mm"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="background_logo.svg"
+   inkscape:export-filename="/home/alexandre/github/Nordzy-icon/art/nord_background/background_logo_1536.png"
+   inkscape:export-xdpi="20.32"
+   inkscape:export-ydpi="20.32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1980mm"
+     inkscape:snap-page="true"
+     inkscape:zoom="0.15254883"
+     inkscape:cx="3493.9632"
+     inkscape:cy="2038.6915"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10341"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10337"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10300"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10263"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10226"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10189"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10185"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9382"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9378"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9341"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9304"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9267"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9230"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9193"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9156"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9152"
+       is_visible="true"
+       lpeversion="1" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2522"
+       gradientUnits="userSpaceOnUse"
+       x="0"
+       y="0">
+      <meshrow
+         id="meshrow12195">
+        <meshpatch
+           id="meshpatch12197">
+          <stop
+             path="c 535.839,-139.091  694.333,-55.4502  960,0"
+             style="stop-color:#88c0d0;stop-opacity:1"
+             id="stop12199" />
+          <stop
+             path="c 116.246,176.46  234.772,460.093  239.26,647.951"
+             style="stop-color:#88c0d0;stop-opacity:1"
+             id="stop12201" />
+          <stop
+             path="c -494.031,-64.6701  -721.62,-285.739  -1386.35,-37.8126"
+             style="stop-color:#d8dee9;stop-opacity:1"
+             id="stop12203" />
+          <stop
+             path="c 0.0392289,-180  90.7493,-172.197  187.091,-610.138"
+             style="stop-color:#88c0d0;stop-opacity:1"
+             id="stop12205" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch12207">
+          <stop
+             path="c 320,0  284.354,-114.156  960,0"
+             id="stop12209" />
+          <stop
+             path="c 81.5327,319.159  100.806,356.055  0,540"
+             style="stop-color:#3b4252;stop-opacity:1"
+             id="stop12211" />
+          <stop
+             path="c -620.146,-53.9212  -353.767,217.735  -720.74,107.951"
+             style="stop-color:#88c0d0;stop-opacity:1"
+             id="stop12213" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow12215">
+        <meshpatch
+           id="meshpatch12217">
+          <stop
+             path="c 0.00885357,180  -459.851,187.161  -239.26,432.049"
+             id="stop12219" />
+          <stop
+             path="c -320,0  -640,0  -960,0"
+             style="stop-color:#88c0d0;stop-opacity:1"
+             id="stop12221" />
+          <stop
+             path="c -167.375,-322.055  -349.541,-376.752  -187.091,-469.862"
+             style="stop-color:#3b4252;stop-opacity:1"
+             id="stop12223" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch12225">
+          <stop
+             path="c 158.932,53.8364  0,360  0,540"
+             id="stop12227" />
+          <stop
+             path="c -320,0  -640,0  -960,0"
+             style="stop-color:#88c0d0;stop-opacity:1"
+             id="stop12229" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <filter
+       id="filter1178"
+       x="-0.04799993"
+       y="-0.04799993"
+       width="1.0959999"
+       height="1.0959999"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.30691955"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       id="linearGradient1340"
+       x1="8.4769001"
+       x2="8.4890003"
+       y1="15.678"
+       y2="1.1562001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#2e3440"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#4c566a"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <filter
+       id="filter1649"
+       x="-0.45609538"
+       y="-0.081641591"
+       width="1.9121908"
+       height="1.1632832"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.41250027"
+         id="feGaussianBlur13" />
+    </filter>
+    <filter
+       id="filter978"
+       x="-0.31953473"
+       y="-0.064978365"
+       width="1.6390695"
+       height="1.1299567"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.28826028"
+         id="feGaussianBlur10" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1488">
+      <rect
+         style="opacity:1;fill:url(#meshgradient2522);stroke:none;stroke-width:0.132292;stroke-linecap:round;fill-opacity:1"
+         id="rect2392"
+         width="1920"
+         height="1080"
+         x="0"
+         y="0" />
+      <path
+         id="path9084"
+         style="fill:#89c0d0;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,0 0,120 h 120 z" />
+      <path
+         id="path9086"
+         style="fill:#88c0d0;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,0 V 120 L 120,0 Z" />
+      <path
+         id="path12491"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,0 120,120 h 120 z" />
+      <path
+         id="path12493"
+         style="fill:#88c0d0;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,0 V 120 L 240,0 Z" />
+      <path
+         id="path12497"
+         style="fill:#8cc2d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,0 240,120 h 120 z" />
+      <path
+         id="path12499"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,0 V 120 L 360,0 Z" />
+      <path
+         id="path12503"
+         style="fill:#8ec2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,0 360,120 h 120 z" />
+      <path
+         id="path12505"
+         style="fill:#8bc1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,0 V 120 L 480,0 Z" />
+      <path
+         id="path12509"
+         style="fill:#8fc3d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,0 480,120 h 120 z" />
+      <path
+         id="path12511"
+         style="fill:#8dc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,0 V 120 L 600,0 Z" />
+      <path
+         id="path12515"
+         style="fill:#92c4d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,0 600,120 h 120 z" />
+      <path
+         id="path12517"
+         style="fill:#8ec2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,0 V 120 L 720,0 Z" />
+      <path
+         id="path12521"
+         style="fill:#93c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,0 720,120 h 120 z" />
+      <path
+         id="path12523"
+         style="fill:#8fc3d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,0 V 120 L 840,0 Z" />
+      <path
+         id="path12527"
+         style="fill:#93c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,0 840,120 h 120 z" />
+      <path
+         id="path12529"
+         style="fill:#8dc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,0 V 120 L 960,0 Z" />
+      <path
+         id="path12533"
+         style="fill:#90c0d0;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,0 960,120 h 120 z" />
+      <path
+         id="path12535"
+         style="fill:#8cc1d0;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,0 V 120 L 1080,0 Z" />
+      <path
+         id="path12539"
+         style="fill:#84aebe;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,0 -120,120 h 120 z" />
+      <path
+         id="path12541"
+         style="fill:#81afbe;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,0 V 120 L 1200,0 Z" />
+      <path
+         id="path12545"
+         style="fill:#7699a9;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,0 -120,120 h 120 z" />
+      <path
+         id="path12547"
+         style="fill:#7298a8;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,0 V 120 L 1320,0 Z" />
+      <path
+         id="path12551"
+         style="fill:#698696;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,0 -120,120 h 120 z" />
+      <path
+         id="path12553"
+         style="fill:#688796;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,0 V 120 L 1440,0 Z" />
+      <path
+         id="path12557"
+         style="fill:#5f7888;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,0 -120,120 h 120 z" />
+      <path
+         id="path12559"
+         style="fill:#5b7484;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,0 V 120 L 1560,0 Z" />
+      <path
+         id="path12563"
+         style="fill:#556a7a;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,0 -120,120 h 120 z" />
+      <path
+         id="path12565"
+         style="fill:#536777;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,0 V 120 L 1680,0 Z" />
+      <path
+         id="path12569"
+         style="fill:#4d5f6f;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,0 -120,120 h 120 z" />
+      <path
+         id="path12571"
+         style="fill:#4b5b6b;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,0 V 120 L 1800,0 Z" />
+      <path
+         id="path12575"
+         style="fill:#455363;stroke-width:0.17813;fill-opacity:1"
+         d="m 1920,0 -120,120 h 120 z" />
+      <path
+         id="path12577"
+         style="fill:#434f5f;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,0 V 120 L 1920,0 Z" />
+      <path
+         id="path12631"
+         style="fill:#597181;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,120 120,120 h -120 z" />
+      <path
+         id="path12633"
+         style="fill:#4e6171;stroke-width:0.17813;fill-opacity:1"
+         d="M 1920,120 V 240 L 1800,120 Z" />
+      <path
+         id="path12637"
+         style="fill:#627d8c;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,120 120,120 h -120 z" />
+      <path
+         id="path12639"
+         style="fill:#566c7c;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,120 V 240 L 1680,120 Z" />
+      <path
+         id="path12643"
+         style="fill:#6a8696;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,120 120,120 h -120 z" />
+      <path
+         id="path12645"
+         style="fill:#5f7888;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,120 V 240 L 1560,120 Z" />
+      <path
+         id="path12649"
+         style="fill:#7493a2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,120 120,120 h -120 z" />
+      <path
+         id="path12651"
+         style="fill:#698594;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,120 V 240 L 1440,120 Z" />
+      <path
+         id="path12655"
+         style="fill:#81a2b1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,120 120,120 h -120 z" />
+      <path
+         id="path12657"
+         style="fill:#7494a3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,120 V 240 L 1320,120 Z" />
+      <path
+         id="path12661"
+         style="fill:#90b5c4;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,120 120,120 h -120 z" />
+      <path
+         id="path12663"
+         style="fill:#82a6b5;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,120 V 240 L 1200,120 Z" />
+      <path
+         id="path12667"
+         style="fill:#9fc6d5;stroke-width:0.17813;fill-opacity:1"
+         d="m 1080,120 120,120 h -120 z" />
+      <path
+         id="path12669"
+         style="fill:#8fb9c8;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,120 V 240 L 1080,120 Z" />
+      <path
+         id="path12673"
+         style="fill:#a1c9d8;stroke-width:0.17813;fill-opacity:1"
+         d="m 960,120 120,120 H 960 Z" />
+      <path
+         id="path12675"
+         style="fill:#9cc7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,120 V 240 L 960,120 Z" />
+      <path
+         id="path12679"
+         style="fill:#9ec8d7;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,120 960,240 H 840 Z" />
+      <path
+         id="path12681"
+         style="fill:#9ac7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,120 V 240 L 840,120 Z" />
+      <path
+         id="path12685"
+         style="fill:#9bc7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,120 840,240 H 720 Z" />
+      <path
+         id="path12687"
+         style="fill:#99c6d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,120 V 240 L 720,120 Z" />
+      <path
+         id="path12691"
+         style="fill:#98c6d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,120 720,240 H 600 Z" />
+      <path
+         id="path12693"
+         style="fill:#96c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,120 V 240 L 600,120 Z" />
+      <path
+         id="path12697"
+         style="fill:#95c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,120 600,240 H 480 Z" />
+      <path
+         id="path12699"
+         style="fill:#94c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,120 V 240 L 480,120 Z" />
+      <path
+         id="path12703"
+         style="fill:#91c4d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,120 480,240 H 360 Z" />
+      <path
+         id="path12705"
+         style="fill:#90c3d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,120 V 240 L 360,120 Z" />
+      <path
+         id="path12709"
+         style="fill:#8ec2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,120 360,240 H 240 Z" />
+      <path
+         id="path12711"
+         style="fill:#8dc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,120 V 240 L 240,120 Z" />
+      <path
+         id="path12715"
+         style="fill:#8bc1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,120 240,240 H 120 Z" />
+      <path
+         id="path12717"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,120 V 240 L 120,120 Z" />
+      <path
+         id="path12721"
+         style="fill:#89c1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,120 120,240 H 0 Z" />
+      <path
+         id="path12723"
+         style="fill:#89c1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,120 V 240 L 0,120 Z" />
+      <path
+         id="path12729"
+         style="fill:#8cc2d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,240 0,360 h 120 z" />
+      <path
+         id="path12731"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,240 V 360 L 120,240 Z" />
+      <path
+         id="path12735"
+         style="fill:#90c3d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,240 120,360 h 120 z" />
+      <path
+         id="path12737"
+         style="fill:#8dc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,240 V 360 L 240,240 Z" />
+      <path
+         id="path12741"
+         style="fill:#96c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,240 240,360 h 120 z" />
+      <path
+         id="path12743"
+         style="fill:#91c3d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,240 V 360 L 360,240 Z" />
+      <path
+         id="path12747"
+         style="fill:#9ac7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,240 360,360 h 120 z" />
+      <path
+         id="path12749"
+         style="fill:#95c5d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,240 V 360 L 480,240 Z" />
+      <path
+         id="path12753"
+         style="fill:#9fc8d7;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,240 480,360 h 120 z" />
+      <path
+         id="path12755"
+         style="fill:#99c7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,240 V 360 L 600,240 Z" />
+      <path
+         id="path12759"
+         style="fill:#a4cbd8;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,240 600,360 h 120 z" />
+      <path
+         id="path12761"
+         style="fill:#9dc8d7;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,240 V 360 L 720,240 Z" />
+      <path
+         id="path12765"
+         style="fill:#a8ccda;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,240 720,360 h 120 z" />
+      <path
+         id="path12767"
+         style="fill:#a2cad9;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,240 V 360 L 840,240 Z" />
+      <path
+         id="path12771"
+         style="fill:#accddb;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,240 840,360 h 120 z" />
+      <path
+         id="path12773"
+         style="fill:#a5cbd9;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,240 V 360 L 960,240 Z" />
+      <path
+         id="path12777"
+         style="fill:#afcfdc;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,240 960,360 h 120 z" />
+      <path
+         id="path12779"
+         style="fill:#a9ccdb;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,240 V 360 L 1080,240 Z" />
+      <path
+         id="path12783"
+         style="fill:#acccd9;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,240 -120,120 h 120 z" />
+      <path
+         id="path12785"
+         style="fill:#aaccda;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,240 V 360 L 1200,240 Z" />
+      <path
+         id="path12789"
+         style="fill:#9fbfcd;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,240 -120,120 h 120 z" />
+      <path
+         id="path12791"
+         style="fill:#9bbecc;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,240 V 360 L 1320,240 Z" />
+      <path
+         id="path12795"
+         style="fill:#8fafbd;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,240 -120,120 h 120 z" />
+      <path
+         id="path12797"
+         style="fill:#8daebc;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,240 V 360 L 1440,240 Z" />
+      <path
+         id="path12801"
+         style="fill:#84a4b3;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,240 -120,120 h 120 z" />
+      <path
+         id="path12803"
+         style="fill:#7f9fae;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,240 V 360 L 1560,240 Z" />
+      <path
+         id="path12807"
+         style="fill:#799aa9;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,240 -120,120 h 120 z" />
+      <path
+         id="path12809"
+         style="fill:#7594a3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,240 V 360 L 1680,240 Z" />
+      <path
+         id="path12813"
+         style="fill:#7193a2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,240 -120,120 h 120 z" />
+      <path
+         id="path12815"
+         style="fill:#6b8998;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,240 V 360 L 1800,240 Z" />
+      <path
+         id="path12819"
+         style="fill:#688a9a;stroke-width:0.17813;fill-opacity:1"
+         d="m 1920,240 -120,120 h 120 z" />
+      <path
+         id="path12821"
+         style="fill:#638090;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,240 V 360 L 1920,240 Z" />
+      <path
+         id="path12827"
+         style="fill:#80acbc;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,360 120,120 h -120 z" />
+      <path
+         id="path12829"
+         style="fill:#769faf;stroke-width:0.17813;fill-opacity:1"
+         d="M 1920,360 V 480 L 1800,360 Z" />
+      <path
+         id="path12833"
+         style="fill:#88b2c1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,360 120,120 h -120 z" />
+      <path
+         id="path12835"
+         style="fill:#7ca4b3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,360 V 480 L 1680,360 Z" />
+      <path
+         id="path12839"
+         style="fill:#8eb4c3;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,360 120,120 h -120 z" />
+      <path
+         id="path12841"
+         style="fill:#85aab9;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,360 V 480 L 1560,360 Z" />
+      <path
+         id="path12845"
+         style="fill:#98b7c6;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,360 120,120 h -120 z" />
+      <path
+         id="path12847"
+         style="fill:#8eafbe;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,360 V 480 L 1440,360 Z" />
+      <path
+         id="path12851"
+         style="fill:#a8c4d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,360 120,120 h -120 z" />
+      <path
+         id="path12853"
+         style="fill:#99b8c6;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,360 V 480 L 1320,360 Z" />
+      <path
+         id="path12857"
+         style="fill:#b6cfdc;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,360 120,120 h -120 z" />
+      <path
+         id="path12859"
+         style="fill:#a9c6d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,360 V 480 L 1200,360 Z" />
+      <path
+         id="path12863"
+         style="fill:#bbd3e0;stroke-width:0.17813;fill-opacity:1"
+         d="m 1080,360 120,120 h -120 z" />
+      <path
+         id="path12865"
+         style="fill:#b7d1de;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,360 V 480 L 1080,360 Z" />
+      <path
+         id="path12869"
+         style="fill:#b9d2df;stroke-width:0.17813;fill-opacity:1"
+         d="m 960,360 120,120 H 960 Z" />
+      <path
+         id="path12871"
+         style="fill:#b6d1df;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,360 V 480 L 960,360 Z" />
+      <path
+         id="path12875"
+         style="fill:#b6d1df;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,360 960,480 H 840 Z" />
+      <path
+         id="path12877"
+         style="fill:#b2d0dd;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,360 V 480 L 840,360 Z" />
+      <path
+         id="path12881"
+         style="fill:#b2d0dd;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,360 840,480 H 720 Z" />
+      <path
+         id="path12883"
+         style="fill:#afcedc;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,360 V 480 L 720,360 Z" />
+      <path
+         id="path12887"
+         style="fill:#accedb;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,360 720,480 H 600 Z" />
+      <path
+         id="path12889"
+         style="fill:#aacdda;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,360 V 480 L 600,360 Z" />
+      <path
+         id="path12893"
+         style="fill:#a7ccda;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,360 600,480 H 480 Z" />
+      <path
+         id="path12895"
+         style="fill:#a6cbda;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,360 V 480 L 480,360 Z" />
+      <path
+         id="path12899"
+         style="fill:#a2cad8;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,360 480,480 H 360 Z" />
+      <path
+         id="path12901"
+         style="fill:#a1c9d8;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,360 V 480 L 360,360 Z" />
+      <path
+         id="path12905"
+         style="fill:#9bc7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,360 360,480 H 240 Z" />
+      <path
+         id="path12907"
+         style="fill:#9ac7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,360 V 480 L 240,360 Z" />
+      <path
+         id="path12911"
+         style="fill:#94c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,360 240,480 H 120 Z" />
+      <path
+         id="path12913"
+         style="fill:#95c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,360 V 480 L 120,360 Z" />
+      <path
+         id="path12917"
+         style="fill:#8fc3d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,360 120,480 H 0 Z" />
+      <path
+         id="path12919"
+         style="fill:#8fc3d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,360 V 480 L 0,360 Z" />
+      <path
+         id="path12925"
+         style="fill:#8ebbca;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,480 0,600 h 120 z" />
+      <path
+         id="path12927"
+         style="fill:#91c3d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,480 V 600 L 120,480 Z" />
+      <path
+         id="path12931"
+         style="fill:#92bbca;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,480 120,600 h 120 z" />
+      <path
+         id="path12933"
+         style="fill:#97c6d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,480 V 600 L 240,480 Z" />
+      <path
+         id="path12937"
+         style="fill:#99bdcc;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,480 240,600 h 120 z" />
+      <path
+         id="path12939"
+         style="fill:#9dc7d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,480 V 600 L 360,480 Z" />
+      <path
+         id="path12943"
+         style="fill:#a1c3d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,480 360,600 h 120 z" />
+      <path
+         id="path12945"
+         style="fill:#a4c9d7;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,480 V 600 L 480,480 Z" />
+      <path
+         id="path12949"
+         style="fill:#aac9d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,480 480,600 h 120 z" />
+      <path
+         id="path12951"
+         style="fill:#abcddb;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,480 V 600 L 600,480 Z" />
+      <path
+         id="path12955"
+         style="fill:#b5d0dd;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,480 600,600 h 120 z" />
+      <path
+         id="path12957"
+         style="fill:#b3d1dd;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,480 V 600 L 720,480 Z" />
+      <path
+         id="path12961"
+         style="fill:#bed4e1;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,480 720,600 h 120 z" />
+      <path
+         id="path12963"
+         style="fill:#b9d2e0;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,480 V 600 L 840,480 Z" />
+      <path
+         id="path12967"
+         style="fill:#c3d6e3;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,480 840,600 h 120 z" />
+      <path
+         id="path12969"
+         style="fill:#bdd4e1;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,480 V 600 L 960,480 Z" />
+      <path
+         id="path12973"
+         style="fill:#c8d8e4;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,480 960,600 h 120 z" />
+      <path
+         id="path12975"
+         style="fill:#c1d6e2;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,480 V 600 L 1080,480 Z" />
+      <path
+         id="path12979"
+         style="fill:#cad9e5;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,480 -120,120 h 120 z" />
+      <path
+         id="path12981"
+         style="fill:#c5d7e3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,480 V 600 L 1200,480 Z" />
+      <path
+         id="path12985"
+         style="fill:#c4d5e1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,480 -120,120 h 120 z" />
+      <path
+         id="path12987"
+         style="fill:#c1d4e1;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,480 V 600 L 1320,480 Z" />
+      <path
+         id="path12991"
+         style="fill:#b2cbd8;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,480 -120,120 h 120 z" />
+      <path
+         id="path12993"
+         style="fill:#b4ccd9;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,480 V 600 L 1440,480 Z" />
+      <path
+         id="path12997"
+         style="fill:#a4c9d7;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,480 -120,120 h 120 z" />
+      <path
+         id="path12999"
+         style="fill:#a4c3d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,480 V 600 L 1560,480 Z" />
+      <path
+         id="path13003"
+         style="fill:#99c7d6;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,480 -120,120 h 120 z" />
+      <path
+         id="path13005"
+         style="fill:#98c1d0;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,480 V 600 L 1680,480 Z" />
+      <path
+         id="path13009"
+         style="fill:#92c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,480 -120,120 h 120 z" />
+      <path
+         id="path13011"
+         style="fill:#90c0cf;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,480 V 600 L 1800,480 Z" />
+      <path
+         id="path13015"
+         style="fill:#8bc1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1920,480 -120,120 h 120 z" />
+      <path
+         id="path13017"
+         style="fill:#8abdcd;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,480 V 600 L 1920,480 Z" />
+      <path
+         id="path13023"
+         style="fill:#8dc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,600 120,120 h -120 z" />
+      <path
+         id="path13025"
+         style="fill:#8cc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 1920,600 V 720 L 1800,600 Z" />
+      <path
+         id="path13029"
+         style="fill:#93c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,600 120,120 h -120 z" />
+      <path
+         id="path13031"
+         style="fill:#92c4d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,600 V 720 L 1680,600 Z" />
+      <path
+         id="path13035"
+         style="fill:#9bc8d6;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,600 120,120 h -120 z" />
+      <path
+         id="path13037"
+         style="fill:#99c7d6;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,600 V 720 L 1560,600 Z" />
+      <path
+         id="path13041"
+         style="fill:#accedc;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,600 120,120 h -120 z" />
+      <path
+         id="path13043"
+         style="fill:#a6ccda;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,600 V 720 L 1440,600 Z" />
+      <path
+         id="path13047"
+         style="fill:#c7d8e4;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,600 120,120 h -120 z" />
+      <path
+         id="path13049"
+         style="fill:#bcd3e0;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,600 V 720 L 1320,600 Z" />
+      <path
+         id="path13053"
+         style="fill:#d2dce7;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,600 120,120 h -120 z" />
+      <path
+         id="path13055"
+         style="fill:#cdd9e5;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,600 V 720 L 1200,600 Z" />
+      <path
+         id="path13059"
+         style="fill:#cedae6;stroke-width:0.17813;fill-opacity:1"
+         d="m 1080,600 120,120 h -120 z" />
+      <path
+         id="path13061"
+         style="fill:#d4dde8;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,600 V 720 L 1080,600 Z" />
+      <path
+         id="path13065"
+         style="fill:#c3d5e1;stroke-width:0.17813;fill-opacity:1"
+         d="m 960,600 120,120 H 960 Z" />
+      <path
+         id="path13067"
+         style="fill:#cedae6;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,600 V 720 L 960,600 Z" />
+      <path
+         id="path13071"
+         style="fill:#b9cfdc;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,600 960,720 H 840 Z" />
+      <path
+         id="path13073"
+         style="fill:#c2d4e1;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,600 V 720 L 840,600 Z" />
+      <path
+         id="path13077"
+         style="fill:#aec7d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,600 840,720 H 720 Z" />
+      <path
+         id="path13079"
+         style="fill:#b7cedb;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,600 V 720 L 720,600 Z" />
+      <path
+         id="path13083"
+         style="fill:#a3bfcd;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,600 720,720 H 600 Z" />
+      <path
+         id="path13085"
+         style="fill:#adc8d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,600 V 720 L 600,600 Z" />
+      <path
+         id="path13089"
+         style="fill:#99b7c6;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,600 600,720 H 480 Z" />
+      <path
+         id="path13091"
+         style="fill:#a3c1cf;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,600 V 720 L 480,600 Z" />
+      <path
+         id="path13095"
+         style="fill:#8fafbd;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,600 480,720 H 360 Z" />
+      <path
+         id="path13097"
+         style="fill:#98b7c6;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,600 V 720 L 360,600 Z" />
+      <path
+         id="path13101"
+         style="fill:#86a7b5;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,600 360,720 H 240 Z" />
+      <path
+         id="path13103"
+         style="fill:#8fb0bf;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,600 V 720 L 240,600 Z" />
+      <path
+         id="path13107"
+         style="fill:#7d9fae;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,600 240,720 H 120 Z" />
+      <path
+         id="path13109"
+         style="fill:#88abba;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,600 V 720 L 120,600 Z" />
+      <path
+         id="path13113"
+         style="fill:#779aa9;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,600 120,720 H 0 Z" />
+      <path
+         id="path13115"
+         style="fill:#81a6b6;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,600 V 720 L 0,600 Z" />
+      <path
+         id="path13121"
+         style="fill:#668191;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,720 0,840 h 120 z" />
+      <path
+         id="path13123"
+         style="fill:#6a8897;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,720 V 840 L 120,720 Z" />
+      <path
+         id="path13127"
+         style="fill:#6f8c9b;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,720 120,840 h 120 z" />
+      <path
+         id="path13129"
+         style="fill:#72909f;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,720 V 840 L 240,720 Z" />
+      <path
+         id="path13133"
+         style="fill:#7896a5;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,720 240,840 h 120 z" />
+      <path
+         id="path13135"
+         style="fill:#7a98a8;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,720 V 840 L 360,720 Z" />
+      <path
+         id="path13139"
+         style="fill:#83a3b2;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,720 360,840 h 120 z" />
+      <path
+         id="path13141"
+         style="fill:#85a5b4;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,720 V 840 L 480,720 Z" />
+      <path
+         id="path13145"
+         style="fill:#8eaebd;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,720 480,840 h 120 z" />
+      <path
+         id="path13147"
+         style="fill:#90b0be;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,720 V 840 L 600,720 Z" />
+      <path
+         id="path13151"
+         style="fill:#99b9c8;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,720 600,840 h 120 z" />
+      <path
+         id="path13153"
+         style="fill:#9ab9c7;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,720 V 840 L 720,720 Z" />
+      <path
+         id="path13157"
+         style="fill:#a4c3d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,720 720,840 h 120 z" />
+      <path
+         id="path13159"
+         style="fill:#a5c2cf;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,720 V 840 L 840,720 Z" />
+      <path
+         id="path13163"
+         style="fill:#aecbd8;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,720 840,840 h 120 z" />
+      <path
+         id="path13165"
+         style="fill:#b1cad7;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,720 V 840 L 960,720 Z" />
+      <path
+         id="path13169"
+         style="fill:#b8d2df;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,720 960,840 h 120 z" />
+      <path
+         id="path13171"
+         style="fill:#bad1de;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,720 V 840 L 1080,720 Z" />
+      <path
+         id="path13175"
+         style="fill:#b7d2e0;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,720 -120,120 h 120 z" />
+      <path
+         id="path13177"
+         style="fill:#c3d6e3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,720 V 840 L 1200,720 Z" />
+      <path
+         id="path13181"
+         style="fill:#aecfdc;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,720 -120,120 h 120 z" />
+      <path
+         id="path13183"
+         style="fill:#c1d6e2;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,720 V 840 L 1320,720 Z" />
+      <path
+         id="path13187"
+         style="fill:#a2cad8;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,720 -120,120 h 120 z" />
+      <path
+         id="path13189"
+         style="fill:#b2d0de;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,720 V 840 L 1440,720 Z" />
+      <path
+         id="path13193"
+         style="fill:#98c6d5;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,720 -120,120 h 120 z" />
+      <path
+         id="path13195"
+         style="fill:#a1cad8;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,720 V 840 L 1560,720 Z" />
+      <path
+         id="path13199"
+         style="fill:#92c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,720 -120,120 h 120 z" />
+      <path
+         id="path13201"
+         style="fill:#97c6d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,720 V 840 L 1680,720 Z" />
+      <path
+         id="path13205"
+         style="fill:#8ec3d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,720 -120,120 h 120 z" />
+      <path
+         id="path13207"
+         style="fill:#91c4d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,720 V 840 L 1800,720 Z" />
+      <path
+         id="path13211"
+         style="fill:#8bc1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1920,720 -120,120 h 120 z" />
+      <path
+         id="path13213"
+         style="fill:#8cc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,720 V 840 L 1920,720 Z" />
+      <path
+         id="path13219"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,840 120,120 h -120 z" />
+      <path
+         id="path13221"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 1920,840 V 960 L 1800,840 Z" />
+      <path
+         id="path13225"
+         style="fill:#8cc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,840 120,120 h -120 z" />
+      <path
+         id="path13227"
+         style="fill:#8cc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="M 1800,840 V 960 L 1680,840 Z" />
+      <path
+         id="path13231"
+         style="fill:#8ec3d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,840 120,120 h -120 z" />
+      <path
+         id="path13233"
+         style="fill:#8fc3d3;stroke-width:0.17813;fill-opacity:1"
+         d="M 1680,840 V 960 L 1560,840 Z" />
+      <path
+         id="path13237"
+         style="fill:#91c4d3;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,840 120,120 h -120 z" />
+      <path
+         id="path13239"
+         style="fill:#92c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="M 1560,840 V 960 L 1440,840 Z" />
+      <path
+         id="path13243"
+         style="fill:#95c5d5;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,840 120,120 h -120 z" />
+      <path
+         id="path13245"
+         style="fill:#97c6d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 1440,840 V 960 L 1320,840 Z" />
+      <path
+         id="path13249"
+         style="fill:#9ac7d6;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,840 120,120 h -120 z" />
+      <path
+         id="path13251"
+         style="fill:#9dc8d7;stroke-width:0.17813;fill-opacity:1"
+         d="M 1320,840 V 960 L 1200,840 Z" />
+      <path
+         id="path13255"
+         style="fill:#9cc8d7;stroke-width:0.17813;fill-opacity:1"
+         d="m 1080,840 120,120 h -120 z" />
+      <path
+         id="path13257"
+         style="fill:#a3cbd9;stroke-width:0.17813;fill-opacity:1"
+         d="M 1200,840 V 960 L 1080,840 Z" />
+      <path
+         id="path13261"
+         style="fill:#9ec9d8;stroke-width:0.17813;fill-opacity:1"
+         d="m 960,840 120,120 H 960 Z" />
+      <path
+         id="path13263"
+         style="fill:#a7ccdb;stroke-width:0.17813;fill-opacity:1"
+         d="M 1080,840 V 960 L 960,840 Z" />
+      <path
+         id="path13267"
+         style="fill:#9cc6d5;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,840 960,960 H 840 Z" />
+      <path
+         id="path13269"
+         style="fill:#a5cad8;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,840 V 960 L 840,840 Z" />
+      <path
+         id="path13273"
+         style="fill:#90b8c7;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,840 840,960 H 720 Z" />
+      <path
+         id="path13275"
+         style="fill:#9abfce;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,840 V 960 L 720,840 Z" />
+      <path
+         id="path13279"
+         style="fill:#87acbb;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,840 720,960 H 600 Z" />
+      <path
+         id="path13281"
+         style="fill:#90b4c3;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,840 V 960 L 600,840 Z" />
+      <path
+         id="path13285"
+         style="fill:#799cab;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,840 600,960 H 480 Z" />
+      <path
+         id="path13287"
+         style="fill:#84a7b6;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,840 V 960 L 480,840 Z" />
+      <path
+         id="path13291"
+         style="fill:#6f8d9d;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,840 480,960 H 360 Z" />
+      <path
+         id="path13293"
+         style="fill:#7999a8;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,840 V 960 L 360,840 Z" />
+      <path
+         id="path13297"
+         style="fill:#647f8f;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,840 360,960 H 240 Z" />
+      <path
+         id="path13299"
+         style="fill:#6e8b9a;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,840 V 960 L 240,840 Z" />
+      <path
+         id="path13303"
+         style="fill:#5a7181;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,840 240,960 H 120 Z" />
+      <path
+         id="path13305"
+         style="fill:#647e8d;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,840 V 960 L 120,840 Z" />
+      <path
+         id="path13309"
+         style="fill:#526676;stroke-width:0.17813;fill-opacity:1"
+         d="M 0,840 120,960 H 0 Z" />
+      <path
+         id="path13311"
+         style="fill:#5b7282;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,840 V 960 L 0,840 Z" />
+      <path
+         id="path13317"
+         style="fill:#455262;stroke-width:0.17813;fill-opacity:1"
+         d="M 120,960 0,1080 h 120 z" />
+      <path
+         id="path13319"
+         style="fill:#485767;stroke-width:0.17813;fill-opacity:1"
+         d="m 0,960 v 120 L 120,960 Z" />
+      <path
+         id="path13323"
+         style="fill:#4f6272;stroke-width:0.17813;fill-opacity:1"
+         d="M 240,960 120,1080 H 240 Z" />
+      <path
+         id="path13325"
+         style="fill:#526575;stroke-width:0.17813;fill-opacity:1"
+         d="m 120,960 v 120 L 240,960 Z" />
+      <path
+         id="path13329"
+         style="fill:#597282;stroke-width:0.17813;fill-opacity:1"
+         d="M 360,960 240,1080 H 360 Z" />
+      <path
+         id="path13331"
+         style="fill:#5c7484;stroke-width:0.17813;fill-opacity:1"
+         d="m 240,960 v 120 L 360,960 Z" />
+      <path
+         id="path13335"
+         style="fill:#628191;stroke-width:0.17813;fill-opacity:1"
+         d="M 480,960 360,1080 H 480 Z" />
+      <path
+         id="path13337"
+         style="fill:#668393;stroke-width:0.17813;fill-opacity:1"
+         d="m 360,960 v 120 L 480,960 Z" />
+      <path
+         id="path13341"
+         style="fill:#6e93a3;stroke-width:0.17813;fill-opacity:1"
+         d="M 600,960 480,1080 H 600 Z" />
+      <path
+         id="path13343"
+         style="fill:#7093a2;stroke-width:0.17813;fill-opacity:1"
+         d="m 480,960 v 120 L 600,960 Z" />
+      <path
+         id="path13347"
+         style="fill:#77a1b1;stroke-width:0.17813;fill-opacity:1"
+         d="M 720,960 600,1080 H 720 Z" />
+      <path
+         id="path13349"
+         style="fill:#7aa1b1;stroke-width:0.17813;fill-opacity:1"
+         d="m 600,960 v 120 L 720,960 Z" />
+      <path
+         id="path13353"
+         style="fill:#82b2c1;stroke-width:0.17813;fill-opacity:1"
+         d="M 840,960 720,1080 H 840 Z" />
+      <path
+         id="path13355"
+         style="fill:#85b1c1;stroke-width:0.17813;fill-opacity:1"
+         d="m 720,960 v 120 L 840,960 Z" />
+      <path
+         id="path13359"
+         style="fill:#8dc2d1;stroke-width:0.17813;fill-opacity:1"
+         d="M 960,960 840,1080 H 960 Z" />
+      <path
+         id="path13361"
+         style="fill:#91c1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 840,960 v 120 L 960,960 Z" />
+      <path
+         id="path13365"
+         style="fill:#8dc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1080,960 -120,120 h 120 z" />
+      <path
+         id="path13367"
+         style="fill:#93c5d4;stroke-width:0.17813;fill-opacity:1"
+         d="m 960,960 v 120 l 120,-120 z" />
+      <path
+         id="path13371"
+         style="fill:#8cc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,960 -120,120 h 120 z" />
+      <path
+         id="path13373"
+         style="fill:#92c4d4;stroke-width:0.17813;fill-opacity:1"
+         d="m 1080,960 v 120 l 120,-120 z" />
+      <path
+         id="path13377"
+         style="fill:#8cc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,960 -120,120 h 120 z" />
+      <path
+         id="path13379"
+         style="fill:#91c4d3;stroke-width:0.17813;fill-opacity:1"
+         d="m 1200,960 v 120 l 120,-120 z" />
+      <path
+         id="path13383"
+         style="fill:#8bc1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,960 -120,120 h 120 z" />
+      <path
+         id="path13385"
+         style="fill:#8fc3d3;stroke-width:0.17813;fill-opacity:1"
+         d="m 1320,960 v 120 l 120,-120 z" />
+      <path
+         id="path13389"
+         style="fill:#8bc1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,960 -120,120 h 120 z" />
+      <path
+         id="path13391"
+         style="fill:#8dc3d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1440,960 v 120 l 120,-120 z" />
+      <path
+         id="path13395"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,960 -120,120 h 120 z" />
+      <path
+         id="path13397"
+         style="fill:#8bc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1560,960 v 120 l 120,-120 z" />
+      <path
+         id="path13401"
+         style="fill:#89c1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,960 -120,120 h 120 z" />
+      <path
+         id="path13403"
+         style="fill:#8bc2d2;stroke-width:0.17813;fill-opacity:1"
+         d="m 1680,960 v 120 l 120,-120 z" />
+      <path
+         id="path13407"
+         style="fill:#88c0d0;stroke-width:0.17813;fill-opacity:1"
+         d="m 1920,960 -120,120 h 120 z" />
+      <path
+         id="path13409"
+         style="fill:#8ac1d1;stroke-width:0.17813;fill-opacity:1"
+         d="m 1800,960 v 120 l 120,-120 z" />
+    </g>
+    <g
+       id="g864"
+       transform="matrix(39.33723,0,0,39.33723,626.65042,206.83265)">
+      <rect
+         transform="matrix(0.99138,0,0,1,0.072989,0.1117)"
+         x="0.79374999"
+         y="0.79374999"
+         width="15.346"
+         height="15.346"
+         rx="3.0525999"
+         ry="3.0525999"
+         fill="#2e3440"
+         filter="url(#filter1178)"
+         opacity="0.2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.2489"
+         id="rect18" />
+      <rect
+         x="0.92603999"
+         y="0.92603999"
+         width="15.081"
+         height="15.081"
+         rx="3"
+         ry="3"
+         fill="url(#linearGradient1340)"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.2274"
+         id="rect20"
+         style="fill:url(#linearGradient1340)" />
+      <rect
+         x="0.01215"
+         y="0.0060174"
+         width="16.924"
+         height="16.927"
+         fill="none"
+         opacity="0.15"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="1.052"
+         id="rect22" />
+      <g
+         transform="matrix(1.028,0,0,1.028,-15.317,0.082262)"
+         id="g34">
+        <rect
+           x="24.958"
+           y="2.8325"
+           width="2.1651001"
+           height="10.647"
+           fill="#8fbcbb"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2.8413"
+           id="rect24" />
+        <path
+           transform="rotate(-30)"
+           d="m 14.875,13.109 h 2.1651 l 0.0055,11.591 -0.29555,0.53518 -1.875,-1.0825 z"
+           fill="#2e3440"
+           filter="url(#filter1649)"
+           id="path26" />
+        <path
+           transform="rotate(-30)"
+           d="m 14.875,13.109 h 2.1651 l 0.0055,11.591 -0.29555,0.53518 -1.875,-1.0825 z"
+           fill="#8fbcbb"
+           id="path28" />
+        <rect
+           x="19.146999"
+           y="2.8325"
+           width="2.1651001"
+           height="10.647"
+           fill="#2e3440"
+           filter="url(#filter978)"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2.8413"
+           id="rect30" />
+        <rect
+           x="19.146999"
+           y="2.8325"
+           width="2.1651001"
+           height="10.647"
+           fill="#8fbcbb"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="2.8413"
+           id="rect32" />
+      </g>
+    </g>
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>
