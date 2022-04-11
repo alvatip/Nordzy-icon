@@ -3,12 +3,12 @@
 
 <p align="center">
 
-<img src="logo.png" alt="Nordzy logo">
+<img src="art/nord_background/1920x1080/background_logo_1920.png" alt="Nordzy logo">
 
 </p>
 
 Nordzy is a free and open source  icon theme for Linux desktops using the [Nord](https://github.com/arcticicestudio/nord) color palette from [Arctic Ice Studio](https://github.com/arcticicestudio) and based on [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) and [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme)<br/>
-Currently, there are not that many icons, I’ll take requests for which app icons I should put in next. If I get no requests, I take (almost) randomly from the long list of apps.
+ I’ll take requests for which app icons I should put in next. If I get no requests, I take (almost) randomly from the long list of apps.
 Dark variants are more appropriate for dark desktop environments, while the normal variants are more appropriate for light desktop environments. <br/>
 
 ## Table of contents
@@ -25,10 +25,10 @@ Dark variants are more appropriate for dark desktop environments, while the norm
 
 ## Preview
 
-![applications preview](preview1.png)
-![applications preview](preview4.png)
-![folders preview](preview2.png)
-![folders preview](preview3.png)
+![applications preview](art/preview/preview1.png)
+![applications preview](art/preview/preview4.png)
+![folders preview](art/preview/preview2.png)
+![folders preview](art/preview/preview3.png)
 
 
 ## Installation
@@ -68,10 +68,10 @@ Alternatively, you can use the tar.gz files located in the release section and e
 ### Also available
 <p align="left">
   <a href="https://www.pling.com/p/1686927" >
-    <img title="Nordzy-icon Pling Store" width="350em" src="art/pling_banner.png">
+    <img title="Nordzy-icon Pling Store" width="350em" src="art/banner/pling_banner.png">
   </a>
   <a href="https://aur.archlinux.org/packages/nordzy-icon-theme-git" >
-    <img title="Nordzy-icon Pling Store" width="350em" src="art/archlinux_banner.png">
+    <img title="Nordzy-icon Pling Store" width="350em" src="art/banner/archlinux_banner.png">
   </a>
 </p> 
 
