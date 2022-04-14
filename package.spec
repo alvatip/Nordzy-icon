@@ -44,6 +44,9 @@ cp -r %{_builddir}/%{name}-git* "%{buildroot}%{_datadir}/icons/%{name}"
 rm -rf %{_datadir}/icons/Nordzy*
 
 %changelog
+* Thu Apr 14 2022 alvatip <alex.philippart@tutanota.com> 1.3-1
+- new package built with tito
+
 * Wed Apr 06 2022 - alvatip <alex.philippart@tutanota.com> - 1.3-1
 - More new icons
 - Better support for Cinnamon
