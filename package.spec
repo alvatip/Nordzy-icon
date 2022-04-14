@@ -29,7 +29,7 @@ Normal variants are more appropriate for light desktop environments.
 
 %install
 mkdir -p "%{buildroot}%{_datadir}/icons"
-cp -r %{_builddir}/%{name}-%{version} "%{buildroot}%{_datadir}/icons/%{name}"
+cp -r %{_builddir}/%{name}-git* "%{buildroot}%{_datadir}/icons/%{name}"
 
 %Check
 # Nothing to do here
