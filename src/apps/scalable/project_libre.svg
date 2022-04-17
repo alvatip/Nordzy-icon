@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1232" x1="2.83" x2="14.086" y1="-9.5009" y2="-9.5452" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <filter id="filter2341" x="-.034137" y="-.37403" width="1.0683" height="1.7481" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.16180029"/>
+  </filter>
+  <linearGradient id="linearGradient2399" x1="4.9703" x2="12.133" y1="3.7764" y2="5.2383" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a3be8c" offset="0"/>
+   <stop stop-color="#97b67c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2407" x1="6.8219" x2="12.596" y1="6.3834" y2="7.9914" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" offset="0"/>
+   <stop stop-color="#b54a55" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2479" x1="5.2383" x2="10.696" y1="8.9416" y2="10.647" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d08770" offset="0"/>
+   <stop stop-color="#c87051" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2615" x1="7.9427" x2="13.595" y1="11.622" y2="13.303" gradientTransform="matrix(1.1752 0 0 1 -4.4581 0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#81a1c1" offset="0"/>
+   <stop stop-color="#5e81ac" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .1117)" x=".79375" y=".79375" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g fill-rule="evenodd">
+  <rect x="3.0276" y="3.6417" width="10.361" height="1.7733" ry=".88666" fill="url(#linearGradient2399)" stroke-width=".2577"/>
+  <rect x="5.1017" y="6.2875" width="9.2855" height="1.7733" ry=".88666" fill="url(#linearGradient2407)" stroke-width=".24396"/>
+  <rect x="3.9844" y="8.9333" width="8.0638" height="1.7733" ry=".88666" fill="url(#linearGradient2479)" stroke-width=".22735"/>
+  <rect x="3.102" y="11.579" width="9.8058" height="1.7733" ry=".88666" fill="url(#linearGradient2615)" stroke-width=".25071"/>
+  <rect transform="rotate(89.977)" x="2.8557" y="-10.125" width="11.375" height="1.0382" ry=".5082" fill="#2e3440" filter="url(#filter2341)" opacity=".34405" stroke-width=".26458"/>
+  <rect transform="rotate(89.977)" x="2.7826" y="-10.052" width="11.375" height="1.0382" ry=".5082" fill="url(#linearGradient1232)" stroke-width=".26458"/>
+ </g>
+</svg>
