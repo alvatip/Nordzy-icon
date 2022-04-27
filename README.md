@@ -73,7 +73,7 @@ Alternatively, you can use the tar.gz files located in the release section and e
   <a href="https://aur.archlinux.org/packages/nordzy-icon-theme-git" >
     <img title="Nordzy-icon arch repo" width="350em" src="art/banner/archlinux_banner.png">
   </a>
-  <a href="https://aur.archlinux.org/packages/nordzy-icon-theme-git" >
+  <a href="https://copr.fedorainfracloud.org/coprs/alvatip/Nordzy-icon/" >
     <img title="Nordzy-icon Fedora Copr" width="350em" src="art/banner/fedora_copr_banner.png">
   </a>
 </p> 
