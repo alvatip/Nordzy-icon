@@ -71,7 +71,10 @@ Alternatively, you can use the tar.gz files located in the release section and e
     <img title="Nordzy-icon Pling Store" width="350em" src="art/banner/pling_banner.png">
   </a>
   <a href="https://aur.archlinux.org/packages/nordzy-icon-theme-git" >
-    <img title="Nordzy-icon Pling Store" width="350em" src="art/banner/archlinux_banner.png">
+    <img title="Nordzy-icon arch repo" width="350em" src="art/banner/archlinux_banner.png">
+  </a>
+  <a href="https://aur.archlinux.org/packages/nordzy-icon-theme-git" >
+    <img title="Nordzy-icon Fedora Copr" width="350em" src="art/banner/fedora_copr_banner.png">
   </a>
 </p> 
 
