@@ -1,5 +1,4 @@
-* Wed Apr 06 2022 - alvatip <alex.philippart@tutanota.com> - 1.3-1
+* Wed May 04 2022 - alvatip <alex.philippart@tutanota.com> - 1.4
 - More new icons
-- Better support for Cinnamon
-- Icons optimization
-- test changelog integration
+- Add Fedora copr package
+- Add customized background

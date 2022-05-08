@@ -75,7 +75,7 @@ create_sources(){
 
 clean(){
 	rm -rf $HOME/Downloads/Nordzy-icon-${1}
-	rm -rf $HOME/rpmbuild/{SOURCES,SPECS,BUILD,BUILDROOT}/*
+	rm -rf $HOME/rpmbuild/{SOURCES,SPECS,BUILD,BUILDROOT,SRPMS,RPMS}/*
 }
 
 create_packages(){
