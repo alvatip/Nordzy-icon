@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="520" x2="520" y1="32.362" y2="1052.4" gradientTransform="matrix(.06274 0 0 .06274 .075 -2.062)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#e5e9f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(3.847 0 0 3.847 -.57128 -.53973)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
+  </linearGradient>
+  <filter id="filter2306" x="-.09628" y="-.09628" width="1.1926" height="1.1926" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2887909"/>
+  </filter>
+  <filter id="filter2306-1" x="-.09628" y="-.09628" width="1.1926" height="1.1926" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2887909"/>
+  </filter>
+  <filter id="filter1140" x="-.032501" y="-.032501" width="1.065" height="1.065" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.77190153"/>
+  </filter>
+ </defs>
+ <rect x="3.5" y="4.2022" width="57" height="57" rx="11.399" ry="11.399" fill="#2e3440" filter="url(#filter1140)" opacity=".4886" stroke-width="1.0178"/>
+ <rect x="3.5" y="3.5" width="57" height="57" rx="11.399" ry="11.399" fill="url(#a)" stroke-width="1.0178"/>
+ <path d="m32 18.618c-8.87 0-16.063 7.192-16.063 16.063s7.192 16.063 16.063 16.063c8.87 0 16.063-7.192 16.063-16.063s-7.192-16.063-16.063-16.063zm0 30.118c-7.749 0-14.055-6.306-14.055-14.055s6.306-14.055 14.055-14.055 14.055 6.306 14.055 14.055-6.306 14.055-14.055 14.055zm4.969-19.733-7.098 7.098-2.84-2.84a2.0078 2.0078 0 1 0-2.839 2.84l4.26 4.259a2.007 2.007 0 0 0 2.839 0l8.517-8.518a2.0082 2.0082 0 1 0-2.84-2.84z" fill="#2e3440" filter="url(#filter2306)" opacity=".49962"/>
+ <path d="m32 18.618c-8.87 0-16.063 7.192-16.063 16.063 0 8.871 7.192 16.063 16.063 16.063 8.87 0 16.063-7.192 16.063-16.063s-7.192-16.063-16.063-16.063zm0 30.118c-7.749 0-14.055-6.306-14.055-14.055 0-7.749 6.306-14.055 14.055-14.055s14.055 6.306 14.055 14.055c0 7.749-6.306 14.055-14.055 14.055zm4.969-19.733-7.098 7.098-2.84-2.84a2.0078 2.0078 0 1 0-2.839 2.84l4.26 4.259a2.007 2.007 0 0 0 2.839 0l8.517-8.518a2.0082 2.0082 0 1 0-2.84-2.84z" fill="#bf616a" filter="url(#filter2306-1)" style="mix-blend-mode:normal"/>
+ <path d="m32 15.937c-8.87 0-16.063 7.192-16.063 16.063s7.192 16.063 16.063 16.063c8.87 0 16.063-7.192 16.063-16.063s-7.192-16.063-16.063-16.063zm0 30.118c-7.749 0-14.055-6.306-14.055-14.055s6.306-14.055 14.055-14.055 14.055 6.306 14.055 14.055-6.306 14.055-14.055 14.055zm4.969-19.733-7.098 7.098-2.84-2.84a2.0078 2.0078 0 1 0-2.839 2.84l4.26 4.259a2.007 2.007 0 0 0 2.839 0l8.517-8.518a2.0082 2.0082 0 1 0-2.84-2.84z" fill="url(#b)"/>
+</svg>
