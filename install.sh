@@ -49,7 +49,7 @@ base_theme(){
 
 change_color(){
   echo "change the color from dark to light"
-  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places}/{16,22,24}/*
+  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
   sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
   sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
 }
