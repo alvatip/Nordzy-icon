@@ -37,6 +37,14 @@ cat << EOF
 EOF
 }
 
+# change the color of the theme when specified
+# use: theme_color $theme
+theme_color() {
+  if [[ ${1} != '' ]]; then
+    cp -r ${SRC_DIR}/colors/color${1}/*.svg                                          ${THEME_DIR}/places/scalable
+  fi
+}
+
 install() {
   local dest=${1}
   local name=${2}
@@ -59,19 +67,16 @@ install() {
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
-  # install default theme color
+  # install default color
   if [[ ${color} == '' ]]; then
     mkdir -p                                                                               ${THEME_DIR}/status
     cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                            ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
     cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
 
     # If another theme color is specified
-    if [[ ${theme} != '' ]]; then
-      cp -r ${SRC_DIR}/colors/color${theme}/*.svg                                          ${THEME_DIR}/places/scalable
-    fi
+    theme_color ${themes}
   fi
-
   if [[ ${color} == '-dark' ]]; then
     mkdir -p                                                                           ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
 
@@ -99,23 +104,39 @@ install() {
     cp -r ${SRC_DIR}/links/categories/symbolic                                         ${THEME_DIR}/categories
     cp -r ${SRC_DIR}/links/mimes/symbolic                                              ${THEME_DIR}/mimes
 
-    
     cd ${dest}
 
-    # Make links for the remaining icons that must stay unchanged
-    ln -s ../${name}${theme}/animations ${name}${theme}-dark/animations
-    ln -s ../../${name}${theme}/categories/32 ${name}${theme}-dark/categories/32
-    ln -s ../../${name}${theme}/emblems/16 ${name}${theme}-dark/emblems/16
-    ln -s ../../${name}${theme}/emblems/22 ${name}${theme}-dark/emblems/22
-    ln -s ../../${name}${theme}/emblems/24 ${name}${theme}-dark/emblems/24
-    ln -s ../../${name}${theme}/mimes/16 ${name}${theme}-dark/mimes/16
-    ln -s ../../${name}${theme}/mimes/22 ${name}${theme}-dark/mimes/22
-    ln -s ../../${name}${theme}/mimes/scalable ${name}${theme}-dark/mimes/scalable
-    ln -s ../../${name}${theme}/apps/scalable ${name}${theme}-dark/apps/scalable
-    ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
-    ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
-    ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
-    ln -s ../../${name}${theme}/status/scalable ${name}${theme}-dark/status/scalable
+    # Check if the light theme is installed
+    if [[ -d ${name}${theme} ]]
+    then
+      # If yes, we can make links for the remaining icons that must stay unchanged between light and dark theme
+      ln -s ../${name}${theme}/animations ${name}${theme}-dark/animations
+      ln -s ../../${name}${theme}/categories/32 ${name}${theme}-dark/categories/32
+      ln -s ../../${name}${theme}/emblems/16 ${name}${theme}-dark/emblems/16
+      ln -s ../../${name}${theme}/emblems/22 ${name}${theme}-dark/emblems/22
+      ln -s ../../${name}${theme}/emblems/24 ${name}${theme}-dark/emblems/24
+      ln -s ../../${name}${theme}/mimes/16 ${name}${theme}-dark/mimes/16
+      ln -s ../../${name}${theme}/mimes/22 ${name}${theme}-dark/mimes/22
+      ln -s ../../${name}${theme}/mimes/scalable ${name}${theme}-dark/mimes/scalable
+      ln -s ../../${name}${theme}/apps/scalable ${name}${theme}-dark/apps/scalable
+      ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
+      ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
+      ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
+      ln -s ../../${name}${theme}/status/scalable ${name}${theme}-dark/status/scalable
+    else 
+      # If not, we must create a copy (otherwise the links are broken)
+      cp -r ${SRC_DIR}/src/animations                                                     ${THEME_DIR}/animations
+      cp -r ${SRC_DIR}/src/categories/32                                                  ${THEME_DIR}/categories
+      cp -r ${SRC_DIR}/src/emblems/{16,22,24}                                             ${THEME_DIR}/emblems
+      cp -r ${SRC_DIR}/src/mimes/{16,22,scalable}                                         ${THEME_DIR}/mimes
+      cp -r ${SRC_DIR}/src/apps/scalable                                                  ${THEME_DIR}/apps
+      cp -r ${SRC_DIR}/src/places/scalable                                                ${THEME_DIR}/places
+      cp -r ${SRC_DIR}/src/devices/scalable                                               ${THEME_DIR}/devices
+      cp -r ${SRC_DIR}/src/status/{32,scalable}                                           ${THEME_DIR}/status
+
+      # If another theme color is specified
+      theme_color ${themes}
+    fi
   fi
 
   (
@@ -144,6 +165,32 @@ while [[ "$#" -gt 0 ]]; do
     -n|--name)
       name="${2}"
       shift 2
+      ;;
+    -c|--color)
+      shift
+      for color in "${@}"
+      do
+        case ${color} in
+          default)
+            colors=("${COLOR_VARIANTS[@]}")
+            shift
+            ;;
+          light)
+            colors=("${COLOR_VARIANTS[0]}")
+            shift
+            ;;
+          dark)
+            colors=("${COLOR_VARIANTS[1]}")
+            shift
+            ;;
+          -*|--*)
+            break
+            ;;
+          *)
+            error_msg "color" ${1}
+            ;;
+        esac
+      done
       ;;
     -t|--theme)
       shift
