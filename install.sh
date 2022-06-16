@@ -55,6 +55,9 @@ change_color(){
 }
 
 change_panel(){
+  # if Panel option is specified, the panel var become TRUE and we are going to this function to make it opposite as the color
+  # It also changes the name to indicate that the panel as changed
+  # if panel option is not specified, then nothing happens
   echo "change the panel from dakr to light"
   sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/status/{16,22,24}/*
 }
