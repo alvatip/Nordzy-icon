@@ -47,6 +47,18 @@ base_theme(){
   cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
 }
 
+change_color(){
+  echo "change the color from dark to light"
+  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places}/{16,22,24}/*
+  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
+  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
+}
+
+change_panel(){
+  echo "change the panel from dakr to light"
+  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/status/{16,22,24}/*
+}
+
 # change the color of the theme when specified
 # use: theme_color $theme
 theme_color() {
@@ -90,10 +102,8 @@ install() {
     base_theme
 
     # Change icon color for dark theme
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
-
+    change_color
+    change_panel
     # If another color is specified
     theme_color ${themes}
   fi
