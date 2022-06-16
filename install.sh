@@ -37,6 +37,16 @@ cat << EOF
 EOF
 }
 
+# all the folders from /src to the destination
+# use: base_theme
+base_theme(){
+  echo "Install the base theme"
+  mkdir -p                                                                               ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
+  cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
+  cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
+  cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
+}
+
 # change the color of the theme when specified
 # use: theme_color $theme
 theme_color() {
@@ -69,74 +79,23 @@ install() {
 
   # install default color
   if [[ ${color} == '' ]]; then
-    mkdir -p                                                                               ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
-
+    
+    # Install the base theme
+    base_theme
     # If another theme color is specified
     theme_color ${themes}
   fi
   if [[ ${color} == '-dark' ]]; then
-    mkdir -p                                                                           ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
-
-    # Create a copy of some of the icons (mainly symbolic)
-    cp -r ${SRC_DIR}/src/actions                                                       ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/apps/symbolic                                                 ${THEME_DIR}/apps
-    cp -r ${SRC_DIR}/src/categories/symbolic                                           ${THEME_DIR}/categories
-    cp -r ${SRC_DIR}/src/emblems/symbolic                                              ${THEME_DIR}/emblems
-    cp -r ${SRC_DIR}/src/mimes/symbolic                                                ${THEME_DIR}/mimes
-    cp -r ${SRC_DIR}/src/devices/{16,22,24,symbolic}                                   ${THEME_DIR}/devices
-    cp -r ${SRC_DIR}/src/places/{16,22,24,symbolic}                                    ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/src/status/{16,22,24}                                             ${THEME_DIR}/status
+    # Install base theme
+    base_theme
 
     # Change icon color for dark theme
     sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
     sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
     sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
 
-    # copy the links for the above icons
-    cp -r ${SRC_DIR}/links/actions/{16,22,24,32,symbolic}                              ${THEME_DIR}/actions
-    cp -r ${SRC_DIR}/links/devices/{16,22,24,symbolic}                                 ${THEME_DIR}/devices
-    cp -r ${SRC_DIR}/links/places/{16,22,24,symbolic}                                  ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/links/status/{16,22,24}                                           ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/links/apps/symbolic                                               ${THEME_DIR}/apps
-    cp -r ${SRC_DIR}/links/categories/symbolic                                         ${THEME_DIR}/categories
-    cp -r ${SRC_DIR}/links/mimes/symbolic                                              ${THEME_DIR}/mimes
-
-    cd ${dest}
-
-    # Check if the light theme is installed
-    if [[ -d ${name}${theme} ]]
-    then
-      # If yes, we can make links for the remaining icons that must stay unchanged between light and dark theme
-      ln -s ../${name}${theme}/animations ${name}${theme}-dark/animations
-      ln -s ../../${name}${theme}/categories/32 ${name}${theme}-dark/categories/32
-      ln -s ../../${name}${theme}/emblems/16 ${name}${theme}-dark/emblems/16
-      ln -s ../../${name}${theme}/emblems/22 ${name}${theme}-dark/emblems/22
-      ln -s ../../${name}${theme}/emblems/24 ${name}${theme}-dark/emblems/24
-      ln -s ../../${name}${theme}/mimes/16 ${name}${theme}-dark/mimes/16
-      ln -s ../../${name}${theme}/mimes/22 ${name}${theme}-dark/mimes/22
-      ln -s ../../${name}${theme}/mimes/scalable ${name}${theme}-dark/mimes/scalable
-      ln -s ../../${name}${theme}/apps/scalable ${name}${theme}-dark/apps/scalable
-      ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
-      ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
-      ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
-      ln -s ../../${name}${theme}/status/scalable ${name}${theme}-dark/status/scalable
-    else 
-      # If not, we must create a copy (otherwise the links are broken)
-      cp -r ${SRC_DIR}/src/animations                                                     ${THEME_DIR}/animations
-      cp -r ${SRC_DIR}/src/categories/32                                                  ${THEME_DIR}/categories
-      cp -r ${SRC_DIR}/src/emblems/{16,22,24}                                             ${THEME_DIR}/emblems
-      cp -r ${SRC_DIR}/src/mimes/{16,22,scalable}                                         ${THEME_DIR}/mimes
-      cp -r ${SRC_DIR}/src/apps/scalable                                                  ${THEME_DIR}/apps
-      cp -r ${SRC_DIR}/src/places/scalable                                                ${THEME_DIR}/places
-      cp -r ${SRC_DIR}/src/devices/scalable                                               ${THEME_DIR}/devices
-      cp -r ${SRC_DIR}/src/status/{32,scalable}                                           ${THEME_DIR}/status
-
-      # If another theme color is specified
-      theme_color ${themes}
-    fi
+    # If another color is specified
+    theme_color ${themes}
   fi
 
   (
