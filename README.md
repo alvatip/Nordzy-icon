@@ -9,7 +9,7 @@
 
 Nordzy is a free and open source  icon theme for Linux desktops using the [Nord](https://github.com/arcticicestudio/nord) color palette from [Arctic Ice Studio](https://github.com/arcticicestudio) and based on [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) and [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme)<br/>
  I’ll take requests for which app icons I should put in next. If I get no requests, I take (almost) randomly from the long list of apps.
-Dark variants are more appropriate for dark desktop environments, while the normal variants are more appropriate for light desktop environments. <br/>
+Dark variants are more appropriate for dark desktop environments, while the normal variants are more appropriate for light desktop environments. <br/> If you are using a dark theme with a light panel (or the opposite) you can specify the panel argument which make the panel's color opposite.
 
 ## Table of contents
 
@@ -59,7 +59,9 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |:--------------------|:-------------|
 |-d, --dest  DIR         | Specify theme destination directory (Default: $HOME/.icons)|
 |-n, --name  NAME  | Specify theme name (Default: Nordzy)|
-|-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)
+|-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)|
+|-c, --color VARIANT| Specify color variant(s) [standard;light;dark] (Default: All variants)|
+|-p, --panel|Make panel's color opposite to the color variant of the theme (Default: same as color variant)|
 |-h, --help                 | Show  help|
 
 ### tar.gz file

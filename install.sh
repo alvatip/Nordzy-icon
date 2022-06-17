@@ -36,8 +36,8 @@ OPTIONS:
   -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
   -n, --name NAME         Specify theme name (Default: $THEME_NAME)
   -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
-  -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)s)
-  -p, --panel             Make the color of the panel opposite to the color variant of the theme (Default: same as color VARIANT)
+  -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)
+  -p, --panel             Make panel's color opposite to the color variant of the theme (Default: same as color variant)
   -h, --help              Show help
 EOF
 }
