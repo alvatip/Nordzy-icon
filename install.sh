@@ -16,6 +16,8 @@ SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 THEME_NAME=Nordzy
 COLOR_VARIANTS=('' '-dark')
 THEME_VARIANTS=('' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-turquoise' '-cyan')
+hex_white='#d8dee9'
+hex_dark='#2e3440'
 
 # Display ascii art
 ascii_art() {
@@ -26,14 +28,17 @@ ascii_art() {
 # Show help
 usage() {
 cat << EOF
-  Usage: $0 [OPTION]...
+$0 helps you install Nordzy-icon theme on your computer.
 
-  OPTIONS:
-    -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
-    -n, --name NAME         Specify theme name (Default: $THEME_NAME)
-    -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
-    -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)s)
-    -h, --help              Show help
+Usage: $0 [OPTION]...
+
+OPTIONS:
+  -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
+  -n, --name NAME         Specify theme name (Default: $THEME_NAME)
+  -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
+  -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)s)
+  -p, --panel             Make the color of the panel opposite to the color variant of the theme (Default: same as color VARIANT)
+  -h, --help              Show help
 EOF
 }
 
@@ -49,17 +54,26 @@ base_theme(){
 
 change_color(){
   echo "change the color from dark to light"
-  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
-  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
-  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/actions/32/*
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
 }
 
+# Change the color of the icons panel from dark to light (light) or from light to dark (dark)
+# Default option is from light to dark (dark)
+# use: change_panel light/dark
 change_panel(){
   # if Panel option is specified, the panel var become TRUE and we are going to this function to make it opposite as the color
   # It also changes the name to indicate that the panel as changed
   # if panel option is not specified, then nothing happens
   echo "change the panel from dakr to light"
-  sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/status/{16,22,24}/*
+  if [[ ${1} == 'light' ]] ; then
+    # switch from dark to light
+    sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/status/{16,22,24}/*
+  else
+    # switch from light to dark
+    sed -i "s/${hex_white}/${hex_dark}/g" "${THEME_DIR}"/status/{16,22,24}/*
+  fi
 }
 
 # change the color of the theme when specified
@@ -76,7 +90,14 @@ install() {
   local theme=${3}
   local color=${4}
 
-  local THEME_DIR=${dest}/${name}${theme}${color}
+  # Modify the name of the theme according to colors and panel color
+  if [[ ${panel} == 'TRUE' ]] && [[ ${color} == '-dark' ]]; then
+    local THEME_DIR=${dest}/${name}${theme}${color}--light_panel
+  elif [[ ${panel} == 'TRUE' ]] && [[ ${color} == '' ]]; then
+    local THEME_DIR=${dest}/${name}${theme}${color}--dark_panel
+  else 
+    local THEME_DIR=${dest}/${name}${theme}${color}
+  fi
 
   # If theme dir exist: remove it
   [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
@@ -99,6 +120,10 @@ install() {
     base_theme
     # If another theme color is specified
     theme_color ${themes}
+    if [[ ${panel} == 'TRUE' ]]; then
+      # Panel color must be light
+      change_panel light
+    fi
   fi
   if [[ ${color} == '-dark' ]]; then
     # Install base theme
@@ -106,9 +131,12 @@ install() {
 
     # Change icon color for dark theme
     change_color
-    change_panel
     # If another color is specified
     theme_color ${themes}
+    if [[ ${panel} == 'TRUE' ]]; then
+      # Panel color must be light
+      change_panel dark
+    fi
   fi
 
   (
@@ -163,6 +191,10 @@ while [[ "$#" -gt 0 ]]; do
             ;;
         esac
       done
+      ;;
+    -p|--panel)
+      panel=TRUE
+      shift
       ;;
     -t|--theme)
       shift
