@@ -16,6 +16,8 @@ SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
 THEME_NAME=Nordzy
 COLOR_VARIANTS=('' '-dark')
 THEME_VARIANTS=('' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-turquoise' '-cyan')
+hex_white='#d8dee9'
+hex_dark='#2e3440'
 
 # Display ascii art
 ascii_art() {
@@ -26,15 +28,58 @@ ascii_art() {
 # Show help
 usage() {
 cat << EOF
-  Usage: $0 [OPTION]...
+$0 helps you install Nordzy-icon theme on your computer.
 
-  OPTIONS:
-    -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
-    -n, --name NAME         Specify theme name (Default: $THEME_NAME)
-    -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
-    -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)s)
-    -h, --help              Show help
+Usage: $0 [OPTION]...
+
+OPTIONS:
+  -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
+  -n, --name NAME         Specify theme name (Default: $THEME_NAME)
+  -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
+  -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)
+  -p, --panel             Make panel's color opposite to the color variant of the theme (Default: same as color variant)
+  -h, --help              Show help
 EOF
+}
+
+# all the folders from /src to the destination
+# use: base_theme
+base_theme(){
+  mkdir -p                                                                               ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
+  cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
+  cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
+  cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
+}
+
+change_color(){
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/actions/32/*
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
+}
+
+# Change the color of the icons panel from dark to light (light) or from light to dark (dark)
+# Default option is from light to dark (dark)
+# use: change_panel light/dark
+change_panel(){
+  # if Panel option is specified, the panel var become TRUE and we are going to this function to make it opposite as the color
+  # It also changes the name to indicate that the panel as changed
+  # if panel option is not specified, then nothing happens
+  echo "change the panel from dakr to light"
+  if [[ ${1} == 'light' ]] ; then
+    # switch from dark to light
+    sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/status/{16,22,24}/*
+  else
+    # switch from light to dark
+    sed -i "s/${hex_white}/${hex_dark}/g" "${THEME_DIR}"/status/{16,22,24}/*
+  fi
+}
+
+# change the color of the theme when specified
+# use: theme_color $theme
+theme_color() {
+  if [[ ${1} != '' ]]; then
+    cp -r ${SRC_DIR}/colors/color${1}/*.svg                                          ${THEME_DIR}/places/scalable
+  fi
 }
 
 install() {
@@ -43,7 +88,14 @@ install() {
   local theme=${3}
   local color=${4}
 
-  local THEME_DIR=${dest}/${name}${theme}${color}
+  # Modify the name of the theme according to colors and panel color
+  if [[ ${panel} == 'TRUE' ]] && [[ ${color} == '-dark' ]]; then
+    local THEME_DIR=${dest}/${name}${theme}${color}--light_panel
+  elif [[ ${panel} == 'TRUE' ]] && [[ ${color} == '' ]]; then
+    local THEME_DIR=${dest}/${name}${theme}${color}--dark_panel
+  else 
+    local THEME_DIR=${dest}/${name}${theme}${color}
+  fi
 
   # If theme dir exist: remove it
   [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
@@ -59,63 +111,30 @@ install() {
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
-  # install default theme color
+  # install default color
   if [[ ${color} == '' ]]; then
-    mkdir -p                                                                               ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                            ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
-
+    
+    # Install the base theme
+    base_theme
     # If another theme color is specified
-    if [[ ${theme} != '' ]]; then
-      cp -r ${SRC_DIR}/colors/color${theme}/*.svg                                          ${THEME_DIR}/places/scalable
+    theme_color ${themes}
+    if [[ ${panel} == 'TRUE' ]]; then
+      # Panel color must be light
+      change_panel light
     fi
   fi
-
   if [[ ${color} == '-dark' ]]; then
-    mkdir -p                                                                           ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
-
-    # Create a copy of some of the icons (mainly symbolic)
-    cp -r ${SRC_DIR}/src/actions                                                       ${THEME_DIR}
-    cp -r ${SRC_DIR}/src/apps/symbolic                                                 ${THEME_DIR}/apps
-    cp -r ${SRC_DIR}/src/categories/symbolic                                           ${THEME_DIR}/categories
-    cp -r ${SRC_DIR}/src/emblems/symbolic                                              ${THEME_DIR}/emblems
-    cp -r ${SRC_DIR}/src/mimes/symbolic                                                ${THEME_DIR}/mimes
-    cp -r ${SRC_DIR}/src/devices/{16,22,24,symbolic}                                   ${THEME_DIR}/devices
-    cp -r ${SRC_DIR}/src/places/{16,22,24,symbolic}                                    ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/src/status/{16,22,24}                                             ${THEME_DIR}/status
+    # Install base theme
+    base_theme
 
     # Change icon color for dark theme
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/actions/32/*
-    sed -i "s/#2e3440/#d8dee9/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
-
-    # copy the links for the above icons
-    cp -r ${SRC_DIR}/links/actions/{16,22,24,32,symbolic}                              ${THEME_DIR}/actions
-    cp -r ${SRC_DIR}/links/devices/{16,22,24,symbolic}                                 ${THEME_DIR}/devices
-    cp -r ${SRC_DIR}/links/places/{16,22,24,symbolic}                                  ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/links/status/{16,22,24}                                           ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/links/apps/symbolic                                               ${THEME_DIR}/apps
-    cp -r ${SRC_DIR}/links/categories/symbolic                                         ${THEME_DIR}/categories
-    cp -r ${SRC_DIR}/links/mimes/symbolic                                              ${THEME_DIR}/mimes
-
-    
-    cd ${dest}
-
-    # Make links for the remaining icons that must stay unchanged
-    ln -s ../${name}${theme}/animations ${name}${theme}-dark/animations
-    ln -s ../../${name}${theme}/categories/32 ${name}${theme}-dark/categories/32
-    ln -s ../../${name}${theme}/emblems/16 ${name}${theme}-dark/emblems/16
-    ln -s ../../${name}${theme}/emblems/22 ${name}${theme}-dark/emblems/22
-    ln -s ../../${name}${theme}/emblems/24 ${name}${theme}-dark/emblems/24
-    ln -s ../../${name}${theme}/mimes/16 ${name}${theme}-dark/mimes/16
-    ln -s ../../${name}${theme}/mimes/22 ${name}${theme}-dark/mimes/22
-    ln -s ../../${name}${theme}/mimes/scalable ${name}${theme}-dark/mimes/scalable
-    ln -s ../../${name}${theme}/apps/scalable ${name}${theme}-dark/apps/scalable
-    ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
-    ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
-    ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
-    ln -s ../../${name}${theme}/status/scalable ${name}${theme}-dark/status/scalable
+    change_color
+    # If another color is specified
+    theme_color ${themes}
+    if [[ ${panel} == 'TRUE' ]]; then
+      # Panel color must be light
+      change_panel dark
+    fi
   fi
 
   (
@@ -144,6 +163,36 @@ while [[ "$#" -gt 0 ]]; do
     -n|--name)
       name="${2}"
       shift 2
+      ;;
+    -c|--color)
+      shift
+      for color in "${@}"
+      do
+        case ${color} in
+          default)
+            colors=("${COLOR_VARIANTS[@]}")
+            shift
+            ;;
+          light)
+            colors=("${COLOR_VARIANTS[0]}")
+            shift
+            ;;
+          dark)
+            colors=("${COLOR_VARIANTS[1]}")
+            shift
+            ;;
+          -*|--*)
+            break
+            ;;
+          *)
+            error_msg "color" ${1}
+            ;;
+        esac
+      done
+      ;;
+    -p|--panel)
+      panel=TRUE
+      shift
       ;;
     -t|--theme)
       shift
