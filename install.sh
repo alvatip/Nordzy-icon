@@ -45,7 +45,6 @@ EOF
 # all the folders from /src to the destination
 # use: base_theme
 base_theme(){
-  echo "Install the base theme"
   mkdir -p                                                                               ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
   cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
   cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
@@ -53,7 +52,6 @@ base_theme(){
 }
 
 change_color(){
-  echo "change the color from dark to light"
   sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
   sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/actions/32/*
   sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
