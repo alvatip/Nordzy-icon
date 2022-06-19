@@ -20,6 +20,7 @@ Dark variants are more appropriate for dark desktop environments, while the norm
 - [Other ressources](#other-ressources)
 - [Contributing](#contributing)
 - [Icon request](#icon-request)
+- [Support the author](#support-the-author)
 - [License](#license)
 
 
@@ -61,6 +62,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-n, --name  NAME  | Specify theme name (Default: Nordzy)|
 |-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)|
 |-c, --color VARIANT| Specify color variant(s) [standard;light;dark] (Default: All variants)|
+|-p, --panel |Make panel's color opposite to the color variant of the theme (Default: same as color variant)|
 |-p, --panel|Make panel's color opposite to the color variant of the theme (Default: same as color variant)|
 |-t, --total	|Install all theme, color and panel variants|
 |-h, --help                 | Show  help|
@@ -97,7 +99,7 @@ sudo rm -r /usr/share/icons/Nordzy*
 
 [Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) cursors theme. </br> 
 [Nordic](https://github.com/EliverLara/Nordic) theme.
-
+[Firefox theme](https://addons.mozilla.org/en-US/firefox/addon/nordzy-dark/)
 
 ## Icon request
 
@@ -118,6 +120,14 @@ Help is always welcome.
 * Script improvement
 * Spelling, grammar, ...
 * ...
+
+## Support the author
+
+<p align="left">
+ <a href="https://www.buymeacoffee.com/alvatips" >
+    <img title="Buy me a coffee banner" width="150em" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
+  </a>
+</p>
 
 
 ## License
