@@ -22,7 +22,15 @@ hex_dark='#2e3440'
 # Display ascii art
 ascii_art() {
   cat < nordzy-ascii-art.txt
-  sleep 2
+  sleep 0.5
+}
+
+# Error message
+error_msg(){
+  local subject=${1}
+  echo "ERROR: Unrecognized ${subject} option '$2'."
+  echo "Try '$0 --help' for more information."
+  exit 1
 }
 
 # Show help
@@ -38,6 +46,7 @@ OPTIONS:
   -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
   -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)
   -p, --panel             Make panel's color opposite to the color variant of the theme (Default: same as color variant)
+  -t, --total               Install all theme, color and panel variants
   -h, --help              Show help
 EOF
 }
@@ -152,6 +161,25 @@ install() {
   gtk-update-icon-cache ${THEME_DIR}
 }
 
+install_theme() {
+  for theme in "${themes[@]}"; do
+    for color in "${colors[@]}"; do
+      install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
+    done
+  done
+}
+
+# Install all the theme, color and panel variants
+all_variants_installation(){
+  themes=("${THEME_VARIANTS[@]}")
+  colors=("${COLOR_VARIANTS[@]}")
+  ascii_art
+  for bool in 'TRUE' 'FALSE'; do
+    panel=${bool}
+    install_theme
+  done
+}
+
 while [[ "$#" -gt 0 ]]; do
   case "${1:-}" in
     -d|--dest)
@@ -241,22 +269,22 @@ while [[ "$#" -gt 0 ]]; do
             break
             ;;
           *)
-            prompt -e "ERROR: Unrecognized theme variant '$1'."
-            prompt -i "Try '$0 --help' for more information."
-            exit 1
+            error_msg 'theme' ${1}
             ;;
         esac
         # echo "Installing '${theme}' folder version..."
       done
+      ;;
+    -t|--total)
+      all_variants_installation
+      exit 0
       ;;
     -h|--help)
       usage
       exit 0
       ;;
     *)
-      echo "ERROR: Unrecognized installation option '$1'."
-      echo "Try '$0 --help' for more information."
-      exit 1
+      error_msg 'installation' ${1}
       ;;
   esac
 done
@@ -268,14 +296,6 @@ fi
 if [[ "${#colors[@]}" -eq 0 ]] ; then
   colors=("${COLOR_VARIANTS[@]}")
 fi
-
-install_theme() {
-  for theme in "${themes[@]}"; do
-    for color in "${colors[@]}"; do
-      install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
-    done
-  done
-}
 
 ascii_art
 install_theme
