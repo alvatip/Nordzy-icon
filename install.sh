@@ -64,7 +64,6 @@ change_panel(){
   # if Panel option is specified, the panel var become TRUE and we are going to this function to make it opposite as the color
   # It also changes the name to indicate that the panel as changed
   # if panel option is not specified, then nothing happens
-  echo "change the panel from dakr to light"
   if [[ ${1} == 'light' ]] ; then
     # switch from dark to light
     sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/status/{16,22,24}/*
@@ -117,7 +116,7 @@ install() {
     # Install the base theme
     base_theme
     # If another theme color is specified
-    theme_color ${themes}
+    theme_color ${theme}
     if [[ ${panel} == 'TRUE' ]]; then
       # Panel color must be light
       change_panel light
@@ -130,7 +129,7 @@ install() {
     # Change icon color for dark theme
     change_color
     # If another color is specified
-    theme_color ${themes}
+    theme_color ${theme}
     if [[ ${panel} == 'TRUE' ]]; then
       # Panel color must be light
       change_panel dark
