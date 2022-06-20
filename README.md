@@ -62,9 +62,8 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-n, --name  NAME  | Specify theme name (Default: Nordzy)|
 |-t, --theme VARIANT | Specify theme color variant(s) (default; purple; pink; red; orange; yellow; green; turquoise; cyan; all)|
 |-c, --color VARIANT| Specify color variant(s) [standard;light;dark] (Default: All variants)|
-|-p, --panel |Make panel's color opposite to the color variant of the theme (Default: same as color variant)|
 |-p, --panel|Make panel's color opposite to the color variant of the theme (Default: same as color variant)|
-|-t, --total	|Install all theme, color and panel variants|
+|--total	|Install all theme, color and panel variants|
 |-h, --help                 | Show  help|
 
 ### tar.gz file
