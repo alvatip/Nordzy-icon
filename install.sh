@@ -61,7 +61,14 @@ base_theme(){
 }
 
 change_color(){
-  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
+  # Loop to avoid getting the error: "./install.sh: line 64: /bin/sed: Argument list too long"
+  for ICONTYPE in actions devices places status 
+  do
+    for i in 16 22 24
+    do
+      sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/${ICONTYPE}/${i}/*
+    done
+  done
   sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/actions/32/*
   sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
 }
