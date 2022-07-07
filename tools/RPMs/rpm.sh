@@ -4,6 +4,12 @@ version=${1}
 changelog=$(cat changelog)
 temp=/var/temp
 
+if [ -z ${1} ]; then
+	echo "Version must be specified as an argument..."
+	echo "Exiting script!"
+	exit 1
+fi
+
 show_reminder(){
 	echo '/!\ Ensure that fedora copr is properly set up on the computer and that the changelog was updated /!\'
 	echo 'Press ctrl+C to cancel action'
