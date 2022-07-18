@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <style>.fil1{fill:#fff;fill-rule:nonzero}</style>
+  <linearGradient id="linearGradient891" x1="29.857" x2="29.857" y1="15.121" y2="6.399" gradientTransform="translate(7.2812 1.8663)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient963" x1="37.139" x2="37.139" y1="9.6762" y2="13.324" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" offset="0"/>
+   <stop stop-color="#b54a55" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="translate(-28.672 -3.3002)">
+  <path d="m31.964 8.2653 5.1737 8.7218v1e-3l5.16e-4 -5.17e-4v-5.17e-4l5.1743-8.7218h-1.8701l-3.3036 5.737-5.17e-4 -1e-3 -5.16e-4 1e-3 -3.3041-5.737z" fill="url(#linearGradient891)"/>
+  <path d="m39.24 9.6762h-4.2034l2.1013 3.6488 3.76e-4 -7.29e-4 3.77e-4 7.29e-4z" fill="url(#linearGradient963)"/>
+  <path d="m31.964 7.7361h10.348" fill="none" stroke="#bf616a" stroke-linejoin="bevel" stroke-width=".26458"/>
+ </g>
+</svg>
