@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.6644" x2="8.6644" y1="15.931" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e81ac" offset="0"/>
+   <stop stop-color="#88c0d0" offset="1"/>
+  </linearGradient>
+  <style>.fil1{fill:#fff;fill-rule:nonzero}</style>
+  <linearGradient id="linearGradient434" x1="5.0732" x2="5.0732" y1="10.049" y2="13.422" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <filter id="filter1149" x="-.039508" y="-.039658" width="1.079" height="1.0793" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.18139149"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="translate(-.26335 .69975)" fill="#2e3440" filter="url(#filter1149)" opacity=".47921">
+  <path d="m11.032 6.2464h3.3732v3.3732h-3.3732zm-3.8229 0h3.3732v3.3732h-3.3732zm3.8229-3.8021h3.3732v3.3732h-3.3732zm-3.8229 7.6043h3.3732v3.3732h-3.3732zm0-7.6043h3.3732v3.3732h-3.3732zm-3.8229 3.8021h3.3732v3.3732h-3.3732zm0 3.8021h3.3732v3.3732h-3.3732z" fill="#2e3440" stroke-width=".26458"/>
+ </g>
+ <g transform="translate(-.42957 .53353)">
+  <rect id="rect366" x="3.3866" y="10.049" width="3.3732" height="3.3732" fill="url(#linearGradient434)" stroke-width=".26458"/>
+  <use id="use523" transform="translate(0 -3.8021)" xlink:href="#rect366"/>
+  <use transform="translate(3.8229 -3.8021)" xlink:href="#use523"/>
+  <use id="use527" transform="translate(3.8229)" xlink:href="#rect366"/>
+  <use transform="translate(3.8229 -7.6043)" xlink:href="#use527"/>
+  <use transform="translate(0 -3.8021)" xlink:href="#use527"/>
+  <use transform="translate(3.8229 -3.8021)" xlink:href="#use527"/>
+ </g>
+</svg>
