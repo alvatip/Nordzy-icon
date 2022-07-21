@@ -59,7 +59,7 @@ cp -r %{_builddir}/%{name}-%{version} \"%{buildroot}%{_datadir}/icons/%{name}\"
 %{_datadir}/icons/
 
 %post
-%{_datadir}/icons/%{name}/install.sh -d %{_datadir}/icons/ -t all
+%{_datadir}/icons/%{name}/install.sh -d %{_datadir}/icons/ --total
 
 %preun
 rm -rf %{_datadir}/icons/Nordzy*
