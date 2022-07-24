@@ -1,3 +1,5 @@
-* Sun Jun 19 2022 - alvatip <alex.philippart@tutanota.com> - 1.5
+* Sun Jul 20 2022 - alvatip <alex.philippart@tutanota.com> - 1.6
 - More new icons
-- Add panel color variant
+- Fix some issues
+- Add the possibility to install a different theme for the panel icons
+- add a new background
