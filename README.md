@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="art/nord_background/1920x1080/background_logo_1920.png" alt="Nordzy logo">
+<img src="art/preview/theme_preview.png" alt="Nordzy logo">
 
 </p>
 
