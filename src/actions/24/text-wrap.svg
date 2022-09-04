@@ -8,5 +8,5 @@
       }</style>
  </defs>
  <path class="ColorScheme-Text" d="m4 4v1h16v-1h-16zm0 2v1h9v-1h-9zm0 4v1h10v-1h-10zm0 2v1h4v-1h-4zm0 4v1h10v-1h-10zm0 2v1h7v-1h-7zm8 1v1h2v-1h-2z" fill="currentColor"/>
- <path class="ColorScheme-Highlight" d="m12 13v1h4 0.5c1.385 0 2.5 1.115 2.5 2.5 0 0.8187-0.39551 1.5351-1 1.9902v-1.4902h-1v1.9492 0.050781 0.95117 0.048828h1 2v-1h-1.0762c0.65797-0.6319 1.0762-1.5097 1.0762-2.5 0-1.939-1.561-3.5-3.5-3.5h-4.5z" fill="currentColor"/>
+ <path class="ColorScheme-Highlight" d="m12 13v1h4.5c1.385 0 2.5 1.115 2.5 2.5 0 0.8187-0.39551 1.5351-1 1.9902v-1.4902h-1v2.999979h3v-1h-1.0762c0.65797-0.6319 1.0762-1.5097 1.0762-2.5 0-1.939-1.561-3.5-3.5-3.5h-4.5z" fill="currentColor"/>
 </svg>

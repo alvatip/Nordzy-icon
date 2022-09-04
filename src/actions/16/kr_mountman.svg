@@ -11,6 +11,6 @@
       }</style>
  </defs>
  <path class="ColorScheme-Text" d="m2 2v12h12v-12zm1 1h10v8h-5v1h-2v-1h-3v-1zm1 1v6h8v-6zm1 1h1v2h4v-2h1v4h-6zm-2 7h2v1h-2zm6 0h3v1h-3z" fill="currentColor"/>
- <path class="ColorScheme-PositiveText" d="m6 6c2.216 0 4 1.784 4 4 0 2.216-1.784 4-4 4s-4-1.784-4-4c0-2.216 1.784-4 4-4z" fill="currentColor"/>
+ <path class="ColorScheme-PositiveText" d="m6 6c2.216 0 4 1.784 4 4s-1.784 4-4 4-4-1.784-4-4 1.784-4 4-4z" fill="currentColor"/>
  <path d="m8 8-3 3-1-1-1 1 2 2 4-4z" fill="#fff" fill-rule="evenodd"/>
 </svg>

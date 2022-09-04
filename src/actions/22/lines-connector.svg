@@ -8,5 +8,5 @@
       }</style>
  </defs>/&gt;
  <path class="ColorScheme-Highlight" d="m16 3v3h3v-3h-3zm1 1h1v1h-1v-1zm-14 12v3h3v-3h-3zm1 1h1v1h-1v-1z" fill="currentColor"/>
- <path class="ColorScheme-Text" d="m13.941 4-6.5 13h-1.4414v1h0.94141 1.0586 0.058594l6.5-13h1.4414v-1h-0.94141-1.0586-0.058594z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m13.941 4-6.5 13h-1.4414v1h2.058604l6.5-13h1.4414v-1h-2.058604z" fill="currentColor"/>
 </svg>

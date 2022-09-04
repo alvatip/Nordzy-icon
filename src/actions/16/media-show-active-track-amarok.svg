@@ -7,6 +7,6 @@
         color:#88c0d0;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m4 2a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm2 0v1h8v-1h-6-2zm0 2v1h6v-1h-4-2zm-2 4a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm2 0v1h4v-1h-2-2zm0 2v1h3v-1h-1-2zm6 3v1h2v-1h-2z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m4 2a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm2 0v1h8v-1h-8zm0 2v1h6v-1h-6zm-2 4a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm2 0v1h4v-1h-4zm0 2v1h3v-1h-3zm6 3v1h2v-1h-2z" fill="currentColor"/>
  <path class="ColorScheme-Highlight" d="m14 12v-5l-3 2.5z" fill="currentColor"/>
 </svg>

@@ -7,6 +7,6 @@
         color:#bf616a;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m2 2v12h3v-1h-2v-10h2v-1h-3zm9 0v1h2v5h1v-6h-1-2zm-7 8v2h4v-1h-3v-1h-1z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m2 2v12h3v-1h-2v-10h2v-1h-3zm9 0v1h2v5h1v-6h-3zm-7 8v2h4v-1h-3v-1h-1z" fill="currentColor"/>
  <path class="ColorScheme-NegativeText" d="m9.71 9-0.707 0.707 1.793 1.793-1.793 1.793 0.707 0.707 1.793-1.793 1.793 1.793 0.707-0.707-1.793-1.793 1.793-1.793-0.707-0.707-1.793 1.793z" fill="currentColor"/>
 </svg>

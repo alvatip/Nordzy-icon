@@ -2,6 +2,6 @@
  <style type="text/css">.ColorScheme-Text {
             color:#2e3440;
         }</style>
- <path class="ColorScheme-Text" d="m7.5 2-3.5 3.5 3.5 3.5 0.71875-0.71875-2.3125-2.2812h3.5938c1.933 0 3.5 1.567 3.5 3.5 0 1.933-1.567 3.5-3.5 3.5h-1.5v1h1.5c2.4853 0 4.5-2.0147 4.5-4.5 0-2.4853-2.0147-4.5-4.5-4.5h-3.5938l2.3125-2.2812z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m7.5 2-3.5 3.5 3.5 3.5 0.71875-0.71875-2.3125-2.2812h3.5938c1.933 0 3.5 1.567 3.5 3.5s-1.567 3.5-3.5 3.5h-1.5v1h1.5c2.4853 0 4.5-2.0147 4.5-4.5s-2.0147-4.5-4.5-4.5h-3.5938l2.3125-2.2812z" fill="currentColor"/>
  <rect class="ColorScheme-Text" x="2" y="2" width="1" height="7" fill="currentColor" fill-rule="evenodd"/>
 </svg>
