@@ -1,25 +1,24 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" version="1.1">
-<defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="16" height="16" style="fill:rgb(0%,0%,0%);fill-opacity:0.6;stroke:none;"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="alpha" x="0%" y="0%" width="100%" height="100%">
+   <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+  </filter>
+  <mask id="mask0">
+   <g filter="url(#alpha)">
+    <rect width="16" height="16" style="fill-opacity:.6;fill:rgb(0%,0%,0%)"/>
+   </g>
+  </mask>
+  <clipPath id="clip1">
+   <rect width="16" height="16"/>
+  </clipPath>
+  <g id="surface5" clip-path="url(#clip1)">
+   <path d="m4.664062 0.00390625h6.671876c1.664062 0 1.664062-0.16406225 1.664062 1.6679688v6.664063c0 1.664062 0 1.664062-1.664062 1.664062h-6.671876c-1.664062 0-1.664062 0-1.664062-1.664062v-6.664063c0-1.6679688 0-1.6679688 1.664062-1.6679688z" style="fill-opacity:.941176;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%)"/>
   </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="16" height="16"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:0.941176;" d="M 4.664062 0.00390625 L 11.335938 0.00390625 C 13 0.00390625 13 -0.160156 13 1.671875 L 13 8.335938 C 13 10 13 10 11.335938 10 L 4.664062 10 C 3 10 3 10 3 8.335938 L 3 1.671875 C 3 0.00390625 3 0.00390625 4.664062 0.00390625 Z M 4.664062 0.00390625 "/>
-</g>
-</defs>
-<g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 1.597656 4 L 14.402344 4 C 16 4 16 4 16 5.597656 L 16 10.402344 C 16 12 16 12 14.402344 12 L 1.597656 12 C 0 12 0 12 0 10.402344 L 0 5.597656 C 0 4 0 4 1.597656 4 Z M 1.597656 4 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(53.333336%,75.294119%,81.568629%);fill-opacity:1;" d="M 3 8 L 13 8 L 13 16 L 3 16 Z M 3 8 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(18.039216%,20.392157%,25.098041%);fill-opacity:1;" d="M 7 9 L 7 12 L 5 12 L 8 15 L 11 12 L 9 12 L 9 9 Z M 7 9 "/>
-</g>
+ </defs>
+ <g id="surface1">
+  <use mask="url(#mask0)" xlink:href="#surface5"/>
+  <path d="M 1.597656 4 L 14.402344 4 C 16 4 16 4 16 5.597656 L 16 10.402344 C 16 12 16 12 14.402344 12 L 1.597656 12 C 0 12 0 12 0 10.402344 L 0 5.597656 C 0 4 0 4 1.597656 4 Z M 1.597656 4 " style="fill-rule:evenodd;fill:rgb(18.039216%,20.392157%,25.098041%)"/>
+  <path d="m3 8h10v8h-10z" style="fill:rgb(53.333336%,75.294119%,81.568629%)"/>
+  <path d="m7 9v3h-2l3 3 3-3h-2v-3z" style="fill:rgb(18.039216%,20.392157%,25.098041%)"/>
+ </g>
 </svg>

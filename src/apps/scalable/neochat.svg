@@ -1,13 +1,12 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient6021">
-   <stop stop-color="#eceff4" offset="0"/>
-   <stop stop-color="#d8dee9" offset="1"/>
-  </linearGradient>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
-  <linearGradient id="linearGradient6023" x1="8.4502" x2="8.4502" y1="5.2818" y2="9.3022" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient6021"/>
+  <linearGradient id="linearGradient6023" x1="8.4502" x2="8.4502" y1="5.2818" y2="9.3022" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
   <linearGradient id="linearGradient6223" x1="31.873" x2="31.873" y1="8.9001" y2="49.703" gradientUnits="userSpaceOnUse">
    <stop stop-color="#8fbcbb" offset="0"/>
    <stop stop-color="#88c0d0" offset="1"/>

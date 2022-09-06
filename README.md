@@ -27,9 +27,8 @@ Dark variants are more appropriate for dark desktop environments, while the norm
 ## Preview
 
 ![applications preview](art/preview/preview1.png)
-![applications preview](art/preview/preview4.png)
 ![folders preview](art/preview/preview2.png)
-![folders preview](art/preview/preview3.png)
+![mimetype preview](art/preview/preview3.png)
 
 
 ## Installation
@@ -117,8 +116,7 @@ Help is always welcome.
 * Make a symlink to an existing icon
 * Edit an existing icon
 * Script improvement
-* Spelling, grammar, ...
-* ...
+* Spelling, grammar, etc.
 
 ## Support the author
 

@@ -7,5 +7,5 @@
         color:#88c0d0;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m3 3v1h16v-1h-16zm3.5 2-0.21875 0.21484-3.2812 3.2305 0.71875 0.70898 2.2812-2.2461v8.1523 3.9395h1v-3.9395-8.1523l2.2812 2.2461 0.71875-0.70898-3.2812-3.2305-0.21875-0.21484zm4.5 0v1h8v-1h-8zm1 2v1h7v-1h-7zm3 2v1h4v-1h-4zm-5 2v1h9v-1h-9zm2 2v1h7v-1h-7zm4 2v1h3v-1h-3zm-6 2v1h9v-1h-9z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m3 3v1h16v-1h-16zm3.5 2-0.21875 0.21484-3.2812 3.2305 0.71875 0.70898 2.2812-2.2461v12.0918h1v-12.0918l2.2812 2.2461 0.71875-0.70898-3.2812-3.2305-0.21875-0.21484zm4.5 0v1h8v-1h-8zm1 2v1h7v-1h-7zm3 2v1h4v-1h-4zm-5 2v1h9v-1h-9zm2 2v1h7v-1h-7zm4 2v1h3v-1h-3zm-6 2v1h9v-1h-9z" fill="currentColor"/>
 </svg>

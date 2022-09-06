@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <marker id="marker4076" overflow="visible" orient="auto">
@@ -21,11 +20,10 @@
   <filter id="filter7374" x="-.070387" y="-.070387" width="1.1408" height="1.1408" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.33924329"/>
   </filter>
-  <linearGradient id="linearGradient1178" x1="11.462" x2="5.2435" y1="11.37" y2="5.0971" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient146" x1="11.462" x2="5.2435" y1="11.37" y2="5.0971" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#eceff4" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient146" x1="11.462" x2="5.2435" y1="11.37" y2="5.0971" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1178"/>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
   <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>

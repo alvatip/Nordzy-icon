@@ -9,6 +9,6 @@
  </defs>
  <g transform="translate(1,1)" fill="currentColor">
   <path class="ColorScheme-Text" d="m3 3v16h9v-1h-8v-11h14v5h1v-9h-2v3h-2v-3h-8v3h-2v-3h-2z"/>
-  <path class="ColorScheme-Highlight" d="m13 13v1 5h6v-5-1h-1v1h-1v-1h-2v1h-1v-1h-1zm1 2h4v3h-4v-3z"/>
+  <path class="ColorScheme-Highlight" d="m13 13v6h6v-6h-1v1h-1v-1h-2v1h-1v-1h-1zm1 2h4v3h-4v-3z"/>
  </g>
 </svg>
