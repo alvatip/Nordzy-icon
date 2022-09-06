@@ -20,7 +20,7 @@
   </filter>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 2.5202e-7)" x=".79375" y="1.0171" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
   <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
   <g transform="translate(4.0158e-5 .88309)" stroke-width=".26458">
    <path d="m12.173 9.2472s0.20485-0.05874 0.40916 0.04551c0.07089 0.03598 0.19355 0.10864 0.28203 0.20357 0.08667 0.09303 0.12893 0.18727 0.12893 0.18727l1.2435 2.4871h-2.6457s-0.59122-1.7282-1.1446-2.468c-0.1101-0.09006-0.20206-0.18653-0.31057-0.17785h-0.66159l3.18e-4 2.6444h-2.1167v-7.4068h4.0101c0.43469 0 2.2753 0.26458 2.3396 2.1167-0.06429 1.8521-1.5345 2.3813-1.5345 2.3813zm-2.6985-2.9109v1.588h1.5873s0.52915 0.01905 0.52915-0.79376c0-0.85377-0.52915-0.79328-0.52915-0.79328z" fill="#2e3440" fill-rule="evenodd" filter="url(#filter947)" opacity=".318"/>
