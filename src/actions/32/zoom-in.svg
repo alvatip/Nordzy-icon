@@ -4,5 +4,5 @@
         color:#2e3440;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m4 4v5h1v-4h4v-1h-5zm7 0v1h4v-1h-4zm6 0v1h4v-1h-4zm6 0v1h4v4h1v-4-1h-1-4zm-8.0703 6v1h5.3633l-7.8398 7.8379 0.70898 0.70898 7.8379-7.8398v5.3633h1v-5.6562-1.4141h-7.0703zm-10.93 1v4h1v-4h-1zm23 0v4h1v-4h-1zm-23 6v3h1v-3h-1zm23 0v4h1v-4h-1zm-23 4v2 5h5 2v-7h-7zm1 1h5v5h-1-4v-4-1zm22 1v4h-4v1h5v-5h-1zm-15 4v1h3v-1h-3zm5 0v1h4v-1h-4z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m4 4v5h1v-4h4v-1h-5zm7 0v1h4v-1h-4zm6 0v1h4v-1h-4zm6 0v1h4v4h1v-5h-5zm-8.0703 6v1h5.3633l-7.8398 7.8379 0.70898 0.70898 7.8379-7.8398v5.3633h1v-7.0703h-7.0703zm-10.93 1v4h1v-4h-1zm23 0v4h1v-4h-1zm-23 6v3h1v-3h-1zm23 0v4h1v-4h-1zm-23 4v7h7v-7h-7zm1 1h5v5h-5v-5zm22 1v4h-4v1h5v-5h-1zm-15 4v1h3v-1h-3zm5 0v1h4v-1h-4z" fill="currentColor"/>
 </svg>

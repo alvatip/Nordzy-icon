@@ -8,7 +8,7 @@
       }</style>
  </defs>
  <g transform="translate(1,1)" fill="currentColor">
-  <path class="ColorScheme-Text" d="m4 3v16h1 6v-1h-6v-14h12v8h1v-9h-1-12-1zm2 3v1h10v-1h-10zm0 2v1h6v-1h-6zm0 5v1h7v-1h-7z"/>
+  <path class="ColorScheme-Text" d="m4 3v16h7v-1h-6v-14h12v8h1v-9h-14zm2 3v1h10v-1h-10zm0 2v1h6v-1h-6zm0 5v1h7v-1h-7z"/>
   <path class="ColorScheme-Highlight" d="m16 13-1 2h1v4h1v-6h-1zm-10 2v1h7v-1h-7z"/>
  </g>
 </svg>

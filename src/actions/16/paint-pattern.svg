@@ -7,6 +7,6 @@
         color:#88c0d0;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m2 2v10 1 1h12v-12h-12z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m2 2v12h12v-12h-12z" fill="currentColor"/>
  <path d="m4 2-2 2 2 2 2-2-2-2zm2 2 2 2 2-2-2-2-2 2zm4 0 2 2 2-2-2-2-2 2zm2 2-2 2 2 2 2-2-2-2zm0 4-2 2 2 2 2-2-2-2zm-2 2-2-2-2 2 2 2 2-2zm-4 0-2-2-2 2 2 2 2-2zm-2-2 2-2-2-2-2 2 2 2zm2-2 2 2 2-2-2-2-2 2z" fill="#fff"/>
 </svg>

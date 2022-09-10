@@ -8,7 +8,7 @@
       }</style>
  </defs>
  <g transform="matrix(-1 0 0 1 438.71 -531.79)" fill="currentColor">
-  <path class="ColorScheme-ViewBackground" d="m436.71 532.79v1 5 1 5 1h-1-5-1-5-1v-1-5-1-5-1h1 5 1 5 1zm-1 1h-5v5h5v-5zm-6 0h-5v5h5v-5zm6 6h-5v5h5v-5zm-6 0h-5v5h5v-5z"/>
+  <path class="ColorScheme-ViewBackground" d="m436.71 532.79v13h-13v-13h13zm-1 1h-5v5h5v-5zm-6 0h-5v5h5v-5zm6 6h-5v5h5v-5zm-6 0h-5v5h5v-5z"/>
   <path class="ColorScheme-Text" d="m436.01 532.79-12.293 12.293v0.70703h0.70703l12.293-12.293v-0.70703h-0.70703z"/>
   <path class="ColorScheme-Text" d="m435.71 533.79v5h-5v-5h5zm-6 0v5h-5v-5h5zm6 6v5h-5v-5h5zm-6 0v5h-5v-5h5z" fill-opacity=".5"/>
  </g>

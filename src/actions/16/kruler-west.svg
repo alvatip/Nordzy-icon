@@ -4,5 +4,5 @@
         color:#2e3440;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m2 2h1 4 1v12h-1-4-1v-12zm1 1v1h2v1h-2v2h2v1h-2v2h2v1h-2v2h4v-10h-4zm6 2 2-3 2 3h-4zm0 6h4l-2 3-2-3z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m2 2h6v12h-6v-12zm1 1v1h2v1h-2v2h2v1h-2v2h2v1h-2v2h4v-10h-4zm6 2 2-3 2 3h-4zm0 6h4l-2 3-2-3z" fill="currentColor"/>
 </svg>

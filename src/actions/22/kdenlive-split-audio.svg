@@ -4,5 +4,5 @@
         color:#2e3440;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m3 2v4 1 4h1 2 10 2 1v-4-1-4h-1-2-10-2-1zm1 1h1v1h-1v-1zm2 0h10v3 1 3h-10v-3-1-3zm11 0h1v1h-1v-1zm-13 3h1v1h-1v-1zm13 0h1v1h-1v-1zm-13 3h1v1h-1v-1zm13 0h1v1h-1v-1zm-12 3v2h-1v1h-1v1h1v1h1v2h1v-1h1v-1h1v-1h1v1h1v2h1v-1h1v-2h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v1h-1v-2h-1v-1h-1v2h-1v1h-1v-1h-1v-1h-1v-1h-1z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m3 2v9h16v-9h-16zm1 1h1v1h-1v-1zm2 0h10v7h-10v-7zm11 0h1v1h-1v-1zm-13 3h1v1h-1v-1zm13 0h1v1h-1v-1zm-13 3h1v1h-1v-1zm13 0h1v1h-1v-1zm-12 3v2h-1v1h-1v1h1v1h1v2h1v-1h1v-1h1v-1h1v1h1v2h1v-1h1v-2h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v1h-1v-2h-1v-1h-1v2h-1v1h-1v-1h-1v-1h-1v-1h-1z" fill="currentColor"/>
 </svg>

@@ -5,6 +5,6 @@
       }</style>
  </defs>
  <g transform="translate(1,1)">
-  <path class="ColorScheme-Text" d="m2 3v16h1 2v-1h-2v-14h2v-1h-2-1zm14 0v1h2v14h-2v1h2 1v-16h-1-2zm-11 11v1 1h11v-1-1h-1v1h-9v-1h-1z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m2 3v16h3v-1h-2v-14h2v-1h-3zm14 0v1h2v14h-2v1h3v-16h-3zm-11 11v2h11v-2h-1v1h-9v-1h-1z" fill="currentColor"/>
  </g>
 </svg>
