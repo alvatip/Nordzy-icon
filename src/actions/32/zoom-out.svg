@@ -4,5 +4,5 @@
         color:#2e3440;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m4 4v1 11h1v-11h22v22h-11v1h11 1v-23-1h-24zm19.838 3.4531-7.8379 7.8398v-5.3633h-1v5.6563 1.4141h7.0703v-1h-5.3633l7.8398-7.8379-0.70898-0.70898zm-19.838 10.547v4h1v-3h3v-1h-3-1zm6 0v1h3v3h1v-3-1h-1-3zm-6 6v3 1h4v-1h-3v-3h-1zm9 0v3h-3v1h4v-4h-1z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m4 4v12h1v-11h22v22h-11v1h12v-24h-24zm19.838 3.4531-7.8379 7.8398v-5.3633h-1v7.0704h7.0703v-1h-5.3633l7.8398-7.8379-0.70898-0.70898zm-19.838 10.547v4h1v-3h3v-1h-4zm6 0v1h3v3h1v-4h-4zm-6 6v4h4v-1h-3v-3h-1zm9 0v3h-3v1h4v-4h-1z" fill="currentColor"/>
 </svg>

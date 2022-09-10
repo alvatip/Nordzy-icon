@@ -4,7 +4,7 @@
         color:#2e3440;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m3 2v1 16h1 16v-1-15-1h-1-15-1zm1 1h15v15h-15v-15z" fill="currentColor" fill-opacity=".1"/>
+ <path class="ColorScheme-Text" d="m3 2v17h17v-17h-17zm1 1h15v15h-15v-15z" fill="currentColor" fill-opacity=".1"/>
  <path class="ColorScheme-Text" d="m4 3v7h7v-7h-7zm8 0v7h7v-7h-7zm-8 8v7h7v-7h-7zm8 0v7h7v-7h-7z" fill="currentColor" fill-opacity=".5"/>
  <path class="ColorScheme-Text" d="m11 2v8h-8v1h8v8h1v-8h8v-1h-8v-8h-1z" fill="currentColor"/>
 </svg>

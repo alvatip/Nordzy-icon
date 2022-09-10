@@ -2,7 +2,7 @@
  <g fill="#2e3440">
   <g transform="matrix(1.0002 0 0 1 .069821 .0011024)" shape-rendering="auto">
    <path transform="matrix(.28217 0 0 .28222 -.069807 -.0011024)" d="m4.498 3c-0.553 1e-3 -1 0.451-0.998 1v10.996c-2e-3 0.553 0.445 1 0.998 1h13.504c0.552-2e-3 0.998-0.452 0.996-1v-9.441l-5.629 5.733-3.919 1.258 0.857-3.519 6.04-6.03" color-rendering="auto" image-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
-   <path d="m0.918 4.516v0.564c1e-3 0.155 0.126 0.281 0.282 0.281h3.811c0.155-1e-3 0.281-0.126 0.281-0.281v-0.564c-1e-3 0.155-0.126 0.281-0.281 0.281h-0.283-3.244-0.283c-0.155 0-0.281-0.126-0.282-0.281" color-rendering="auto" image-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
+   <path d="m0.918 4.516v0.564c1e-3 0.155 0.126 0.281 0.282 0.281h3.811c0.155-1e-3 0.281-0.126 0.281-0.281v-0.564c-1e-3 0.155-0.126 0.281-0.281 0.281h-3.81c-0.155 0-0.281-0.126-0.282-0.281" color-rendering="auto" image-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
   </g>
  </g>
  <path transform="scale(.28222)" d="m19.98 1.113c-0.226 0.01-0.44 0.108-0.596 0.271l-7.99 7.982-0.795 2.033 2.033-0.795 7.984-7.99c0.572-0.557 0.161-1.526-0.637-1.502z" color-rendering="auto" fill="#2e3440" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>

@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient1456">
-   <stop stop-color="#d8dee9" offset="0"/>
-   <stop stop-color="#eceff4" offset="1"/>
-  </linearGradient>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
@@ -12,7 +7,10 @@
    <stop stop-color="#ebcb8b" offset="0"/>
    <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1458" x1="628.88" x2="20.74" y1="17.043" y2="625.18" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1456"/>
+  <linearGradient id="linearGradient1458" x1="628.88" x2="20.74" y1="17.043" y2="625.18" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
   <filter id="filter1632" x="-.082374" y="-.082371" width="1.1647" height="1.1647" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="21.966509"/>
   </filter>

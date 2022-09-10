@@ -4,7 +4,7 @@
         color:#2e3440;
       }</style>
  </defs>
- <path class="ColorScheme-Text" d="m3.707 2 1 1h6.293v6.293l1.707 1.707h6.293v6.293l1 1v-0.29297-7-1-7-1h-1-7-1-7-0.29297zm-0.70703 0.70703v0.29297 7 1 7 1h1 7 1 7 0.29297l-1-1h-6.293v-6.293l-1.707-1.707h-6.293v-6.293l-1-1zm9 0.29297h7v7h-7v-7zm-8 8h7v7h-7v-7z" fill="currentColor" fill-opacity=".1"/>
+ <path class="ColorScheme-Text" d="m3.707 2 1 1h6.293v6.293l1.707 1.707h6.293v6.293l1 1v-16.29297h-16.29297zm-0.70703 0.70703v16.29297h16.29297l-1-1h-6.293v-6.293l-1.707-1.707h-6.293v-6.293l-1-1zm9 0.29297h7v7h-7v-7zm-8 8h7v7h-7v-7z" fill="currentColor" fill-opacity=".1"/>
  <path class="ColorScheme-Text" d="m4.707 3 6.293 6.293v-6.293h-6.293zm7.293 0v7h7v-7h-7zm-8 0.70703v6.293h6.293l-6.293-6.293zm0 7.293v7h7v-7h-7zm8.707 0 6.293 6.293v-6.293h-6.293zm-0.70703 0.70703v6.293h6.293l-6.293-6.293z" fill="currentColor" fill-opacity=".5"/>
  <path class="ColorScheme-Text" transform="translate(-326 -534.36)" d="m345.29 553.36-16.293-16.293v-0.70703h0.70703l16.293 16.293v0.70703h-0.70703z" fill="currentColor"/>
 </svg>
