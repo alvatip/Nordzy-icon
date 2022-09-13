@@ -19,11 +19,13 @@
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#eceff4" offset="1"/>
   </linearGradient>
-  <filter id="filter1090" x="-.094129" y="-.094129" width="1.1883" height="1.1883" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="2.2355682"/>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
  </defs>
- <rect x="3.4999" y="4.9018" width="57" height="57" rx="11.339" ry="11.339" fill="#2e3440" filter="url(#filter1090)" opacity=".45226" stroke-width="4.6391"/>
+ <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ </g>
  <rect x="3.4999" y="3.4999" width="57" height="57" rx="11.339" ry="11.339" fill="url(#linearGradient1340)" stroke-width="4.6391"/>
  <g fill="#2e3440">
   <path d="m16.517 2.0032c-7.9976 0-14.514 6.7352-14.514 14.99v32.006c0 8.2546 6.5198 14.997 14.514 14.997h30.97c7.9901 0 14.514-6.739 14.514-14.997v-32.002c0-8.2546-6.5236-14.997-14.514-14.997zm0.96758 1.9654h29.031c6.9696 0 12.586 5.7979 12.586 13.002v29.999c0 7.2039-5.6127 13.002-12.586 13.002h-29.027c-6.9734 0-12.586-5.7979-12.586-13.002v-29.999c0-7.2039 5.6127-13.002 12.586-13.002z" color="#000000" opacity=".01" stroke-width="3.7796" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>

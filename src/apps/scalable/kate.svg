@@ -1,9 +1,6 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.30691668"/>
-  </filter>
-  <radialGradient id="radialGradient896" cx="8.7968" cy="15.605" r="28.5" gradientTransform="matrix(2.6993 -1.589e-8 0 2.6762 -16.148 -33.77)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="radialGradient896" cx="8.7968" cy="15.605" r="28.5" gradientTransform="matrix(2.6993,-1.589e-8,0,2.6762,-16.148,-33.77)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#88c0d0" offset="0"/>
    <stop stop-color="#5e81ac" offset="1"/>
   </radialGradient>
@@ -11,15 +8,18 @@
    <stop stop-color="#eceff4" offset="0"/>
    <stop stop-color="#d8dee9" offset="1"/>
   </linearGradient>
-  <filter id="filter4828" x="-.063749" y="-.05677" width="1.1275" height="1.1135" color-interpolation-filters="sRGB">
+  <filter id="filter4828" x="-.063747" y="-.056771" width="1.1275" height="1.1135" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.80605049"/>
   </filter>
+  <filter id="filter1178-3" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
  </defs>
- <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
-  <rect x="3.4711" y="3.4887" width="57" height="57" rx="11.339" ry="11.339" fill="url(#radialGradient896)" stroke-width="4.6391"/>
-  <rect x=".017008" y=".011338" width="63.966" height="63.977" fill="none" opacity=".15" stroke-width="3.9761"/>
+ <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178-3)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
+ <rect x="3.4711" y="3.4887" width="57" height="57" rx="11.339" ry="11.339" fill="url(#radialGradient896)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6391"/>
+ <rect x=".017008" y=".011338" width="63.966" height="63.977" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.9761"/>
  <g transform="matrix(1.1066 0 0 1.1066 -3.4295 -3.4514)" stroke-width=".31267">
   <g transform="matrix(1.2599 0 0 1.2599 -6.5171 -10.482)" fill="#2e3440" filter="url(#filter4828)" opacity=".35556">
    <path d="m25.511 26.748c-1.2951-4.2996-8.614-3.2562-9.8373-3.3496 1.3731-0.6816 2.614-1.2434 5.4447-3.294 5.4532-3.9503 11.227-3.0888 14.118-1.52-7.9041 0.30047-6.3983 4.6066-5.2341 6.8756-1.4805 0.43005-3.8176 1.0792-4.4911 1.2881z"/>

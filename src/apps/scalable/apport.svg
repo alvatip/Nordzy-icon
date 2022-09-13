@@ -3,19 +3,19 @@
   <filter id="filter987" x="-.2835" y="-.066706" width="1.567" height="1.1334" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.945"/>
   </filter>
-  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.30691668"/>
-  </filter>
   <radialGradient id="radialGradient1379" cx="31.972" cy="31.989" r="28.5" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ebcb8b" offset="0"/>
    <stop stop-color="#d08770" offset="1"/>
   </radialGradient>
+  <filter id="filter1178-3" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
  </defs>
- <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
-  <path d="m14.81 3.4887h34.323c6.2817 0 11.339 5.0571 11.339 11.339v34.323c0 6.2817-5.0571 11.339-11.339 11.339h-34.323c-6.2817 0-11.339-5.0571-11.339-11.339v-34.323c0-6.2817 5.0571-11.339 11.339-11.339z" fill="url(#radialGradient1379)" stroke-width="4.6391"/>
-  <rect x=".017008" y=".011338" width="63.966" height="63.977" fill="none" opacity=".15" stroke-width="3.9761"/>
+ <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178-3)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
+ <path d="m14.81 3.4887h34.323c6.2817 0 11.339 5.0571 11.339 11.339v34.323c0 6.2817-5.0571 11.339-11.339 11.339h-34.323c-6.2817 0-11.339-5.0571-11.339-11.339v-34.323c0-6.2817 5.0571-11.339 11.339-11.339z" fill="url(#radialGradient1379)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6391"/>
+ <rect x=".017008" y=".011338" width="63.966" height="63.977" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.9761"/>
  <g transform="translate(-51.487 4.6807)">
   <g transform="translate(40.458 -3.6919)" filter="url(#filter987)" opacity=".15">
    <rect x="40" y="14" width="6" height="22" rx="3" ry="3" opacity="1"/>
