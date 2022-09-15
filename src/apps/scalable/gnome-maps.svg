@@ -1,23 +1,23 @@
 <svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.30691668"/>
-  </filter>
   <filter id="filter3873" x="-.10777" y="-.10824" width="1.2155" height="1.2165" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.4876645"/>
   </filter>
   <filter id="filter3915" x="-.12825" y="-.093271" width="1.2565" height="1.1865" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="1.5386188"/>
   </filter>
+  <filter id="filter1178-3" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
  </defs>
  <filter x="-.069933" y="-.054406" width="1.1399" height="1.1088" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="1.9764485"/>
  </filter>
- <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(3.747 0 0 3.7796 .24696 -.011404)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
-  <rect x="3.4711" y="3.4886" width="57" height="57" rx="11.339" ry="11.339" fill="#eceff4" stroke-width="4.6391"/>
-  <rect x=".017009" y=".011339" width="63.966" height="63.977" fill="none" opacity=".15" stroke-width="3.9761"/>
+ <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178-3)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
+ <rect x="3.4711" y="3.4886" width="57" height="57" rx="11.339" ry="11.339" fill="#eceff4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6391"/>
+ <rect x=".017009" y=".011339" width="63.966" height="63.977" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.9761"/>
  <path d="m32.07 32.064-4.5449 4.543 23.654 23.689c2.3193-0.42017 4.3909-1.5327 5.9844-3.1289l-25.094-25.104z" fill="#ebcb8b"/>
  <path d="m51.68 3.7832-47.91 47.93c0.48383 2.1068 1.5424 3.9897 3.0156 5.4629l50.387-50.357c-1.4791-1.4845-3.372-2.5514-5.4922-3.0352z" fill="#eceff4"/>
  <path d="m27.525 36.607-20.65 20.65c2.0424 1.999 4.8386 3.2305 7.9355 3.2305h34.322c0.70029 0 1.3823-0.071017 2.0469-0.19141l-23.654-23.689z" fill="#5e81ac"/>

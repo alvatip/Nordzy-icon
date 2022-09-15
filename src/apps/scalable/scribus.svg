@@ -32,7 +32,7 @@
   <linearGradient id="linearGradient8883" x1="7.6054" x2="7.6054" y1=".95016" y2="15.918" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1010"/>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 2.4878e-7)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".2" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
   <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1012)" stroke-width="1.2274"/>
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
   <rect x="1.0768" y="1.0768" width="14.779" height="14.779" rx="2.94" ry="2.94" fill="url(#linearGradient956)" stroke-width="1.2028"/>
