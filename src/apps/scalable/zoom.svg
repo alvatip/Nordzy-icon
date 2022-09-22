@@ -13,7 +13,7 @@
    <stop stop-color="#eceff4" offset="1"/>
   </linearGradient>
  </defs>
- <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>
  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.052"/>
  <path class="fil1" d="m3.5664 6.0753v3.5891c0.0032 0.8116 0.66607 1.4648 1.4745 1.4615h5.2316c0.14871 0 0.26837-0.11966 0.26837-0.26518v-3.5891c-0.003186-0.8116-0.66607-1.4648-1.4744-1.4615h-5.2316c-0.14871 0-0.26837 0.11966-0.26837 0.26518zm7.3074 1.4001 2.1599-1.5778c0.18758-0.15521 0.33297-0.11647 0.33297 0.16489v4.8112c0 0.3201-0.17789 0.28136-0.33297 0.16489l-2.1599-1.5746z" clip-rule="evenodd" fill="url(#linearGradient1560)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width=".012743"/>

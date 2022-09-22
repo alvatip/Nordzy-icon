@@ -19,7 +19,7 @@
   </filter>
  </defs>
  <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
  <rect x="3.5" y="3.5" width="57" height="57" rx="11.399" ry="11.399" fill="url(#a)" stroke-width="1.0178"/>
  <path d="m32 18.618c-8.87 0-16.063 7.192-16.063 16.063s7.192 16.063 16.063 16.063c8.87 0 16.063-7.192 16.063-16.063s-7.192-16.063-16.063-16.063zm0 30.118c-7.749 0-14.055-6.306-14.055-14.055s6.306-14.055 14.055-14.055 14.055 6.306 14.055 14.055-6.306 14.055-14.055 14.055zm4.969-19.733-7.098 7.098-2.84-2.84a2.0078 2.0078 0 1 0-2.839 2.84l4.26 4.259a2.007 2.007 0 0 0 2.839 0l8.517-8.518a2.0082 2.0082 0 1 0-2.84-2.84z" fill="#2e3440" filter="url(#filter2306)" opacity=".49962"/>

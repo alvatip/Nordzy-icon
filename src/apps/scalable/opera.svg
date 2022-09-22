@@ -22,7 +22,7 @@
    <feGaussianBlur stdDeviation="0.32824813"/>
   </filter>
  </defs>
- <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>
  <g transform="translate(36.742 -.70726)" fill="#2e3440" filter="url(#filter2807)" opacity=".39459" stroke-width=".20439" style="mix-blend-mode:normal">
   <path d="m-28.275 3.6805c-3.1998 0-5.7937 2.5939-5.7937 5.7937 0 3.1072 2.4462 5.6431 5.5178 5.787 0.09167 0.0043 0.18348 0.0068 0.27601 0.0068 1.4834 0 2.8362-0.55777 3.8612-1.4744-0.67914 0.4504-1.4731 0.70955-2.3217 0.70955-1.3797 0-2.6154-0.68447-3.4465-1.7638-0.64065-0.75623-1.0556-1.8741-1.0839-3.1286v-0.27287c0.02825-1.2545 0.44318-2.3726 1.0837-3.1286 0.83118-1.0794 2.0668-1.7638 3.4465-1.7638 0.84876 0 1.6429 0.25915 2.3221 0.70984-1.02-0.91247-2.3646-1.4691-3.8397-1.4746-0.0073 0-0.01456-2.863e-4 -0.0219-2.863e-4z"/>

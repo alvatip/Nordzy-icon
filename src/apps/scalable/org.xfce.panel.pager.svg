@@ -31,7 +31,7 @@
   </filter>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
   <path d="m15.978 8.4663v4.5378c0 1.9488-1.7309 3.0003-2.809 3.0001l-4.755-0.0018s-7.41e-5 -1.3362-7.41e-5 -2.9982v-4.5378" fill="url(#linearGradient3633)" stroke="#4c566a" stroke-width=".13229"/>
   <rect x=".0045001" y=".003" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
