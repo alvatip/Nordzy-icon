@@ -17,7 +17,7 @@
   </filter>
  </defs>
  <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
  <rect x="3.5" y="3.5" width="57" height="57" rx="11.541" ry="11.541" fill="url(#a-9)" stroke-width="3.8469"/>
  <path d="m60.5 25.846c-14.521 0.273-27.785 7.716-27.785 7.716s0.554 7.425 4.489 15.617h6.9c-2.832-6.51-3.08-12.464-3.08-12.464s7.678-6.598 19.476-6.788zm-0.371 9.348c-7.6 0.403-12.872 3.784-12.872 3.784s-2e-3 4.971 2.485 10.201h5.899c-1.775-3.831-1.818-7.605-1.818-7.605s3.023-2.1 6.677-2.374v-4.006c-0.123 0-0.249-0.014-0.37 0z" fill="url(#b)"/>

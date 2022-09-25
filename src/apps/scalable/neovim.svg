@@ -24,7 +24,7 @@
   </filter>
  </defs>
  <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
  <rect x="3.4999" y="3.4999" width="57" height="57" rx="11.339" ry="11.339" fill="url(#linearGradient1340)" stroke-width="4.6391"/>
  <g fill="#2e3440">
