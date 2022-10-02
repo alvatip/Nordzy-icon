@@ -1,8 +1,5 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.30691668"/>
-  </filter>
   <linearGradient id="linearGradient1337" x1="18.708" x2="18.708" y1="60.502" y2="3.5738" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#eceff4" offset="1"/>
@@ -32,9 +29,14 @@
    <stop stop-color="#81a1c1" offset="0"/>
    <stop stop-color="#88c0d0" offset="1"/>
   </linearGradient>
+  <filter id="filter1178-3" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30692287"/>
+  </filter>
  </defs>
+ <g transform="translate(.00018832 2.0965e-5)">
+  <rect transform="matrix(3.747 0 0 3.7796 .2749 -.42313)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178-3)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ </g>
  <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
   <path transform="matrix(-1 0 0 1 65.566 -.66065)" d="m33.585 60.489-17.19-2e-6c-6.2817 0-11.339-5.0571-11.339-11.339v-34.323c0-6.2817 5.0571-11.339 11.339-11.339h17.19" fill="#2e3440" filter="url(#filter7222)" opacity=".25"/>
   <path d="m32 31.989-2e-6 -28.5h17.133c6.2817 0 11.339 5.0571 11.339 11.339l2e-6 17.16" fill="url(#linearGradient10155)"/>
   <path d="m60.471 31.894-2e-6 17.162c0 6.2817-5.0571 11.339-11.339 11.339l-17.133 2e-6 -1e-6 -28.5" fill="url(#linearGradient10227)"/>
