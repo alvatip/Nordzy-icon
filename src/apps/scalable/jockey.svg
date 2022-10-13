@@ -19,7 +19,7 @@
    <feGaussianBlur stdDeviation="0.2671959"/>
   </filter>
  </defs>
- <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  <path d="m3.9184 0.92302h9.081c1.662 0 3 1.338 3 3v9.081c0 1.662-1.338 3-3 3h-9.081c-1.662 0-3-1.338-3-3v-9.081c0-1.662 1.338-3 3-3z" fill="url(#linearGradient862)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274"/>
  <g fill="#d8dee9" stroke-opacity=".1">
   <path d="m14.404 12.87v-1.0526h-0.59582v-2.2949h-10.778v2.7011h1.0526v-1.6484h8.6732v1.4004h0.0077v0.8945z" opacity=".25" stroke-width=".092455"/>
