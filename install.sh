@@ -18,6 +18,7 @@ COLOR_VARIANTS=('' '-dark')
 THEME_VARIANTS=('' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-turquoise' '-cyan')
 hex_white='#d8dee9'
 hex_dark='#2e3440'
+update_cache='TRUE'
 
 # Display ascii art
 ascii_art() {
@@ -41,11 +42,12 @@ $0 helps you install Nordzy-icon theme on your computer.
 Usage: $0 [OPTION]...
 
 OPTIONS:
-  -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
-  -n, --name NAME         Specify theme name (Default: $THEME_NAME)
-  -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
   -c, --color VARIANT     Specify color variant(s) [standard|light|dark] (Default: All variants)
+  -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
+  -g                      Update gtk icon cache
+  -n, --name NAME         Specify theme name (Default: $THEME_NAME)
   -p, --panel             Make panel's color opposite to the color variant of the theme (Default: same as color variant)
+  -t, --theme VARIANT     Specify theme color variant(s) [default|purple|pink|red|orange|yellow|green|turquoise|cyan|all] (Default: blue)
   --total                 Install all theme, color and panel variants
   -h, --help              Show help
 EOF
@@ -165,7 +167,9 @@ install() {
     ln -sf status status@2x
   )
 
-  gtk-update-icon-cache ${THEME_DIR}
+  if [[ ${update_cache} == 'TRUE' ]]; then
+    gtk-update-icon-cache ${THEME_DIR}
+  fi
 }
 
 install_theme() {
@@ -285,6 +289,10 @@ while [[ "$#" -gt 0 ]]; do
     --total)
       all_variants_installation
       exit 0
+      ;;
+    -g)
+      update_cache='FALSE'
+      shift
       ;;
     -h|--help)
       usage

@@ -1,6 +1,6 @@
 <svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
  <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#2e3440" filter="url(#filter1178)" opacity=".45" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
  <path d="m49.133 3.4886h-34.323c-6.2622 0-11.339 5.0766-11.339 11.339v34.322c0 6.2623 5.0766 11.339 11.339 11.339h34.323c6.2622 0 11.339-5.0765 11.339-11.339v-34.322c0-6.2623-5.0766-11.339-11.339-11.339z" clip-path="url(#clipPath565)" fill="url(#paint0_linear_5_152)"/>
  <g clip-path="url(#clipPath559)" filter="url(#filter1_f_5_152)" opacity=".25">
