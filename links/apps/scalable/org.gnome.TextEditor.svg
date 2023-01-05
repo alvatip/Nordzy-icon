@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g fill="none" stroke-linejoin="round" stroke-width=".052916">
+  <g stroke="#2e3440">
+   <path d="m0.92618 3.8965h15.081"/>
+   <path d="m0.92618 5.484h15.081"/>
+   <path d="m0.92618 7.0715h15.081"/>
+   <path d="m0.92618 8.6589h15.081"/>
+   <path d="m0.92618 10.246h15.081"/>
+   <path d="m0.92618 11.834h15.081"/>
+   <path d="m0.92618 13.421h15.058"/>
+   <path d="m0.92618 13.421h15.053"/>
+  </g>
+  <path d="m3.8358 0.99512v15.081" stroke="#bf616a"/>
+ </g>
+</svg>
