@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691668"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8dee9" offset="0"/>
+   <stop stop-color="#eceff4" offset="1"/>
+  </linearGradient>
+  <radialGradient id="i" cx="265.28" cy="65.436" r="56" gradientTransform="matrix(.047053 .012607 -.01261 .047058 -26.221 -2.1256)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#3b4252" offset="1"/>
+  </radialGradient>
+  <linearGradient id="h" x1="99.846" x2="431.14" y1="91.301" y2="91.301" gradientTransform="matrix(.035139 0 0 .035139 -.64836 9.7436)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eac57b" offset="0"/>
+   <stop stop-color="#ebcb8b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <g transform="matrix(.53337 0 0 .53337 15.382 3.8395)" stroke-width=".26458">
+  <rect x="-21.947" y="-.31499" width="17.991" height="17.991" rx="8.9957" ry="8.9957" fill="#4c566a"/>
+  <circle cx="-12.952" cy="8.6807" r="7.4082" fill="#2e3440"/>
+  <circle cx="-12.952" cy="8.6807" r="6.3499" fill="#3b4252"/>
+  <circle transform="rotate(90)" cx="8.6807" cy="12.952" r="5.8207" fill="url(#h)"/>
+  <ellipse cx="-12.955" cy="8.7058" rx="2.6487" ry="2.649" fill="#2e3440"/>
+  <circle transform="rotate(-15)" cx="-14.766" cy="5.0561" r="2.1195" fill="url(#i)"/>
+ </g>
+</svg>
