@@ -1,14 +1,13 @@
-<svg id="svg20" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg20" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs10">
   <linearGradient id="linearGradient1062" x1="47.077255" x2="46.15699" y1="203.89368" y2="296.6377" gradientTransform="matrix(.1818146 0 0 .1818146 4.7437134e-7 -37.065933)" gradientUnits="userSpaceOnUse">
    <stop id="stop1056" style="stop-color:#8fbcbb" offset="0"/>
    <stop id="stop1058" style="stop-color:#a3be8c" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient830">
+  <linearGradient id="linearGradient892" x1="196.842" x2="193.14655" y1="31.418701" y2="383.39557" gradientUnits="userSpaceOnUse">
    <stop id="stop826" style="stop-color:#d8dee9" offset="0"/>
    <stop id="stop828" style="stop-color:#eceff4" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient892" x1="196.842" x2="193.14655" y1="31.418701" y2="383.39557" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient830"/>
   <filter id="filter934" x="-.072321429" y="-.077884615" width="1.1446429" height="1.1557692" style="color-interpolation-filters:sRGB">
    <feGaussianBlur id="feGaussianBlur936" stdDeviation="6.75"/>
   </filter>

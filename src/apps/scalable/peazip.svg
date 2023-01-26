@@ -1,4 +1,4 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
@@ -11,11 +11,9 @@
  <g transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
   <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
  </g>
- <g>
-  <path d="m56.756 7.4913a13.204 13.204 0 0 0-9.489-3.9913h-30.533a13.204 13.204 0 0 0-13.234 13.234v30.533a13.204 13.204 0 0 0 3.9919 9.4896" fill="url(#radialGradient1138)"/>
-  <path d="m7.4919 56.757a13.204 13.204 0 0 0 9.2421 3.7444h30.533a13.204 13.204 0 0 0 13.234-13.234v-30.533a13.204 13.204 0 0 0-3.745-9.2427" fill="#bbdea2"/>
-  <path d="m55.398 6.2871c-8.752 1.6426-38.675 10.026-49.055 49.1a13.204 13.204 0 0 0 2.0098 2.0547c9.0178-1.0781 39.723-7.7606 49.055-49.221a13.204 13.204 0 0 0-2.0098-1.9336z" fill="#86a16e"/>
- </g>
+ <path d="m56.756 7.4913a13.204 13.204 0 0 0-9.489-3.9913h-30.533a13.204 13.204 0 0 0-13.234 13.234v30.533a13.204 13.204 0 0 0 3.9919 9.4896" fill="url(#radialGradient1138)"/>
+ <path d="m7.4919 56.757a13.204 13.204 0 0 0 9.2421 3.7444h30.533a13.204 13.204 0 0 0 13.234-13.234v-30.533a13.204 13.204 0 0 0-3.745-9.2427" fill="#bbdea2"/>
+ <path d="m55.398 6.2871c-8.752 1.6426-38.675 10.026-49.055 49.1a13.204 13.204 0 0 0 2.0098 2.0547c9.0178-1.0781 39.723-7.7606 49.055-49.221a13.204 13.204 0 0 0-2.0098-1.9336z" fill="#86a16e"/>
  <g transform="translate(-1.995 2.2024)" fill-rule="evenodd">
   <circle cx="19.697" cy="45.085" r="6.233" fill="#a3be8c"/>
   <circle cx="19.697" cy="45.085" r="3.7121" fill="#ebcb8b" stroke-width=".59555"/>
