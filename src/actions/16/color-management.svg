@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient3484" x1="392.57" x2="408.57" y1="523.8" y2="539.8" gradientTransform="matrix(.26492 .26491 -.26492 .26491 38.526 -239)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#b54a55" offset="0"/>
@@ -123,14 +122,10 @@
   <path d="m7.9979 13.992c-3.321 0-5.9946-2.6735-5.9946-5.9943h5.9946v5.9943" fill="url(#linearGradient3390)" opacity=".7"/>
   <path d="m7.9979 13.992c3.321 0 5.9946-2.6735 5.9946-5.9943h-5.9946v5.9943" fill="url(#linearGradient3386)" opacity=".7"/>
   <path d="m7.9979 2.0039c3.321 0 5.9946 2.6735 5.9946 5.9943h-5.9946v-5.9943" clip-path="url(#C)" fill="url(#linearGradient387)" filter="url(#4)" opacity=".7"/>
- </g>
- <g stroke-width=".37465">
   <path d="m12.239 3.7749c-2.3483-2.3482-6.1293-2.3482-8.4776 0l4.2388 4.2386 4.2388-4.2386" fill="url(#linearGradient3382)" opacity=".35"/>
   <path d="m3.7604 12.238c-2.3483-2.3482-2.3483-6.129 0-8.4771l4.2388 4.2386-4.2388 4.2386" clip-path="url(#A)" fill="url(#linearGradient3484)" opacity=".35"/>
   <path d="m3.7604 12.238c2.3483 2.3482 6.1293 2.3482 8.4776 0l-4.2388-4.2386-4.2388 4.2386" fill="url(#linearGradient3378)" opacity=".35"/>
   <path d="m12.238 3.7611c2.3483 2.3482 2.3483 6.129 0 8.4771l-4.2388-4.2386 4.2388-4.2386" clip-path="url(#C)" fill="url(#linearGradient389)" opacity=".35"/>
- </g>
- <g stroke-width=".37465">
   <path d="m13.789 6.445c-0.85956-3.2077-4.1341-5.0981-7.3419-4.2386l1.5516 5.79 5.7904-1.5515" fill="url(#linearGradient3374)" opacity=".3"/>
   <path d="m2.2081 9.548c-0.85956-3.2077 1.0309-6.482 4.2388-7.3415l1.5516 5.79-5.7904 1.5515" fill="url(#linearGradient3370)" opacity=".3"/>
   <path d="m2.2081 9.548c0.85956 3.2077 4.1341 5.0981 7.3419 4.2386l-1.5516-5.79-5.7904 1.5515" fill="url(#linearGradient3366)" opacity=".3"/>
