@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">.ColorScheme-Text {
@@ -35,7 +36,7 @@
       }</style>
   <linearGradient id="linearGradient4010" x1="3" x2="19" y1="1049.4" y2="1033.4" gradientTransform="matrix(.75 0 0 .75 3.75 -767.02)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#48acf5" stop-opacity=".76119" offset=".41667"/>
+   <stop stop-color="#88c0d0" offset=".41667"/>
    <stop stop-color="#73c0f7" stop-opacity="0" offset=".66666"/>
    <stop stop-color="#cae7fc" stop-opacity="0" offset="1"/>
   </linearGradient>
