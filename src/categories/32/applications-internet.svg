@@ -1,14 +1,13 @@
-<svg id="svg44" width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg44" width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs26">
-  <linearGradient id="linearGradient18380">
-   <stop id="stop18376" style="stop-color:#88c0d0" offset="0"/>
-   <stop id="stop18378" style="stop-color:#5e81ac" offset="1"/>
-  </linearGradient>
   <linearGradient id="linearGradient863" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="translate(-384.57 -515.8)" gradientUnits="userSpaceOnUse">
    <stop id="stop21" stop-color="#e5e5e5" style="stop-color:#d8dee9" offset="0"/>
    <stop id="stop23" stop-color="#fdfdfd" style="stop-color:#eceff4" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient18382" x1="-.69333923" x2="0" y1="-99.911194" y2="100" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient18380"/>
+  <linearGradient id="linearGradient18382" x1="-.69333923" x2="0" y1="-99.911194" y2="100" gradientUnits="userSpaceOnUse">
+   <stop id="stop18376" style="stop-color:#88c0d0" offset="0"/>
+   <stop id="stop18378" style="stop-color:#5e81ac" offset="1"/>
+  </linearGradient>
  </defs>
  <rect id="rect28" x="1" y=".99997" width="30" height="30" rx="8" ry="8" fill="url(#linearGradient863)"/>
  <g id="g18806" transform="matrix(1.1786963,0,0,1.1786963,-2.5939235,-2.4740082)">

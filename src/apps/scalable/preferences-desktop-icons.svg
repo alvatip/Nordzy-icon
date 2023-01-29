@@ -144,17 +144,15 @@
    <stop id="stop1037" stop-color="#4c566a" offset="0"/>
    <stop id="stop1039" stop-color="#2e3440" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1608" x1="5.2049" x2="5.2049" y1="7.1604" y2="3.8654" gradientUnits="userSpaceOnUse">
-   <stop id="stop1042" stop-color="#d8dee9" offset="0"/>
-   <stop id="stop1044" stop-color="#eceff4" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient1614" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient1353" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientTransform="matrix(.25597 0 0 .25597 1.5426119 4.7223976)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1340"/>
+  <linearGradient id="linearGradient1355" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientTransform="matrix(.37312747 0 0 .37312747 .54989274 8.4940613)" gradientUnits="userSpaceOnUse">
    <stop id="stop1047" stop-color="#4c566a" offset="0"/>
    <stop id="stop1049" stop-color="#2e3440" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1353" x1="8.355" x2="8.3996" y1="16.007" y2=".79375" gradientTransform="matrix(.25597 0 0 .25597 1.5426119 4.7223976)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1340"/>
-  <linearGradient id="linearGradient1355" x1="8.5029" x2="8.5394" y1="5.2206" y2="11.916" gradientTransform="matrix(.37312747 0 0 .37312747 .54989274 8.4940613)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1614"/>
-  <linearGradient id="linearGradient1361" x1="5.2049" x2="5.2049" y1="7.1604" y2="3.8654" gradientTransform="matrix(.3464042 0 0 .3464042 6.063813 4.3983864)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1608"/>
+  <linearGradient id="linearGradient1361" x1="5.2049" x2="5.2049" y1="7.1604" y2="3.8654" gradientTransform="matrix(.3464042 0 0 .3464042 6.063813 4.3983864)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1042" stop-color="#d8dee9" offset="0"/>
+   <stop id="stop1044" stop-color="#eceff4" offset="1"/>
+  </linearGradient>
  </defs>
  <g id="g1060" stroke-linecap="round" stroke-linejoin="round">
   <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
