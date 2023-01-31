@@ -1,14 +1,58 @@
-<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style type="text/css">.ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg12"
+   sodipodi:docname="media-repeat-none.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="36.291667"
+     inkscape:cx="10.732491"
+     inkscape:cy="12.027555"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">.ColorScheme-Text {
               color:#2e3440;
             }
             .ColorScheme-NegativeText {
               color:#bf616a;
             }</style>
- </defs>
- <g transform="translate(1,1)" fill="currentColor">
-  <path class="ColorScheme-Text" d="m16 5v2h-10c-1.662 0-3 1.338-3 3v1h1v-1c0-1.108 0.892-2 2-2h10v2l3-2.5zm-3 9h-7v-2l-3 2.5 3 2.5v-2h7z"/>
-  <path class="ColorScheme-NegativeText" d="m14.834 12-0.83398 0.83398 1.666 1.666-1.666 1.666 0.83398 0.83398 1.666-1.666 1.666 1.666 0.83398-0.83398-1.666-1.666 1.666-1.666-0.83398-0.83398-1.666 1.666z"/>
- </g>
+  </defs>
+  <g
+     transform="translate(1,1)"
+     fill="currentColor"
+     id="g10"
+     style="fill:#2e3440">
+    <path
+       class="ColorScheme-Text"
+       d="m16 5v2h-10c-1.662 0-3 1.338-3 3v1h1v-1c0-1.108 0.892-2 2-2h10v2l3-2.5zm-3 9h-7v-2l-3 2.5 3 2.5v-2h7z"
+       id="path6"
+       style="fill:#2e3440" />
+    <path
+       class="ColorScheme-NegativeText"
+       d="m14.834 12-0.83398 0.83398 1.666 1.666-1.666 1.666 0.83398 0.83398 1.666-1.666 1.666 1.666 0.83398-0.83398-1.666-1.666 1.666-1.666-0.83398-0.83398-1.666 1.666z"
+       id="path8"
+       style="fill:#2e3440" />
+  </g>
 </svg>

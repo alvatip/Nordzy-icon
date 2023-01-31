@@ -1,12 +1,9 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(1,1)">
-  <g transform="translate(-326 -534.36)">
-   <path d="m331 537.36h3v16h-3z" fill="#f27935"/>
-   <path d="m337 537.36h3v16h-3z" fill="#04896a"/>
-   <path d="m343 537.36h3v16h-3z" fill="#3a539b"/>
-   <path d="m328 537.36h3v16h-3z" fill="#fdd285"/>
-   <path d="m340 537.36h3v16h-3z" fill="#5e81ac"/>
-   <path d="m334 537.36h3v16h-3z" fill="#7fcc74"/>
-  </g>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6 4h3v16h-3z" fill="#d08770"/>
+ <path d="m12 4h3v16h-3z" fill="#88ac6c"/>
+ <path d="m18 4h3v16h-3z" fill="#5e81ac"/>
+ <path d="m3 4h3v16h-3z" fill="#ebcb8b"/>
+ <path d="m15 4h3v16h-3z" fill="#81a1c1"/>
+ <path d="m9 4h3v16h-3z" fill="#a3be8c"/>
 </svg>
