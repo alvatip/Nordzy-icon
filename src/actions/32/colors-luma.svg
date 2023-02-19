@@ -1,4 +1,4 @@
-<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">.ColorScheme-Text {
         color:#2e3440;
@@ -10,8 +10,8 @@
  <defs>
   <linearGradient id="a" x1="6" x2="18" y1="19.998" y2="7.998" gradientUnits="userSpaceOnUse">
    <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#48acf5" stop-opacity=".761" offset=".417"/>
-   <stop stop-color="#73c0f7" stop-opacity="0" offset=".667"/>
+   <stop stop-color="#81a1c1" offset=".417"/>
+   <stop stop-color="#88c0d0" stop-opacity="0" offset=".667"/>
    <stop stop-color="#cae7fc" stop-opacity="0" offset="1"/>
   </linearGradient>
   <path id="b" d="m11 4c-.973 3.405-3.356 6.344-4.406 8.688-.367.697-.594 1.467-.594 2.313 0 2.77 2.23 5 5 5 2.77 0 5-2.23 5-5 0-.845-.226-1.616-.594-2.313-1.05-2.344-3.433-5.283-4.406-8.688"/>
