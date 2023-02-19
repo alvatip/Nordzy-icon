@@ -4,7 +4,7 @@
         color:#2e3440;
       }</style>
  </defs>
- <g transform="translate(1,1)" fill="currentColor">
+ <g transform="translate(1,1)" fill="#2e3440">
   <path class="ColorScheme-Text" d="m11 3-8 4v8l8 4 8-4v-8l-8-4zm0 1.1172 7 3.5v6.7656l-7 3.5-7-3.5v-6.7656l7-3.5z"/>
   <path class="ColorScheme-Text" d="m7.1121 16.275-3.7291-1.8628v-7.2205l7.6103-3.785 7.6103 3.785v7.2205l-3.7539 1.8683c-2.0646 1.0276-3.8112 1.8658-3.8813 1.8628-0.07006-0.0031-1.8055-0.84376-3.8564-1.8683z" fill-opacity=".5"/>
  </g>
