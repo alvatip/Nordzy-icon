@@ -10,12 +10,6 @@
    <stop stop-color="#4c566a" stop-opacity=".61176" offset=".90186"/>
    <stop stop-color="#d8dee9" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient1380">
-   <stop stop-color="#434c5e" offset="0"/>
-   <stop stop-color="#4c566a" stop-opacity=".90196" offset=".27807"/>
-   <stop stop-color="#434c5e" stop-opacity=".61961" offset=".96834"/>
-   <stop stop-color="#4c566a" stop-opacity="0" offset="1"/>
-  </linearGradient>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
@@ -23,7 +17,12 @@
    <stop stop-color="#d8dee9" offset="0"/>
    <stop stop-color="#eceff4" offset="1"/>
   </linearGradient>
-  <radialGradient id="radialGradient1382" cx="40" cy="232" r="23.81" gradientTransform="translate(0 -1.9488e-5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1380"/>
+  <radialGradient id="radialGradient1382" cx="40" cy="232" r="23.81" gradientTransform="translate(0 -1.9488e-5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#434c5e" offset="0"/>
+   <stop stop-color="#4c566a" stop-opacity=".90196" offset=".27807"/>
+   <stop stop-color="#434c5e" stop-opacity=".61961" offset=".96834"/>
+   <stop stop-color="#4c566a" stop-opacity="0" offset="1"/>
+  </radialGradient>
   <radialGradient id="radialGradient1394" cx="40" cy="232" r="6" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1392"/>
   <linearGradient id="linearGradient1412" x1="64.723" x2="65.079" y1="191.81" y2="292.52" gradientTransform="matrix(.36943 0 0 .36943 8.5379 -57.43)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1410"/>
   <radialGradient id="radialGradient1422" cx="64" cy="232" r="12" gradientTransform="matrix(1 0 0 .5 0 116)" gradientUnits="userSpaceOnUse">
