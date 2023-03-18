@@ -1,0 +1,30 @@
+<svg id="svg22" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs10">
+  <linearGradient id="a" x1="30.79" x2="30.79" y1="-6.397" y2="211.48" gradientTransform="matrix(.24428 0 0 .24428 7.5723 7.5398)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-color="#a3be8c" offset="0"/>
+   <stop id="stop4" stop-color="#8fbcbb" offset="1"/>
+  </linearGradient>
+  <filter id="filter1178" x="-.047999482" y="-.047999482" width="1.095999" height="1.095999" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur7" stdDeviation="0.30691668"/>
+  </filter>
+  <filter id="filter1418" x="-.072654509" y="-.077994457" width="1.1453348" height="1.1560002" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur id="feGaussianBlur1420" stdDeviation="0.9470009"/>
+  </filter>
+ </defs>
+ <g id="g14" transform="matrix(3.7796 0 0 3.7796 -.00096588 -.43033)">
+  <rect id="rect12" transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+ </g>
+ <path id="path16" d="m16.734 3.5a13.204 13.204 0 0 0-13.234 13.234v30.533a13.204 13.204 0 0 0 13.234 13.234h30.533a13.204 13.204 0 0 0 13.234-13.234v-30.533a13.204 13.204 0 0 0-13.234-13.234z" fill="url(#a)" stroke-width="1.0178" style="fill:#a3be8c"/>
+ <g id="g1383" transform="translate(.3985056 .3985056)" style="filter:url(#filter1418);opacity:.38866397;stroke-width:1.1;stroke:#2e3440">
+  <path id="path1033" d="m22.247467 26.444895-0.823869 1.281575 1.324294 2.227499c-11.772104 12.082805-1.278095 19.485864 3.90025 19.382297h12.406266c12.107832-0.585863 13.32838-16.550626 13.181915-17.087667-8.202081 4.10104-10.862874-3.222246-19.406708-1.464657 7.298875-3.026958 7.674486-15.560646-2.807259-17.478242-7.37205-1.348689-13.340586 6.279717-7.774889 13.139195z" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#2e3440"/>
+  <ellipse id="path1183" cx="24.932673" cy="21.101597" rx="1.2571634" ry="1.2537628" style="fill:#eceff4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#2e3440"/>
+  <path id="path1300" d="m39.884381 44.844651-2.196986-1.733178 3.466355-2.245808-2.611972-1.757588 4.369561-2.196986c-5.077478-0.610274-17.802433-4.501943-18.405858 2.758438-0.741913 8.926656 12.498408 5.492464 15.3789 5.175122z" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#2e3440"/>
+  <path id="path1367" d="m20.024229 20.648977c-2.854242 2.250702-6.586538 0.906888-6.586538 0.906888s-0.963449 6.270668 8.051932 6.157505" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#2e3440"/>
+ </g>
+ <g id="g1416" style="stroke-width:1.1">
+  <path id="path1408" d="m22.247467 26.444895-0.823869 1.281575 1.324294 2.227499c-11.772104 12.082805-1.278095 19.485864 3.90025 19.382297h12.406266c12.107832-0.585863 13.32838-16.550626 13.181915-17.087667-8.202081 4.10104-10.862874-3.222246-19.406708-1.464657 7.298875-3.026958 7.674486-15.560646-2.807259-17.478242-7.37205-1.348689-13.340586 6.279717-7.774889 13.139195z" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#eceff4"/>
+  <ellipse id="ellipse1410" cx="24.932673" cy="21.101597" rx="1.2571634" ry="1.2537628" style="fill:#eceff4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#eceff4"/>
+  <path id="path1412" d="m39.884381 44.844651-2.196986-1.733178 3.466355-2.245808-2.611972-1.757588 4.369561-2.196986c-5.077478-0.610274-17.802433-4.501943-18.405858 2.758438-0.741913 8.926656 12.498408 5.492464 15.3789 5.175122z" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#eceff4"/>
+  <path id="path1414" d="m20.024229 20.648977c-2.854242 2.250702-6.586538 0.906888-6.586538 0.906888s-0.963449 6.270668 8.051932 6.157505" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1;stroke:#eceff4"/>
+ </g>
+</svg>
