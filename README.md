@@ -93,11 +93,12 @@ and to remove global installation:
 sudo rm -r /usr/share/icons/Nordzy*
 ```
 
-## Other ressources
+## Using AppImageLauncher?
+If you are using [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) to manage your appimage application, running the python script AppImageIcon will update all the desktop file in $HOME/.local/share/applications/ that are created by AppImageLauncher to use Nordzy icons
 
-[Nordzy-cursors](https://github.com/alvatip/Nordzy-cursors) cursors theme. </br> 
-[Nordic](https://github.com/EliverLara/Nordic) theme.
-[Firefox theme](https://addons.mozilla.org/en-US/firefox/addon/nordzy-dark/)
+```
+python -m AppImageIcon
+```
 
 ## Icon request
 
