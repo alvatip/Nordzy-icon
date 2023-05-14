@@ -3,3 +3,4 @@ archives
 pling.bbcode
 .DS_Store
 __pycache__/AppImageIcon.cpython-310.pyc
+.idea
