@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient2801" x1="16.274" x2="28.825" y1="14.96" y2="31.729" gradientTransform="matrix(.1617 0 0 .1617 4.7772 4.4756)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3065" x1="28.825" x2="16.274" y1="31.729" y2="14.96" gradientTransform="matrix(.1617 0 0 .1617 4.7772 4.4756)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient437" x1="8.0291" x2="8.0291" y1=".98399" y2="43.055" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bf616a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1119" x1="5.1791" x2="12.257" y1="3.7961" y2="12.998" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+  <filter id="filter1123" x="-.12288" y="-.10665" width="1.2458" height="1.2133" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1880289"/>
+  </filter>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient437)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+ </g>
+ <path d="m10.928 8.6321-3.6724 2.1014 0.016378-4.2312z" fill="#2e3440" filter="url(#filter1123)" opacity=".51182" stroke="url(#linearGradient3065)" stroke-width=".24254"/>
+ <circle cx="8.4558" cy="8.5567" r="5.3344" fill="none" stroke="url(#linearGradient1119)" stroke-width=".73341"/>
+ <path d="m10.832 8.4808-3.6724 2.1014 0.016378-4.2312z" fill="url(#linearGradient2801)" stroke="url(#linearGradient3065)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".24254"/>
+</svg>
