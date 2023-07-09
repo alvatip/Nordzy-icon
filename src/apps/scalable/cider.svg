@@ -12,21 +12,26 @@
    <stop stop-color="#2e3440" offset="0"/>
    <stop stop-color="#4c566a" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient437" x1="8.0291" x2="8.0291" y1=".98399" y2="43.055" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#bf616a" offset="0"/>
-   <stop stop-color="#2e3440" offset="1"/>
-  </linearGradient>
   <linearGradient id="linearGradient1119" x1="5.1791" x2="12.257" y1="3.7961" y2="12.998" gradientUnits="userSpaceOnUse">
    <stop stop-color="#4c566a" offset="0"/>
    <stop stop-color="#2e3440" offset="1"/>
   </linearGradient>
-  <filter id="filter1123" x="-.12288" y="-.10665" width="1.2458" height="1.2133" color-interpolation-filters="sRGB">
+  <filter id="filter1123" x="-.15612" y="-.15641" width="1.345" height="1.3126" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.1880289"/>
   </filter>
+  <radialGradient id="radialGradient1033" cx="8.2496" cy="16.136" r="7.5405" gradientTransform="matrix(2.334 -.0061426 .0036682 1.3938 -11.225 -6.3562)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b48ead" offset="0"/>
+   <stop stop-color="#bf616a" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3215" x1="9.6185" x2="9.8126" y1="1.0844" y2="15.796" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b54a55" offset="0"/>
+   <stop stop-color="#bf616a" offset="1"/>
+  </linearGradient>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
   <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
-  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient437)" stroke-width="1.2274"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient3215)" stroke-width="1.2274"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#radialGradient1033)" opacity=".83802" stroke-width="1.2274"/>
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>
  <path d="m10.928 8.6321-3.6724 2.1014 0.016378-4.2312z" fill="#2e3440" filter="url(#filter1123)" opacity=".51182" stroke="url(#linearGradient3065)" stroke-width=".24254"/>
