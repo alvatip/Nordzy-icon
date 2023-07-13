@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="dialog-objects-light.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="style1150">
+.ColorScheme-Text { 
+    color:#2e3440;
+}
+</style>
+  <metadata
+     id="metadata4351">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4349" />
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="false"
+     inkscape:zoom="41.125"
+     inkscape:cx="6.5653495"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="dialog-layers"
+     inkscape:document-rotation="0"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid" />
+  </sodipodi:namedview>
+  <g
+     transform="translate(-105,-767.3622)"
+     id="dialog-layers"
+     inkscape:label="#layers">
+    <path
+       id="path40007"
+       d="m 110,774.3622 -3,3 h 9 l 3,-3 z"
+       style="fill:currentColor"
+       class="ColorScheme-Text" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:currentColor"
+       d="m 112,779.3622 -3,3 h 9 l 3,-3 z"
+       id="path40009"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path40005"
+       d="m 108,769.3622 -3,3 h 9 l 3,-3 z"
+       style="fill:currentColor"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Text" />
+  </g>
+</svg>
