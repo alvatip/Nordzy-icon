@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg962"
-   sodipodi:docname="youtube.svg"
+   sodipodi:docname="ytmdesktop.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,19 +24,14 @@
      inkscape:object-paths="false"
      inkscape:snap-page="true"
      inkscape:zoom="9.0598056"
-     inkscape:cx="22.627417"
-     inkscape:cy="33.885937"
+     inkscape:cx="32.009517"
+     inkscape:cy="32.009517"
      inkscape:window-width="1920"
      inkscape:window-height="1050"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg962"
-     inkscape:snap-object-midpoints="false"
-     inkscape:object-nodes="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true" />
+     inkscape:current-layer="g950" />
   <defs
      id="defs942">
     <linearGradient
@@ -96,28 +91,18 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3154"
-       id="linearGradient10688"
-       x1="157.46671"
-       y1="109.61107"
-       x2="1.2357678"
-       y2="0.42658657"
+       id="linearGradient3156"
+       x1="88.000023"
+       y1="175.99994"
+       x2="88.000023"
+       y2="2.9771741e-12"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3154"
-       id="linearGradient11500"
-       gradientUnits="userSpaceOnUse"
-       x1="157.46671"
-       y1="109.61107"
-       x2="1.2357678"
-       y2="0.42658657" />
   </defs>
   <g
      transform="matrix(3.7796,0,0,3.7796,-0.028914,-0.011405)"
      stroke-linecap="round"
      stroke-linejoin="round"
-     id="g950"
-     style="display:inline">
+     id="g950">
     <rect
        transform="matrix(0.99138,0,0,1,0.072989,0.0019055)"
        x="0.79374999"
@@ -157,19 +142,28 @@
      stroke-width="4.9353"
      id="g960">
     <g
-       id="g10680"
-       transform="matrix(0.28677956,0,0,0.28677956,9.2436873,16.221725)"
-       style="opacity:1;fill:url(#linearGradient10688);fill-opacity:1">
-      <path
-         d="M 154,17.5 C 152.18,10.77 146.93,5.5 140.2,3.7 131.16,0.21 43.6,-1.5 18.2,3.8 11.47,5.62 6.2,10.87 4.4,17.6 0.32,35.5 0.01,74.2 4.5,92.5 c 1.82,6.73 7.07,12 13.8,13.8 17.9,4.12 103,4.7 122,0 6.73,-1.82 12,-7.07 13.8,-13.8 4.35,-19.5 4.66,-55.8 -0.1,-75 z"
-         fill="#ff0000"
-         id="path10668"
-         style="fill:url(#linearGradient11500);fill-opacity:1" />
-      <path
-         d="M 105,55 64.2,31.6 v 46.8 z"
-         fill="#ffffff"
-         id="path10670"
-         style="fill:#eceff4;fill-opacity:1" />
-    </g>
+       id="XMLID_167_"
+       transform="matrix(0.24570765,0,0,0.24570765,10.377727,10.377727)">
+	<circle
+   id="XMLID_791_"
+   fill="#ff0000"
+   cx="88"
+   cy="88"
+   r="88"
+   style="fill:url(#linearGradient3156);fill-opacity:1" />
+
+	<path
+   id="XMLID_42_"
+   fill="#ffffff"
+   d="m 88,46 c 23.1,0 42,18.8 42,42 0,23.2 -18.8,42 -42,42 C 64.8,130 46,111.2 46,88 46,64.8 64.9,46 88,46 m 0,-4 c -25.4,0 -46,20.6 -46,46 0,25.4 20.6,46 46,46 25.4,0 46,-20.6 46,-46 0,-25.4 -20.6,-46 -46,-46 z"
+   style="fill:#eceff4;fill-opacity:1" />
+
+	<polygon
+   id="XMLID_274_"
+   fill="#ffffff"
+   points="72,111 111,87 72,65 "
+   style="fill:#eceff4;fill-opacity:1" />
+
+</g>
   </g>
 </svg>
