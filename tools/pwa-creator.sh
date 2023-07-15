@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Created by Davis Forsythe
+
 # Parse command-line arguments
 ARGS=$(getopt -o hf:i:o: --long help,file:,id:,output: -n "$0" -- "$@")
 eval set -- "$ARGS"
