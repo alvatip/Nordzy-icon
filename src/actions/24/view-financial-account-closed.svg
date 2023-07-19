@@ -5,7 +5,7 @@
         .ColorScheme-NegativeText {
             color:#bf616a;
         }</style>
- <g transform="translate(1,1)" fill="#2e3440">
+ <g transform="translate(1,1)" fill="currentColor">
   <path class="ColorScheme-Text" d="m5.1211 3 1 1h11.879v11.879l1 1v-13.879h-13.879zm2 2 1 1h4.8789v-1h-5.8789zm2 2 1 1h0.87891v-1h-1.8789zm-4.1211 0.12109v3.8789h-2v1h6.8789l-1-1h-2.8789v-2.8789l-1-1zm8.1211 3.8789 1 1h2.8789v-1h-3.8789zm-10.121 2v6h13.879l-2-2h-0.87891v-0.87891l-3.1211-3.1211h-7.8789zm12.121 0 1.8789 1.8789v-1.8789h-1.8789zm-11.121 4h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1z"/>
   <path class="ColorScheme-NegativeText" d="m3.707 3-0.70703 0.70703 15.293 15.293 0.70703-0.70703-15.293-15.293zm10.293 2v1h3v-1h-3z"/>
  </g>

@@ -1,6 +1,6 @@
 <svg width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
  <style type="text/css">.ColorScheme-Text{color:#2e3440;}.ColorScheme-NegativeText{color:#bf616a;}</style>
- <g transform="translate(0 -288.53)" fill="#2e3440">
+ <g transform="translate(0 -288.53)" fill="currentColor">
   <path class="ColorScheme-Text" transform="matrix(.26458 0 0 .26458 0 288.53)" d="m25.459 11c-1.571 0.002457-3.0496 0.74316-3.9922 2h-3.4668v-1h-3v0.98438l1.0156 1.0156h4.9844v4h-0.98438l1 1h0.45508c0.9418 1.2557 2.4186 1.9963 3.9883 2h4.541v-10h-1zm0 1h3.541v8h-3.541c-1.4272-0.001852-2.7454-0.76398-3.459-2v-4c0.71362-1.236 2.0318-1.9981 3.459-2zm-23.459 1v6h14.984l-1-1h-12.984v-4h8.9863l-1-1z"/>
   <path class="ColorScheme-NegativeText" d="m0.52917 289.25 0.18709-0.18709 7.2213 7.2212-0.18709 0.18709z"/>
  </g>
