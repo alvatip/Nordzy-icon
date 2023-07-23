@@ -1,5 +1,5 @@
 <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(1 0 0 -1 99.997 -413)" fill="#2e3440">
+ <g transform="matrix(1 0 0 -1 99.997 -413)" fill="currentColor">
   <rect x="-92.997" y="-418" width="2" height="2" rx="1" ry="1" overflow="visible"/>
   <rect x="-92.997" y="-422" width="2" height="2" rx="1" ry="1" overflow="visible"/>
   <rect x="-92.997" y="-426" width="2" height="2" rx="1" ry="1" overflow="visible"/>

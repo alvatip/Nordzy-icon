@@ -1,5 +1,5 @@
 <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-493 -117)">
-  <path d="m504 131-6-6v-6h6v6z" fill="#2e3440" overflow="visible"/>
+  <path d="m504 131-6-6v-6h6v6z" fill="currentColor" overflow="visible"/>
  </g>
 </svg>

@@ -1,5 +1,5 @@
 <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-533 -57)" color="#2e3440" fill="#2e3440">
+ <g transform="translate(-533 -57)" color="#2e3440" fill="currentColor">
   <rect x="534" y="58" width="14" height="1" overflow="visible"/>
   <rect x="534" y="61" width="14" height="1" overflow="visible"/>
   <path d="m534 67h10v1h-10zm12 1v2h-10v1h10v2l3-2.5z" overflow="visible"/>

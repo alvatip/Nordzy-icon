@@ -1,6 +1,6 @@
 <svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <style type="text/css">.ColorScheme-Text { color: #2e3440; }.ColorScheme-PositiveText { color: #a3be8c; }</style>
- <g transform="translate(1,1)" fill="#2e3440">
+ <g transform="translate(1,1)" fill="currentColor">
   <path class="ColorScheme-PositiveText" d="m3 15v4h1v-1h1v-1h1v-1h10v1h1v1h1v1h1v-4h-16zm8 2a3 3 0 0 0-2.8008 2h1.0742a2 2 0 0 1 1.6758-1 2 2 0 0 1 0.001953 0 2 2 0 0 1 0.048828 0 2 2 0 0 1 1.7227 1h1.1016a3 3 0 0 0-2.8242-2z"/>
   <path class="ColorScheme-Text" d="m3 3v5h1v-2h1v-1h1v-1h10v1h1v1h1v2h1v-5h-16zm8 2a3 3 0 0 0-3 3h1a2 2 0 0 1 1.9492-2 2 2 0 0 1 0.001953 0 2 2 0 0 1 0.048828 0 2 2 0 0 1 2 2h1a3 3 0 0 0-3-3zm-8 4v5h1v-2h1v-1h1v-1h10v1h1v1h1v2h1v-5h-16zm8 2a3 3 0 0 0-3 3h1a2 2 0 0 1 1.9492-2 2 2 0 0 1 0.001953 0 2 2 0 0 1 0.048828 0 2 2 0 0 1 2 2h1a3 3 0 0 0-3-3z"/>
  </g>

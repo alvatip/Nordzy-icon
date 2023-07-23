@@ -24,6 +24,6 @@
  <path d="m7 20h4v4h-4z" fill="url(#e)"/>
  <path d="m21 20h4v4h-4z" fill="url(#f)"/>
  <path d="m13 20h6v10h-6z" fill="url(#d)"/>
- <path d="m20 5v2l4 4v-6z" fill="#2e3440"/>
+ <path d="m20 5v2l4 4v-6z" fill="currentColor"/>
  <path d="m16 1.5859-14.008 14.008 1.4141 1.4141 12.594-12.594 12.594 12.594 1.4141-1.4141z" fill="url(#g)"/>
 </svg>

@@ -1,12 +1,8 @@
 <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
-      }</style>
-  <radialGradient id="radialGradient4475" cx="555.57" cy="753.93" r="8" gradientTransform="translate(0 -.00017975)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b3b3b3" offset="0"/>
-   <stop stop-color="#2e3440" offset="1"/>
-  </radialGradient>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
  <g transform="translate(1,1)">
   <g transform="translate(-544.57 -742.93)">

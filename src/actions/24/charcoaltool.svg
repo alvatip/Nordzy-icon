@@ -1,12 +1,8 @@
 <svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
-      }</style>
-  <linearGradient id="linearGradient4159" x1="8.6864" x2="12.661" y1="9.2288" y2="13.144" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fff" stop-opacity=".45882" offset="0"/>
-   <stop stop-color="#fff" stop-opacity=".052941" offset="1"/>
-  </linearGradient>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
  <g transform="translate(1,1)">
   <path class="ColorScheme-Text" d="m15.406 3-5.0938 5.0938-3.3125 3.2812v0.03125l-0.6875 0.6875-3.3125 3.2812v1.625l2 2h1.625l3.9688-4 8.4062-8.4062v-1.5938l-2-2h-1.5938z" fill="currentColor"/>

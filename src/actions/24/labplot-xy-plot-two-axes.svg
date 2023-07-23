@@ -1,8 +1,8 @@
 <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440
-      }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
  <g transform="translate(1,1)">
   <path class="ColorScheme-Text" d="m4 3v14h-1v1h1v1h1v-1h14.0002v-1h-0.84375l-0.1875-0.1875-0.84375-0.8125-1.2812-1.3125-0.71875-0.6875-2.125 2.0938-1.3125-1.2812-2.8125-2.8125h-3.875v-2h3.875l2-2 0.8125-0.84375 1.3125-1.2812 2.125 2.125 3.875-3.875v-0.21875h-0.21875l-0.5-0.46875-3.1562 3.1562-2.125-2.125-2 2-0.84375 0.8125-1.6875 1.7188h-3.4688v-6h-1zm1 10h3.4688l4 4h-7.4688v-4zm10.125 2.4062 1.3125 1.2812 0.29492 0.3125h-3.2012l1.5938-1.5938z" fill="currentColor"/>

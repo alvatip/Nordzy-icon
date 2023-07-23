@@ -1,10 +1,10 @@
 <svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
-      }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
- <g transform="translate(1,1)" fill="#2e3440">
+ <g transform="translate(1,1)" fill="currentColor">
   <path class="ColorScheme-Text" d="m10.5 3-3.5 7h3v9h1v-9h3l-3.5-7zm0 2.2363 1.8828 3.7637h-3.7656l1.8828-3.7637z"/>
   <path class="ColorScheme-Text" d="m10.5 5.2363-1.8828 3.7637h3.7656l-1.8828-3.7637z" fill-opacity=".5"/>
  </g>

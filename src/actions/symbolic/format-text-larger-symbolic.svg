@@ -1,3 +1,3 @@
 <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
- <path d="M6.875 2L2.25 14H1.094v1h3.593v-1H3.344l1.093-3h5.469l1.063 3H9.687v1h4.594v-1H13L8.344 2zm.281 2.094L9.562 10H4.781z" color="#2e3440" fill="#2e3440" font-family="DejaVu Serif" font-size="17.833" font-weight="400" letter-spacing="0" overflow="visible" word-spacing="0"/>
+ <path d="M6.875 2L2.25 14H1.094v1h3.593v-1H3.344l1.093-3h5.469l1.063 3H9.687v1h4.594v-1H13L8.344 2zm.281 2.094L9.562 10H4.781z" color="#2e3440" fill="currentColor" font-family="DejaVu Serif" font-size="17.833" font-weight="400" letter-spacing="0" overflow="visible" word-spacing="0"/>
 </svg>

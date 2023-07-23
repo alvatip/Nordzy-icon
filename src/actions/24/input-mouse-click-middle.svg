@@ -5,7 +5,7 @@
         .ColorScheme-Highlight {
             color:#88c0d0;
         }</style>
- <g transform="translate(1,1)" fill="#2e3440">
+ <g transform="translate(1,1)" fill="currentColor">
   <rect class="ColorScheme-Highlight" x="9" y="4" width="4" height="7" fill-rule="evenodd"/>
   <path class="ColorScheme-Text" d="M10 3a5 5 0 0 0-5 5v6a5 5 0 0 0 5 5h2a5 5 0 0 0 5-5V8a5 5 0 0 0-5-5zm0 1h2a4 4 0 0 1 4 4v6a4 4 0 0 1-4 4h-2a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4z"/>
  </g>

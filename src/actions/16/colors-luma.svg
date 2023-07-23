@@ -1,14 +1,8 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
-      }</style>
-  <linearGradient id="linearGradient5517" x1="3" x2="19" y1="1049.4" y2="1033.4" gradientTransform="matrix(.6 0 0 .5625 2.2 -576.27)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#48acf5" stop-opacity=".76119" offset=".41667"/>
-   <stop stop-color="#73c0f7" stop-opacity="0" offset=".66666"/>
-   <stop stop-color="#cae7fc" stop-opacity="0" offset="1"/>
-  </linearGradient>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
  <path class="ColorScheme-Text" d="m8 2c-0.24 0.786-0.236 1.283-0.625 2h0.625zm0 2v3h2c-0.564-0.91-0.786-1.916-1.375-3zm0 3h-2c-0.134 0.216-0.914 0.795-1.031 1l-0.969 2h4zm0 3v3h2c0.305-0.214 0.959-0.214 1.188-0.5l0.813-2.5zm0 3h-1.531v0.438h1.531z" fill="currentColor"/>
  <path d="m8 2c-0.77833 2.5538-2.3868 4.6917-3.5029 6.5377-0.29392 0.5226-0.32032 1.0782-0.32032 1.7123 0 2.0775 1.5851 3.5401 3.8011 3.5401s3.8785-1.4626 3.8785-3.5401c0-0.63405-0.29157-1.0571-0.58549-1.5797-0.90617-1.7355-2.4926-4.1166-3.2709-6.6703z" fill="url(#linearGradient5517)"/>

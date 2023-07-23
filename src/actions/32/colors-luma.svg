@@ -1,20 +1,8 @@
 <svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
-      }
-      .ColorScheme-Highlight {
-        color:#88c0d0;
-      }</style>
- </defs>
- <defs>
-  <linearGradient id="a" x1="6" x2="18" y1="19.998" y2="7.998" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5e81ac" offset="0"/>
-   <stop stop-color="#81a1c1" offset=".417"/>
-   <stop stop-color="#88c0d0" stop-opacity="0" offset=".667"/>
-   <stop stop-color="#cae7fc" stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <path id="b" d="m11 4c-.973 3.405-3.356 6.344-4.406 8.688-.367.697-.594 1.467-.594 2.313 0 2.77 2.23 5 5 5 2.77 0 5-2.23 5-5 0-.845-.226-1.616-.594-2.313-1.05-2.344-3.433-5.283-4.406-8.688"/>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
  <use transform="matrix(1.5 0 0 1.5-.5-2)" fill="#b3b3b3" xlink:href="#b"/>
  <path d="m16 4c-0.4485 1.572-1.098 3.066-1.8285 4.5h1.8285zm0 4.5v6h5.25c-1.0575-1.821-2.3175-3.831-3.4215-6zm0 6h-5.25c-0.2505 0.432-0.531 0.855-0.75 1.266v4.734h6zm0 6v6h4.5c0.5715-0.429 1.071-0.9285 1.5-1.5v-4.5z" fill="#777"/>

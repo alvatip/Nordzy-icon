@@ -1,14 +1,11 @@
 <svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text {
-        color:#2e3440;
-      }
-      .ColorScheme-NeutralText {
-        color:#d08770;
-      }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
  </defs>
- <g transform="translate(-421.71 -531.79)" fill="#2e3440">
-  <g transform="matrix(.75 0 0 .75 421.46 -241.23)" fill="#2e3440">
+ <g transform="translate(-421.71 -531.79)" fill="currentColor">
+  <g transform="matrix(.75 0 0 .75 421.46 -241.23)" fill="currentColor">
    <path class="ColorScheme-NeutralText" d="m3 1033.4v16h16v-16zm2.6667 2.6667h10.667v10.667l-10.667-1e-4z"/>
    <path class="ColorScheme-Text" d="m4.3333 1034.7 5.9e-6 13.333h13.333v-13.333zm1.3333 1.3334h10.667v10.667h-10.667z"/>
   </g>
