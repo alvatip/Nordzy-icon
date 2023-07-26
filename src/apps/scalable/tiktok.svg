@@ -5,7 +5,7 @@
    version="1.1"
    id="svg2622"
    sodipodi:docname="tiktok.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,11 +25,13 @@
      inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1050"
-     inkscape:window-x="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2622" />
+     inkscape:current-layer="svg2622"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs2606">
     <linearGradient
@@ -38,7 +40,7 @@
        x2="7.937"
        y1="15.081"
        y2="1.852"
-       gradientTransform="scale(3.7796)"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-0.5,-0.4690001)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -93,14 +95,15 @@
      preserveAspectRatio="none"
      id="image2610" />
   <rect
-     width="56.002"
-     height="56.002"
-     x="4"
-     y="3.969"
+     width="57"
+     height="57"
+     x="3.5"
+     y="3.5"
      fill="url(#a)"
-     rx="13.002"
-     ry="13.002"
-     id="rect2612" />
+     rx="11.339"
+     ry="11.339"
+     id="rect2612"
+     style="fill:url(#a)" />
   <path
      id="path3174"
      style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:0.133019;filter:url(#filter3415)"

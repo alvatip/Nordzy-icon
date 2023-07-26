@@ -5,7 +5,7 @@
    version="1.1"
    id="svg22"
    sodipodi:docname="discord.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,14 +21,16 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      inkscape:zoom="9.96875"
-     inkscape:cx="32"
+     inkscape:cx="16.351097"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1050"
-     inkscape:window-x="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
+     inkscape:current-layer="svg22"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#505050" />
   <defs
      id="defs12">
     <linearGradient
@@ -37,7 +39,7 @@
        x2="7.937"
        y1="15.081"
        y2="1.852"
-       gradientTransform="scale(3.7796)"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-0.5,-0.4690001)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -79,14 +81,15 @@
      preserveAspectRatio="none"
      id="image14" />
   <rect
-     width="56.002"
-     height="56.002"
-     x="4"
-     y="3.969"
+     width="57"
+     height="57"
+     x="3.5"
+     y="3.5"
      fill="url(#a)"
-     rx="13.002"
-     ry="13.002"
-     id="rect16" />
+     rx="11.339"
+     ry="11.339"
+     id="rect16"
+     style="fill:url(#a)" />
   <image
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAnCAYAAABJ0cukAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA0FJREFUWIXVmOGS2zAIhHHi6/u/ 713s/mj2svkESOk005YZjx1HoF0ECDniP5ftDbrnm/RS2V8cvyXPuq8CWNFbJrNKwCfdkt+a9LRn vxN0p+fgp0RWCGy4LrgTyNFMvKJ3RO6M3yLgoP262rOAVAAyW+4Q6RwRccOzpCTRESD4/Q5cd733 SZxEJlw9iYP/MvAiU5KoCHisCvweER8TAh4OlV2GkAO93f//vL//MptarSUCPpm8/sOIiABLopOo bBK89I6EnNtKnZIRyELHV4DeZzlc3QeoR3LMqbTsdiEk72sFdvvNUnrGCGxFfKyvqCf2NZqVJQGW yysuVpAMyKtC3WxekRlW4RK5MP478H9KMud1+RYRdQ6w3jNsJFm8z8jNdDTPNX5VJc+5YZPcE8Us fOj5lYStyK4kuZMQlluGIcsB7rrccSW+4yqJuxA7k4tOy3D4ClwCydyFUBf3By4ZrEifiQ6Bht1J rHLiN4GuYWOi+66pbf+MZ+I7JhMBjffarvGSC54d/BDKVQhlTZeAOJhPAyQw7hCBEeGb6ZzxSEzX ycKxXIUuiTPviwQBiYCvBFtikdYlAhHPIUupVqFMYnq9Kp+M6y3GxOZ41/Eeh2QrDAOWjPGsmrxb OGeLpwqhGQmWOYZe1mpQ54wmtlcxdd1oJaw2EY/lzzY/6ain+cD7abtgYwfZmz87j4hAxKOS6P0e o1eV1Dt++46frRyxtCE0E1YZGhewKox8kzrwnivwXWVmeBgC/kwDfvBwIoz1Lp55CNIzPZzNnX5y yVaAh/Pq5JUB5P9ZKdXY6oNWtmkuHWhYq3XAVkvLcdkXiJW9g8SUQyzpZzx2eW8/nlpqEvAeh80Y vwF5T+SAyoSL0YuqTr4juyOFRdeNNioC7H94kM+aM/Y0EWNYsY1mdfJxalXUc7ERfCLg3138q5gM sVaTgH+/ceAZAb33UhyJbSeQgR+S2HsT/dZXAd0ZVpVxB0/7TsAT1O06AV0HxgcJkAST2tsGjc2M r4g87fZpNzs0DZWo2rpZTbIzArvRtMw19r038vBhhauqV0ugIsLy6BOmE0wIdDZb4AS4MmE1fjrJ O21eZwMW5FXgf8vmvyk/AT6di2hTY4iIAAAAAElFTkSuQmCC"
      width="48"

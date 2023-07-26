@@ -11,7 +11,7 @@ browsers=('chrome' 'edge' 'vivaldi' 'brave' 'opera')
 # Help message
 display_help() {
 cat << EOF
-$0 takes an app icon in the src directory and creates various symlinks to make it work as an icon for progressive web apps.
+$(basename $0) takes an app icon in the src directory and creates various symlinks to make it work as an icon for progressive web apps.
 Usage: $0 [options]
 Options:
   -h, --help           Display this help message
@@ -75,10 +75,12 @@ fi
 icon_name=$(basename "$file")
 cp "$file" "$out_dir/$icon_name"
 
+
 # Create symlinks for each browser
+cd $out_dir
 for browser in "${browsers[@]}"; do
   symlink_name="${browser}-${id}-Default.svg"
-  ln -s "$out_dir/$icon_name" "$out_dir/$symlink_name"
+  ln -s "$icon_name" "../../../links/apps/scalable/$symlink_name"
 done
 
 echo "PWA links created successfully."
