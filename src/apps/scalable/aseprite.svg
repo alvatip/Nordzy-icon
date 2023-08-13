@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1178" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.30691955"/>
+  </filter>
+  <linearGradient id="linearGradient1340" x1="8.5011" x2="8.489" y1="16.007" y2=".79375" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3440" offset="0"/>
+   <stop stop-color="#4c566a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1010" x1="8.2291" x2="8.2291" y1="2.7647" y2="14.063" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eceff4" offset="0"/>
+   <stop stop-color="#d8dee9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1183" x1="8.4308" x2="8.4308" y1="4.9779" y2="9.3848" gradientTransform="translate(.035756)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4c566a" offset="0"/>
+   <stop stop-color="#2e3440" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect x=".92604" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
+  <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
+  <rect x="2.4341" y="2.4341" width="12.065" height="12.065" rx="2.4" ry="2.4" fill="url(#linearGradient1010)" stroke-width=".98192"/>
+ </g>
+ <text x="26.956491" y="17.323977" font-family="'Abyssinica SIL'" font-size="2.8222px" font-weight="bold" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="26.956491" y="17.323977" font-family="'Abyssinica SIL'" font-weight="bold" stroke-width=".26458"/></text>
+ <path d="m14.499 12.099c0 1.3296-1.0704 2.4-2.4 2.4h-7.265c-1.3296 0-2.4-1.0704-2.4-2.4v-1.0601c0 1.4346 3.0162 1.9494 6.0325 1.9528 3.0162 0.0034 6.0325-0.50454 6.0325-1.9572z" fill="#2e3440" opacity=".51133" stroke-linecap="round" stroke-linejoin="round" stroke-width=".98192"/>
+ <path d="m6.0244 4.9779c-0.28244 0-0.51004 0.23051-0.51004 0.51675v3.3734c0 0.28624 0.2276 0.51675 0.51004 0.51675h0.27078c0.28244 0 0.51004-0.23051 0.51004-0.51675v-3.3734c0-0.28624-0.2276-0.51675-0.51004-0.51675zm4.6141 0c-0.28244 0-0.51004 0.23051-0.51004 0.51675v3.3734c0 0.28624 0.2276 0.51675 0.51004 0.51675h0.27078c0.28244 0 0.50952-0.23051 0.50952-0.51675v-3.3734c0-0.28624-0.22708-0.51675-0.50952-0.51675z" fill="url(#linearGradient1183)" stroke-width=".21777"/>
+</svg>
