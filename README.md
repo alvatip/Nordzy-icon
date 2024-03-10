@@ -13,15 +13,19 @@ Dark variants are more appropriate for dark desktop environments, while the norm
 
 ## Table of contents
 
-- [Preview](#preview)
-- [Installation](#installation)
-- [Uninstallation](#uninstallation)
-- [Creating icons](https://github.com/alvatip/Nordzy-icon/tree/main/tools#creating-icons)
-- [Other ressources](#other-ressources)
-- [Contributing](#contributing)
-- [Icon request](#icon-request)
-- [Support the author](#support-the-author)
-- [License](#license)
+- [Nordzy Icon Theme](#nordzy-icon-theme)
+  - [Table of contents](#table-of-contents)
+  - [Preview](#preview)
+  - [Installation](#installation)
+    - [Installer](#installer)
+    - [tar.gz file](#targz-file)
+    - [Also available](#also-available)
+  - [Uninstallation](#uninstallation)
+  - [Using AppImageLauncher?](#using-appimagelauncher)
+  - [Icon request](#icon-request)
+  - [Contributing](#contributing)
+  - [Support the author](#support-the-author)
+  - [License](#license)
 
 
 ## Preview
@@ -78,6 +82,9 @@ Alternatively, you can use the tar.gz files located in the release section and e
   </a>
   <a href="https://copr.fedorainfracloud.org/coprs/alvatip/Nordzy-icon/" >
     <img title="Nordzy-icon Fedora Copr" width="350em" src="art/banner/fedora_copr_banner.png">
+  </a>
+  <a href="https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=nordzy" >
+    <img title="Nordzy-icon Nix" width="350em" src="art/banner/nix_banner.png">
   </a>
 </p> 
 
