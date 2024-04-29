@@ -91,6 +91,105 @@ change_panel(){
   fi
 }
 
+# Script to change the color of the specified SVG/icon
+# This function is used with apply_plain_color to change all colors to a non nord version of the theme.
+substitute_color (){
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/actions/{16,22,24,32,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/animations/{16,22,24}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/apps/{scalable,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/categories/{32,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/devices/{16,22,24,scalable,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/emblems/{16,22,24,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/mimes/{16,22,scalable,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/places/{16,22,24,scalable,symbolic}/*
+	sed -i "s/$1/$2/g" "${THEME_DIR}"/status/{16,22,24,32,scalable}/*
+}
+
+# Using the substitute_color function, this function will replace all the Nord Color with Plain colors.
+apply_plain_color(){
+    echo "Converting Nord colors to plain colors ..."
+    #dark1
+    substitute_color "#2e3440" "#000000"
+
+    #dark2
+    substitute_color "#3b4252" "#241f31"
+
+    #dark3
+    substitute_color "#434c5e" "#3d3846"
+
+    #dark4
+    substitute_color "#4c566a" "#5e5c64"
+
+    #dark5
+    substitute_color "#7b88a1" "#77767b"
+
+    #dark6
+    substitute_color "#a6aebf" "#9a9996"
+
+    #light3
+    substitute_color "#d8dee9" "#deddda"
+
+    #light2
+    substitute_color "#e5e9f0" "#f6f5f4"
+
+    #light1
+    substitute_color "#eceff4" "#ffffff"
+
+    #blue
+    substitute_color "#81a1c1" "#3584e4"
+
+    #bluedark
+    substitute_color "#5e81ac" "#1a5fb4"
+
+    #yellow
+    substitute_color "#ebcb8b" "#f6d32d"
+
+    #yellowdark
+    substitute_color "#eac57b" "#e5a50a"
+
+    #turquoise
+    substitute_color "#8fbcbb" "#37c8ab"
+
+    #red
+    substitute_color "#bf616a" "#e01b24"
+
+    #reddark
+    substitute_color "#b54a55" "#a51d2d"
+
+    #purple
+    substitute_color "#b48ead" "#9141ac"
+
+    #purpledark
+    substitute_color "#ad85a5" "#613583"
+
+    #pink
+    substitute_color "#dbc7c5" "#dc8add"
+
+    #orange
+    substitute_color "#d08770" "#ff7800"
+
+    #green
+    substitute_color "#a3be8c" "#33d17a"
+
+    #greendark
+    substitute_color "#97b67c" "#26a269"
+
+    #cyan
+    substitute_color "#88c0d0" "#00b7eb"
+
+    #brown1
+    substitute_color "#6b5756" "#63452c"
+
+    #brown2
+    substitute_color "#8c7e75" "#865e3c"
+
+    #brown3
+    substitute_color "#a88279" "#b5835a"
+
+    #brown4
+    substitute_color "#c4b0a7" "#cdab8f"
+}
+
 # change the color of the theme when specified
 # use: theme_color $theme
 theme_color() {
@@ -139,6 +238,12 @@ install() {
       # Panel color must be light
       change_panel light
     fi
+
+    # If we want the color to be converted to plain colors.
+    if [[ ${plain_color} = 'TRUE' ]]; then
+        # Call the function apply_plain_color
+        apply_plain_color
+    fi
   fi
   if [[ ${color} == '-dark' ]]; then
     # Install base theme
@@ -151,6 +256,12 @@ install() {
     if [[ ${panel} == 'TRUE' ]]; then
       # Panel color must be light
       change_panel dark
+    fi
+
+    # If we want the color to be converted to plain colors.
+    if [[ ${plain_color} = 'TRUE' ]]; then
+        # Call the function apply_plain_color
+        apply_plain_color
     fi
   fi
 
@@ -297,6 +408,10 @@ while [[ "$#" -gt 0 ]]; do
     -h|--help)
       usage
       exit 0
+      ;;
+    -v|--variant)
+      plain_color='TRUE'
+      shift
       ;;
     *)
       error_msg 'installation' ${1}
