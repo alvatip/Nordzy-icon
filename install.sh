@@ -58,7 +58,7 @@ EOF
 base_theme(){
   mkdir -p                                                                               ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
   cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
-  cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable}                                     ${THEME_DIR}/status
+  cp -r ${SRC_DIR}/src/status/{16,22,24,32,scalable,symbolic}                            ${THEME_DIR}/status
   cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
 }
 
@@ -72,7 +72,7 @@ change_color(){
     done
   done
   sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/actions/32/*
-  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places}/symbolic/*
+  sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
 }
 
 # Change the color of the icons panel from dark to light (light) or from light to dark (dark)
@@ -84,10 +84,10 @@ change_panel(){
   # if panel option is not specified, then nothing happens
   if [[ ${1} == 'light' ]] ; then
     # switch from dark to light
-    sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/status/{16,22,24}/*
+    sed -i "s/${hex_dark}/${hex_white}/g" "${THEME_DIR}"/status/{16,22,24,symbolic}/*
   else
     # switch from light to dark
-    sed -i "s/${hex_white}/${hex_dark}/g" "${THEME_DIR}"/status/{16,22,24}/*
+    sed -i "s/${hex_white}/${hex_dark}/g" "${THEME_DIR}"/status/{16,22,24,symbolic}/*
   fi
 }
 
