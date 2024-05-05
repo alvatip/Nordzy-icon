@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <path d="m6 4h3v16h-3z" fill="#d08770"/>
- <path d="m12 4h3v16h-3z" fill="#88ac6c"/>
+ <path d="m12 4h3v16h-3z" fill="#97b67c"/>
  <path d="m18 4h3v16h-3z" fill="#5e81ac"/>
  <path d="m3 4h3v16h-3z" fill="#ebcb8b"/>
  <path d="m15 4h3v16h-3z" fill="#81a1c1"/>
  <path d="m9 4h3v16h-3z" fill="#a3be8c"/>
+ <path d="m12 4h3v16h-3z" fill="#2e3440" opacity=".1"/>
 </svg>

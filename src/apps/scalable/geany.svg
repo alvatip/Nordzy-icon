@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.30691668"/>
   </filter>
   <linearGradient id="linearGradient1340" x1="14.885" x2="1.895" y1="14.724" y2="2.2241" gradientTransform="translate(-4.0158e-5)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#e5bb66" offset="0"/>
-   <stop stop-color="#efd29a" offset="1"/>
+   <stop stop-color="#eac57b" offset="0"/>
+   <stop stop-color="#ebcb8b" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient2156" x1="5.4447" x2="-22.104" y1="11.226" y2="11.226" gradientUnits="userSpaceOnUse">
    <stop stop-color="#bf616a" offset="0"/>
@@ -24,7 +25,7 @@
   </filter>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
   <rect x=".926" y=".92604" width="15.081" height="15.081" rx="3" ry="3" fill="url(#linearGradient1340)" stroke-width="1.2274"/>
   <rect x=".01215" y=".0060174" width="16.924" height="16.927" fill="none" opacity=".15" stroke-width="1.052"/>
  </g>

@@ -54,16 +54,16 @@
    <stop stop-color="#D8DEE9" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear_5_2" x1="45.442" x2="45.442" y1="31.999" y2="3.3978" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#EBCB8B" offset="0"/>
-   <stop stop-color="#D08770" offset="1"/>
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
   <linearGradient id="paint2_linear_5_2" x1="18.69" x2="18.69" y1="31.999" y2="3.3231" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#EBCB8B" offset="0"/>
-   <stop stop-color="#D08770" offset="1"/>
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
   <linearGradient id="paint3_linear_5_2" x1="18.258" x2="18.258" y1="60.538" y2="31.999" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#EBCB8B" offset="0"/>
-   <stop stop-color="#D08770" offset="1"/>
+   <stop stop-color="#ebcb8b" offset="0"/>
+   <stop stop-color="#d08770" offset="1"/>
   </linearGradient>
   <clipPath id="clipPath438">
    <rect width="64" height="64" fill="#fff"/>

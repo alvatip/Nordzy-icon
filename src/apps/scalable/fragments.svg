@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="filter1178" x="-.047999" y="-.047999" width="1.096" height="1.096" color-interpolation-filters="sRGB">
@@ -5,7 +6,7 @@
   </filter>
  </defs>
  <g stroke-linecap="round" stroke-linejoin="round">
-  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" fill="#000000" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
+  <rect transform="matrix(.99138 0 0 1 .072989 .0019055)" x=".79375" y=".90545" width="15.346" height="15.346" rx="3.0526" ry="3.0526" filter="url(#filter1178)" opacity=".15" stroke-width="1.2489" style="mix-blend-mode:normal"/>
   <g stroke-width="1.2274">
    <path d="m6.8731 16.007h-2.9471c-0.83086 0-1.5808-0.33439-2.123-0.87648l6.6635-6.664 2.9735 2.9735" fill="#88c0d0"/>
    <path d="m11.44 11.44 3.6903 3.6903c-0.54225 0.54225-1.2922 0.87675-2.1232 0.87675h-6.1339" fill="#81a1c1"/>
@@ -30,7 +31,7 @@
  </g>
  <g stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2274">
   <path d="m0.92604 9.9845v-6.0585c0-0.831 0.3345-1.581 0.87675-2.1232l3.6525 3.6525-2.2646 2.2646z" fill="#2e3440" opacity=".15"/>
-  <path d="m2.5911 8.3195 3.0112 3.0112-3.7995 3.7996c-0.54225-0.54225-0.87675-1.2922-0.87675-2.1232v-3.0225" fill="#be9db7"/>
+  <path d="m2.5911 8.3195 3.0112 3.0112-3.7995 3.7996c-0.54225-0.54225-0.87675-1.2922-0.87675-2.1232v-3.0225" fill="#b48ead"/>
   <path d="m6.8731 16.007h-2.9471c-0.83086 0-1.5808-0.33439-2.123-0.87648l6.6635-6.664 2.9735 2.9735" fill="#88c0d0"/>
   <path d="m2.5911 8.3195 3.0112 3.0112-3.7995 3.7996c-0.54225-0.54225-0.87675-1.2922-0.87675-2.1232v-3.0225" fill="#2e3440" opacity=".15"/>
   <path d="m5.6801 16.007h-1.754c-0.83086 0-1.5808-0.33439-2.123-0.87648l3.7993-3.7998 0.077765 4.6763" fill="#b48ead" opacity=".5"/>
