@@ -1,4 +1,9 @@
-<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
+ </defs>
  <g fill="#88c0d0">
   <path d="M3 3v16h16V3H3zm1 1h14v12H4V4zm0 13h14v1H4v-1z"/>
   <path d="M6 5v4h4V5H6zm6 0v4h4V5h-4zm-6 6v4h4v-4H6zm6 0v4h4v-4h-4z" stroke-width="2"/>

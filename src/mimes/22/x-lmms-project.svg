@@ -1,5 +1,10 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
+ </defs>
+ <defs>
   <linearGradient id="linearGradient204" x1="8.4296" x2="8.5878" y1="3.1868" y2="13.84" gradientTransform="matrix(1.5988 0 0 1.5988 -2.5367 -2.5364)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#a3be8c" offset="0"/>
    <stop stop-color="#97b67c" offset="1"/>

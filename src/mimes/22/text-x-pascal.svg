@@ -1,4 +1,9 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
+ </defs>
  <g transform="translate(-326 -534.36)" fill="#dbc7c5">
   <path d="m335 538.31v14.052h1v-7.361a4 4 0 0 0 3 1.361 4 4 0 1 0 0-8 4 4 0 0 0-3 1.362v-1.415h-1zm4 1.052a3 3 0 1 1 0 6 3 3 0 0 1 0-6z"/>
   <circle cx="331" cy="544.36" r="1" stroke-width="2"/>

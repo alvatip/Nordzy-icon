@@ -1,3 +1,8 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
+ </defs>
  <path d="M2 3c-.554 0-1 .446-1 1v8c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V4c0-.554-.446-1-1-1zm0 1h.293l3.641 3.641L2.198 12h-.197zm1.707 0h8.586L8 8.293zm10 0H14v8h-.197l-3.736-4.359zm-7.06 4.35l1.357 1.357L9.361 8.35 12.488 12H3.517z" fill="#5e81ac"/>
 </svg>

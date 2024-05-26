@@ -1,5 +1,10 @@
-<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-326 -534.36)" fill="#4c566a" stroke-width="2">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#2e3440; } .ColorScheme-Highlight { color:#88c0d0; } .ColorScheme-NeutralText { color:#d08770; } .ColorScheme-PositiveText { color:#a3be8c; } .ColorScheme-NegativeText { color:#bf616a; }
+  </style>
+ </defs>
+ <g transform="translate(-326 -534.36)" class="ColorScheme-Text" fill="currentColor" stroke-width="2">
   <path d="m331 537.36v16h15v-16h-15zm1 1h13v14h-13v-14z"/>
   <rect x="333" y="543.36" width="5" height="5" rx="0"/>
   <rect x="333" y="550.36" width="11" height="1" rx="0"/>
